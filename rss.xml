@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
 <title>联合早报 · 聚合 RSS</title>
 <link>https://www.zaobao.com.sg/</link>
-<description>等待 GitHub Actions 首次更新</description>
-</channel></rss>
+<description>联合早报：中国、国际、新加坡、财经新闻聚合</description>
+<language>zh-CN</language>
+<lastBuildDate>Sat, 17 Oct 2026 14:52:57 +0000</lastBuildDate>
+<atom:link href="https://gjw2011.github.io/zaobao-rss/rss.xml" rel="self" type="application/rss+xml"/>
+</channel>
+</rss>
