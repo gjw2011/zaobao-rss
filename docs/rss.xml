@@ -1,431 +1,226 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-<title>联合早报 · 聚合 RSS</title>
-<link>https://www.zaobao.com.sg/</link>
-<description>联合早报即时新闻：新加坡、中国、国际、财经</description>
-<language>zh-CN</language>
-<lastBuildDate>Sat, 17 Oct 2026 15:04:31 +0000</lastBuildDate>
-<atom:link href="https://gjw2011.github.io/zaobao-rss/rss.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>图管局通过侦探游戏 引导公众识别假信息与AI虚假内容</title>
-<link>https://www.zaobao.com.sg/news/singapore/story20261017-9853701</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9853701</guid>
-<category>新加坡</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>本地首推“护心急救认证” 助职场员工及时应对心脏骤停</title>
-<link>https://www.zaobao.com.sg/news/singapore/story20261017-9853045</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9853045</guid>
-<category>新加坡</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>中医业者欢迎中医认证计划 树立超越执照新标杆</title>
-<link>https://www.zaobao.com.sg/news/singapore/story20261017-9853378</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9853378</guid>
-<category>新加坡</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>马炎庆：华族文化独具特色 年轻一代接棒需各方支持</title>
-<link>https://www.zaobao.com.sg/news/singapore/story20261017-9853191</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9853191</guid>
-<category>新加坡</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>消协：慎购二手防霾用品 本地口罩库存充足正补货</title>
-<link>https://www.zaobao.com.sg/news/singapore/story20261017-9853477</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9853477</guid>
-<category>新加坡</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>星期天PSI预计介于150至220点 下周我国迎阵雨</title>
-<link>https://www.zaobao.com.sg/news/singapore/story20261017-9853490</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9853490</guid>
-<category>新加坡</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>“达人青少年学院”启动 资助50名儿童培养艺术才华</title>
-<link>https://www.zaobao.com.sg/news/singapore/story20261017-9852844</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9852844</guid>
-<category>新加坡</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>工业区太阳能可供22万四房式组屋用电一年 裕廊集团拟扩大部署</title>
-<link>https://www.zaobao.com.sg/news/singapore/story20261017-9849385</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9849385</guid>
-<category>新加坡</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>【红蚂蚁】新马与印尼的阴霾 外交上一本难念的经</title>
-<link>https://www.zaobao.com.sg/news/singapore/story20261017-9852924</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9852924</guid>
-<category>新加坡</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>南大前校长徐冠林传记发布 一生轨迹见证教育与国防科研发展</title>
-<link>https://www.zaobao.com.sg/news/singapore/story20261017-9852093</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9852093</guid>
-<category>新加坡</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>中纪委强调只要涉腐就没有“平安着陆”　分析：黄奇帆案或在敲打退休干部</title>
-<link>https://www.zaobao.com.sg/news/china/story20261017-9853365</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261017-9853365</guid>
-<category>中国</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>潘功胜：支持IMF加强监测发达经济体财政风险</title>
-<link>https://www.zaobao.com.sg/news/china/story20261017-9853920</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261017-9853920</guid>
-<category>中国</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>中国AI代理被指首现“失控”行为 官方提守牢AI安全底线</title>
-<link>https://www.zaobao.com.sg/news/china/story20261017-9853004</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261017-9853004</guid>
-<category>中国</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>花旗：中国AI供应链企业IPO料顶住估值回调压力</title>
-<link>https://www.zaobao.com.sg/news/china/story20261017-9853286</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261017-9853286</guid>
-<category>中国</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>中国新任驻基里巴斯大使姚飞履新</title>
-<link>https://www.zaobao.com.sg/news/china/story20261017-9853074</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261017-9853074</guid>
-<category>中国</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>饶毅指美国期刊《癌细胞》主编涉索贿 吁中国科学家抵制</title>
-<link>https://www.zaobao.com.sg/news/china/story20261017-9853020</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261017-9853020</guid>
-<category>中国</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>台中经院上修经济增长率超12% 创38年新高</title>
-<link>https://www.zaobao.com.sg/news/china/story20261017-9852983</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261017-9852983</guid>
-<category>中国</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>中国17岁天才少年离职月之暗面赴美</title>
-<link>https://www.zaobao.com.sg/news/china/story20261017-9852709</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261017-9852709</guid>
-<category>中国</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>洛阳官方辟谣当地挖到传国玉玺</title>
-<link>https://www.zaobao.com.sg/news/china/story20261017-9852692</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261017-9852692</guid>
-<category>中国</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>中国人民志愿军老兵“活烈士”庞兴海逝世享年96岁</title>
-<link>https://www.zaobao.com.sg/news/china/story20261017-9852379</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261017-9852379</guid>
-<category>中国</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>斯里兰卡全国大停电六小时 疑因太阳能发电量过载</title>
-<link>https://www.zaobao.com.sg/news/world/story20261017-9854035</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261017-9854035</guid>
-<category>国际</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>IMF警告战争带来财政与能源粮食安全风险</title>
-<link>https://www.zaobao.com.sg/news/world/story20261017-9853523</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261017-9853523</guid>
-<category>国际</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic联合创始人：AI迅速发展可大幅增进美国经济产出</title>
-<link>https://www.zaobao.com.sg/news/world/story20261017-9853957</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261017-9853957</guid>
-<category>国际</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>不满对华日均逆差超10亿欧元 欧盟拟推新规强硬限制中国商品进口</title>
-<link>https://www.zaobao.com.sg/news/world/story20261017-9853866</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261017-9853866</guid>
-<category>国际</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>印度“蟑螂人民党”创始人被捕一天后获释</title>
-<link>https://www.zaobao.com.sg/news/world/story20261017-9853807</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261017-9853807</guid>
-<category>国际</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>埃及总统塞西承诺2030年卸任 强调不再修宪</title>
-<link>https://www.zaobao.com.sg/news/world/story20261017-9853702</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261017-9853702</guid>
-<category>国际</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>利息支出激增与关税退款拖累 美国赤字飙升至1.99万亿美元创五年新高</title>
-<link>https://www.zaobao.com.sg/news/world/story20261017-9853556</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261017-9853556</guid>
-<category>国际</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>普京划安全区全掌控顿涅茨克 特朗普对俄放宽制裁加剧美乌破裂</title>
-<link>https://www.zaobao.com.sg/news/world/story20261017-9853416</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261017-9853416</guid>
-<category>国际</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>日本气象厅称地震乌龙警报源于防误报功能失灵</title>
-<link>https://www.zaobao.com.sg/news/world/story20261017-9853454</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261017-9853454</guid>
-<category>国际</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>泽连斯基：俄军夜袭乌逾15个能源设施 美国助长气焰</title>
-<link>https://www.zaobao.com.sg/news/world/story20261017-9853186</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261017-9853186</guid>
-<category>国际</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>益资源：西加里曼丹火点主要集中在集团无营运地区</title>
-<link>https://www.zaobao.com.sg/finance/singapore/story20261017-9852782</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/finance/singapore/story20261017-9852782</guid>
-<category>新加坡</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>美联储进入静默期 市场对金价走势看法现分歧</title>
-<link>https://www.zaobao.com.sg/finance/singapore/story20261017-9853450</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/finance/singapore/story20261017-9853450</guid>
-<category>新加坡</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>升息预期走高推涨债务风险 CoreWeave股价大跌逾7%</title>
-<link>https://www.zaobao.com.sg/finance/world/story20261016-9850658</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/finance/world/story20261016-9850658</guid>
-<category>国际</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>万国公司拟收购加冷地段建私宅 土地总成本约10.1亿元</title>
-<link>https://www.zaobao.com.sg/finance/singapore/story20261016-9850435</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/finance/singapore/story20261016-9850435</guid>
-<category>新加坡</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>吉宝在胡志明市一宗仲裁程序已暂停 涉及3.3亿元额外土地使用费</title>
-<link>https://www.zaobao.com.sg/finance/singapore/story20261016-9850678</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/finance/singapore/story20261016-9850678</guid>
-<category>新加坡</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>中国官方促车企加强测试验证 守牢安全底线不夸大宣传</title>
-<link>https://www.zaobao.com.sg/finance/china/story20261016-9850585</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/finance/china/story20261016-9850585</guid>
-<category>中国</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>日本央行行长：将继续加息以将通胀率锚定于2%目标水平</title>
-<link>https://www.zaobao.com.sg/finance/world/story20261016-9850200</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/finance/world/story20261016-9850200</guid>
-<category>国际</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>周五美市期货分化 聚焦特斯拉新款“飞天跑车”</title>
-<link>https://www.zaobao.com.sg/finance/world/story20261016-9849865</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/finance/world/story20261016-9849865</guid>
-<category>国际</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>美债收益率高企 新加坡房地产信托或面临价值重估压力</title>
-<link>https://www.zaobao.com.sg/finance/singapore/story20261016-9828975</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/finance/singapore/story20261016-9828975</guid>
-<category>新加坡</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>小红书进驻国浩大厦 新加坡办公室正式启用</title>
-<link>https://www.zaobao.com.sg/finance/singapore/story20261016-9849368</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/finance/singapore/story20261016-9849368</guid>
-<category>新加坡</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>加里曼丹林火烟霾扩散至雅加达 医疗系统全面待命</title>
-<link>https://www.zaobao.com.sg/news/sea/story20261017-9853449</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261017-9853449</guid>
-<category>最新</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>马中同意重启引渡条约谈判  深化打击跨国网诈等合作</title>
-<link>https://www.zaobao.com.sg/news/sea/story20261017-9853427</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261017-9853427</guid>
-<category>最新</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>森州中学男生AI合成女同学不雅照 逾300女生受害</title>
-<link>https://www.zaobao.com.sg/news/sea/story20261017-9853603</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261017-9853603</guid>
-<category>最新</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>马国政府正式批准巴生港第三码头发展计划</title>
-<link>https://www.zaobao.com.sg/news/sea/story20261017-9853150</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261017-9853150</guid>
-<category>最新</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>马航恢复往返沙特吉达与麦地那航班</title>
-<link>https://www.zaobao.com.sg/news/sea/story20261017-9853279</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261017-9853279</guid>
-<category>最新</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>受洪灾影响泰航乘客可申领赔偿</title>
-<link>https://www.zaobao.com.sg/news/sea/story20261017-9853035</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261017-9853035</guid>
-<category>最新</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>马国前部长聂纳兹米涉嫌幽会被宗教局拘捕</title>
-<link>https://www.zaobao.com.sg/news/sea/story20261017-9852453</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261017-9852453</guid>
-<category>最新</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>亚细安监测机构对区域南部烟霾拉响最高级别警报</title>
-<link>https://www.zaobao.com.sg/news/sea/story20261017-9852026</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261017-9852026</guid>
-<category>最新</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>消息：美缅官员在日本东京再次会晤</title>
-<link>https://www.zaobao.com.sg/news/sea/story20261017-9851359</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261017-9851359</guid>
-<category>最新</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>印尼野火持续肆虐 四消防员殉职逾27万人染呼吸道疾病</title>
-<link>https://www.zaobao.com.sg/news/sea/story20261016-9849105</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261016-9849105</guid>
-<category>最新</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>内托双响马丁内斯伤退 切尔西破埃弗顿英超不败金身</title>
-<link>https://www.zaobao.com.sg/news/sports/story20261017-9853833</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261017-9853833</guid>
-<category>最新</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>莫里尼奥力挺维尼修斯：若换是我或已离开皇马</title>
-<link>https://www.zaobao.com.sg/news/sports/story20261017-9853633</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261017-9853633</guid>
-<category>最新</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>烟霾来袭运动不停 室内轻松挥洒汗水</title>
-<link>https://www.zaobao.com.sg/news/sports/story20261017-9848586</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261017-9848586</guid>
-<category>最新</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>曼联内忧外患 英超客战利兹恐遭落井下石</title>
-<link>https://www.zaobao.com.sg/news/sports/story20261017-9852926</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261017-9852926</guid>
-<category>最新</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>39岁瓦尔迪踢入重返英足坛首球 连续20年进球</title>
-<link>https://www.zaobao.com.sg/news/sports/story20261017-9853046</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261017-9853046</guid>
-<category>最新</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>马雷斯卡：财务违规风波让曼市更团结 希望看到更多充气香蕉</title>
-<link>https://www.zaobao.com.sg/news/sports/story20261017-9852816</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261017-9852816</guid>
-<category>最新</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>因球迷高喊歧视口号被罚 西班牙上诉遭国际足联驳回</title>
-<link>https://www.zaobao.com.sg/news/sports/story20261017-9852392</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261017-9852392</guid>
-<category>最新</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>不满被比作纳粹 皇马要西甲主席立即下台</title>
-<link>https://www.zaobao.com.sg/news/sports/story20261017-9852157</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261017-9852157</guid>
-<category>最新</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>与LIV高尔夫分道扬镳 前世界第一拉姆弃7500万英镑欠款“净身出户”</title>
-<link>https://www.zaobao.com.sg/news/sports/story20261017-9852112</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261017-9852112</guid>
-<category>最新</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-<item>
-<title>武网女单四强出炉 伊加与同胞玛雅争决赛门票</title>
-<link>https://www.zaobao.com.sg/news/sports/story20261016-9850685</link>
-<guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261016-9850685</guid>
-<category>最新</category>
-<pubDate>Sat, 17 Oct 2026 15:04:31 +0000</pubDate>
-</item>
-</channel>
-</rss>
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://purl.org/rss/1.0/modules/content/" version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>联合早报 RSS</title><link>https://www.zaobao.com.sg</link><description>联合早报新闻 RSS</description><language>zh-CN</language><lastBuildDate>Sat, 17 Oct 2026 17:35:15 +0000</lastBuildDate><item><title>李资政吁工会与雇主紧密合作 助港口蓬勃发展也保工友生计</title><link>https://www.zaobao.com.sg/news/singapore/story20261018-9853630</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261018-9853630</guid><pubDate>Sun, 18 Oct 2026 00:37:00 +0000</pubDate><category>最新</category><description>新加坡的海港须紧跟科技变革的步伐，将新挑战转化为新机遇，而工会在这不断革新的过程中至关重要。劳资政三方须紧密合作，才能确保港口持续取得成功，并切实保障工友生计。</description><ns0:encoded>新加坡的海港须紧跟科技变革的步伐，将新挑战转化为新机遇，而工会在这不断革新的过程中至关重要。劳资政三方须紧密合作，才能确保港口持续取得成功，并切实保障工友生计。</ns0:encoded></item><item><title>分别击败前世界第一与法网前冠军 两黑马玛雅与索纳伊争武网冠军</title><link>https://www.zaobao.com.sg/news/sports/story20261018-9854086</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261018-9854086</guid><pubDate>Sun, 18 Oct 2026 00:24:00 +0000</pubDate><category>最新</category><description>波兰球员玛雅·赫瓦林斯卡（Maja Chwalinska）星期六（10月17日）以2比0战胜同胞兼好友伊加·斯瓦泰克（Iga Swiatek），职业生涯首次击败世界前10球员。同时，她首次打进国际女子网球协会（WTA）1000级别赛事女单决赛。</description><ns0:encoded>波兰球员玛雅·赫瓦林斯卡（Maja Chwalinska）星期六（10月17日）以2比0战胜同胞兼好友伊加·斯瓦泰克（Iga Swiatek），职业生涯首次击败世界前10球员。同时，她首次打进国际女子网球协会（WTA）1000级别赛事女单决赛。</ns0:encoded></item><item><title>ActiveSG户外设施恢复开放 星期日风向稍转烟霾料减少</title><link>https://www.zaobao.com.sg/news/singapore/story20261018-9853656</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261018-9853656</guid><pubDate>Sun, 18 Oct 2026 00:01:00 +0000</pubDate><category>最新</category><description>部分ActiveSG运动设施因空气污染严重关闭三天后，星期六（10月17日）恢复开放。受场地关闭影响的公众，将自动获得退款。</description><ns0:encoded>部分ActiveSG运动设施因空气污染严重关闭三天后，星期六（10月17日）恢复开放。受场地关闭影响的公众，将自动获得退款。</ns0:encoded></item><item><title>受超强厄尔尼诺现象影响 热带海洋生物现身加州近海</title><link>https://www.zaobao.com.sg/news/world/story20261017-9854097</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261017-9854097</guid><pubDate>Sat, 17 Oct 2026 23:57:00 +0000</pubDate><category>最新</category><description>随着异常强劲的厄尔尼诺现象改变着海水的温度，越来越多热带海洋生物开始现身美国加利福尼亚州海岸线，异域物种纷纷探访加州海岸线，为游客和研究人员带来新奇体验。</description><ns0:encoded>随着异常强劲的厄尔尼诺现象改变着海水的温度，越来越多热带海洋生物开始现身美国加利福尼亚州海岸线，异域物种纷纷探访加州海岸线，为游客和研究人员带来新奇体验。</ns0:encoded></item><item><title>因烟霾取消户外订位食客增多 餐饮业者叹生意下滑四成</title><link>https://www.zaobao.com.sg/news/singapore/story20261017-9853882</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9853882</guid><pubDate>Sat, 17 Oct 2026 23:51:00 +0000</pubDate><category>最新</category><description>我国空气素质持续在“不健康”和“非常不健康”水平徘徊，受访户外餐饮业者反映，因烟霾关系，本周末的生意预计下滑多达四成。</description><ns0:encoded>我国空气素质持续在“不健康”和“非常不健康”水平徘徊，受访户外餐饮业者反映，因烟霾关系，本周末的生意预计下滑多达四成。</ns0:encoded></item><item><title>亚残运会提前打响 我国硬地滚球与乒乓健儿获开门红</title><link>https://www.zaobao.com.sg/news/sports/story20261017-9852197</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261017-9852197</guid><pubDate>Sat, 17 Oct 2026 23:24:00 +0000</pubDate><category>最新</category><description>爱知—名古屋亚洲残疾人运动会即将在星期天（10月18日）正式拉开帷幕，但部分赛事的烽火已提前点燃。新加坡六健儿在星期六（17日）举行的残障羽毛球、硬地滚球及乒乓球项目中披甲上阵，战果喜忧参半。</description><ns0:encoded>爱知—名古屋亚洲残疾人运动会即将在星期天（10月18日）正式拉开帷幕，但部分赛事的烽火已提前点燃。新加坡六健儿在星期六（17日）举行的残障羽毛球、硬地滚球及乒乓球项目中披甲上阵，战果喜忧参半。</ns0:encoded></item><item><title>上海网球大师赛爆双冷门 兹维列夫与梅德韦杰夫止步四强</title><link>https://www.zaobao.com.sg/news/sports/story20261017-9852198</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261017-9852198</guid><pubDate>Sat, 17 Oct 2026 23:14:00 +0000</pubDate><category>最新</category><description>2026年上海网球大师赛星期六（10月17日）展开男单半决赛的激烈较量。本届赛事的两名夺冠大热门遭遇滑铁卢，头号种子兹维列夫（Zverev）与五号种子梅德韦杰夫（Medvedev）皆意外出局，遗憾止步四强赛。</description><ns0:encoded>2026年上海网球大师赛星期六（10月17日）展开男单半决赛的激烈较量。本届赛事的两名夺冠大热门遭遇滑铁卢，头号种子兹维列夫（Zverev）与五号种子梅德韦杰夫（Medvedev）皆意外出局，遗憾止步四强赛。</ns0:encoded></item><item><title>太阳能发太猛 电网也“吃不消”？斯里兰卡全国停电六小时</title><link>https://www.zaobao.com.sg/news/world/story20261017-9854035</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261017-9854035</guid><pubDate>Sat, 17 Oct 2026 22:59:00 +0000</pubDate><category>最新</category><description>斯里兰卡国家电网疑因电力过载发生故障，导致全国陷入长达六小时的大停电。
+
+法新社报道，故障发生在星期六（10月17日）中午时分，直到傍晚，全国各地的电力供应才陆续恢复。
+
+斯里兰卡能源部长卡鲁纳蒂拉卡（Anura Karunathilaka）说，这场大停电的具体原因仍在调查中，但工程师怀疑，太阳能发电量可能超出了当时的实际用电需求，导致电网失衡跳闸。
+
+当局当天多次呼吁屋顶太阳能系统业主，切断系统与电网的连接以协助稳定电网后，供电系统才得以恢复运作。
+
+斯里兰卡电网曾在2025年2月的一个阳光明媚的星期天发生过类似事故，当时同样因太阳能发电量超过用电量而导致全岛瘫痪，耗时六个多小时才恢复供电。
+
+目前，斯里兰卡的太阳能装机容量略高于3000兆瓦（MW），而白天的用电需求介于2000兆瓦至2500兆瓦之间。
+
+斯里兰卡政府此前推出的税收优惠政策，鼓励了许多消费者改用太阳能并将多余电力卖回给电网，但这也造成了电力公司难以应对的电网不平衡问题。
+
+尽管如此，政府仍计划在三年内将太阳能发电能力提升至近4400兆瓦，比2024年大幅增长388%。</description><ns0:encoded>斯里兰卡国家电网疑因电力过载发生故障，导致全国陷入长达六小时的大停电。
+
+法新社报道，故障发生在星期六（10月17日）中午时分，直到傍晚，全国各地的电力供应才陆续恢复。
+
+斯里兰卡能源部长卡鲁纳蒂拉卡（Anura Karunathilaka）说，这场大停电的具体原因仍在调查中，但工程师怀疑，太阳能发电量可能超出了当时的实际用电需求，导致电网失衡跳闸。
+
+当局当天多次呼吁屋顶太阳能系统业主，切断系统与电网的连接以协助稳定电网后，供电系统才得以恢复运作。
+
+斯里兰卡电网曾在2025年2月的一个阳光明媚的星期天发生过类似事故，当时同样因太阳能发电量超过用电量而导致全岛瘫痪，耗时六个多小时才恢复供电。
+
+目前，斯里兰卡的太阳能装机容量略高于3000兆瓦（MW），而白天的用电需求介于2000兆瓦至2500兆瓦之间。
+
+斯里兰卡政府此前推出的税收优惠政策，鼓励了许多消费者改用太阳能并将多余电力卖回给电网，但这也造成了电力公司难以应对的电网不平衡问题。
+
+尽管如此，政府仍计划在三年内将太阳能发电能力提升至近4400兆瓦，比2024年大幅增长388%。</ns0:encoded></item><item><title>中纪委强调只要涉腐就没有“平安着陆” 分析：黄奇帆案或在敲打退休干部</title><link>https://www.zaobao.com.sg/news/china/story20261017-9853365</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261017-9853365</guid><pubDate>Sat, 17 Oct 2026 22:56:00 +0000</pubDate><category>最新</category><description>中国重庆市原市长黄奇帆本周官宣被查后，中共中央纪委国家监委网站发文强调，不论职务、贡献或是否退休，只要涉腐就没有任何退路和“平安着陆”。</description><ns0:encoded>中国重庆市原市长黄奇帆本周官宣被查后，中共中央纪委国家监委网站发文强调，不论职务、贡献或是否退休，只要涉腐就没有任何退路和“平安着陆”。</ns0:encoded></item><item><title>IMF警告战争带来财政与能源粮食安全风险</title><link>https://www.zaobao.com.sg/news/world/story20261017-9853523</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261017-9853523</guid><pubDate>Sat, 17 Oct 2026 22:54:00 +0000</pubDate><category>最新</category><description>（曼谷综合电）国际货币基金组织（IMF）警告，战争与贸易纷争可能导致全球能源与粮食安全恶化。如今，全球经济风险偏向下行，IMF成员国一致呼吁为深受冲击并面对融资挑战的国家提供更多财政支援。</description><ns0:encoded>（曼谷综合电）国际货币基金组织（IMF）警告，战争与贸易纷争可能导致全球能源与粮食安全恶化。如今，全球经济风险偏向下行，IMF成员国一致呼吁为深受冲击并面对融资挑战的国家提供更多财政支援。</ns0:encoded></item><item><title>内托双响马丁内斯伤退 切尔西破埃弗顿英超不败金身</title><link>https://www.zaobao.com.sg/news/sports/story20261017-9853833</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261017-9853833</guid><pubDate>Sat, 17 Oct 2026 22:47:00 +0000</pubDate><category>最新</category><description>“蓝军”切尔西（Chelsea）在新加坡时间星期六（10月17日）晚以2比0，在客场送给“太妃糖”埃弗顿（Everton）本赛季英超首败，以久违的零封方式迎来联赛两连胜。</description><ns0:encoded>“蓝军”切尔西（Chelsea）在新加坡时间星期六（10月17日）晚以2比0，在客场送给“太妃糖”埃弗顿（Everton）本赛季英超首败，以久违的零封方式迎来联赛两连胜。</ns0:encoded></item><item><title>Anthropic联合创始人：AI迅速发展可大幅增进美国经济产出</title><link>https://www.zaobao.com.sg/news/world/story20261017-9853957</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261017-9853957</guid><pubDate>Sat, 17 Oct 2026 22:24:00 +0000</pubDate><category>最新</category><description>美国人工智能初创公司Anthropic联合创始人克拉克认为，迅速发展的AI技术将为各个领域带来更快的变革，甚至能在特定条件下，使美国的经济产出大幅增加近50%。</description><ns0:encoded>美国人工智能初创公司Anthropic联合创始人克拉克认为，迅速发展的AI技术将为各个领域带来更快的变革，甚至能在特定条件下，使美国的经济产出大幅增加近50%。</ns0:encoded></item><item><title>不满对华日均逆差超10亿欧元 欧盟拟推新规强硬限制中国商品进口</title><link>https://www.zaobao.com.sg/news/world/story20261017-9853866</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261017-9853866</guid><pubDate>Sat, 17 Oct 2026 22:19:00 +0000</pubDate><category>最新</category><description>（布鲁塞尔／北京综合电）欧盟委员会主席冯德莱恩说，欧盟委员会将制定新的限制措施，遏制中国商品进口，力度将超越此前与北京商定、旨在将中国混合动力汽车进口量减半的保障措施。中国商务部随后强硬回应，告诫欧盟勿幻想以施压换取好处，更不要低估中国维护自身利益的决心和能力。</description><ns0:encoded>（布鲁塞尔／北京综合电）欧盟委员会主席冯德莱恩说，欧盟委员会将制定新的限制措施，遏制中国商品进口，力度将超越此前与北京商定、旨在将中国混合动力汽车进口量减半的保障措施。中国商务部随后强硬回应，告诫欧盟勿幻想以施压换取好处，更不要低估中国维护自身利益的决心和能力。</ns0:encoded></item><item><title>图管局通过侦探游戏 引导公众识别假信息与AI虚假内容</title><link>https://www.zaobao.com.sg/news/singapore/story20261017-9853701</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9853701</guid><pubDate>Sat, 17 Oct 2026 22:08:00 +0000</pubDate><category>最新</category><description>“我是根据图片上的证据来寻找线索的！”
+
+10岁的陈恩翔聚精会神地盯着展板上的“案发现场”，一边仔细推敲细节，一边频向主持人举手提问。
+
+平时爱看书与探索新知的陈恩翔，在母亲早前从电邮中得知活动消息后，便在父亲的陪同下满怀期待地来到活动现场，随即沉浸在“破案”的旅程中。
+
+这场兼具趣味与思考的互动活动，是国家图书馆管理局星期六（10月17日）在淡滨尼图书馆正式启动的“S.U.R.E.侦探解谜体验”（A S.U.R.E. Mystery）。
+
+这项全国活动即日起持续至明年3月，在全岛16家公共图书馆及线上平台同步展开。
+
+为提高推广信息素养的趣味性，图管局特别与非营利剧团Zip Zap Zoom合作呈现“S.U.R.E.侦探剧场”，由演员现场扮演嫌疑人，让公众化身“侦探”实时盘问并投票。
+
+活动灵感源自大众喜爱的经典悬疑与桌游解谜形式，旨在通过富有参与感的情境游戏，引导公众在“查案”的过程中锻炼批判性思维，从而更好地应对日常生活中假信息与人工智能生成虚假内容带来的挑战。
+
+推理过程紧扣图管局的S.U.R.E.信息素养框架，即查证来源（Source）、理解内容（Understand）、深入搜寻（Research），以及评估真伪（Evaluate）。
+
+国家图书馆管理局发言人纳蒂亚受访时指出，图管局希望以更生动有趣的方式推广信息素养，而不是单调地劝导公众核查来源。
+
+她解释：“选择大家喜爱的侦探解谜题材，是因为人们在解谜破案时，自然会去质疑线索与嫌疑人的陈述，并在综合评估所有信息后作出决定，这与S.U.R.E.框架倡导的思考模式完全契合。”
+
+在为期半年的活动中，图管局将陆续推出四轮递进的解谜任务。参与者将化身“侦探”，通过观察细节、核实证据和分析嫌疑人陈述来破案。
+
+纳蒂亚说，以悬疑推理为主题，无论是9岁至12岁的小朋友，还是二三十岁甚至更年长的公众，都能轻松投入其中。图管局鼓励家长带孩子或朋友结伴前来，共同体验破案乐趣。</description><ns0:encoded>“我是根据图片上的证据来寻找线索的！”
+
+10岁的陈恩翔聚精会神地盯着展板上的“案发现场”，一边仔细推敲细节，一边频向主持人举手提问。
+
+平时爱看书与探索新知的陈恩翔，在母亲早前从电邮中得知活动消息后，便在父亲的陪同下满怀期待地来到活动现场，随即沉浸在“破案”的旅程中。
+
+这场兼具趣味与思考的互动活动，是国家图书馆管理局星期六（10月17日）在淡滨尼图书馆正式启动的“S.U.R.E.侦探解谜体验”（A S.U.R.E. Mystery）。
+
+这项全国活动即日起持续至明年3月，在全岛16家公共图书馆及线上平台同步展开。
+
+为提高推广信息素养的趣味性，图管局特别与非营利剧团Zip Zap Zoom合作呈现“S.U.R.E.侦探剧场”，由演员现场扮演嫌疑人，让公众化身“侦探”实时盘问并投票。
+
+活动灵感源自大众喜爱的经典悬疑与桌游解谜形式，旨在通过富有参与感的情境游戏，引导公众在“查案”的过程中锻炼批判性思维，从而更好地应对日常生活中假信息与人工智能生成虚假内容带来的挑战。
+
+推理过程紧扣图管局的S.U.R.E.信息素养框架，即查证来源（Source）、理解内容（Understand）、深入搜寻（Research），以及评估真伪（Evaluate）。
+
+国家图书馆管理局发言人纳蒂亚受访时指出，图管局希望以更生动有趣的方式推广信息素养，而不是单调地劝导公众核查来源。
+
+她解释：“选择大家喜爱的侦探解谜题材，是因为人们在解谜破案时，自然会去质疑线索与嫌疑人的陈述，并在综合评估所有信息后作出决定，这与S.U.R.E.框架倡导的思考模式完全契合。”
+
+在为期半年的活动中，图管局将陆续推出四轮递进的解谜任务。参与者将化身“侦探”，通过观察细节、核实证据和分析嫌疑人陈述来破案。
+
+纳蒂亚说，以悬疑推理为主题，无论是9岁至12岁的小朋友，还是二三十岁甚至更年长的公众，都能轻松投入其中。图管局鼓励家长带孩子或朋友结伴前来，共同体验破案乐趣。</ns0:encoded></item><item><title>潘功胜：支持IMF加强监测发达经济体财政风险</title><link>https://www.zaobao.com.sg/news/china/story20261017-9853920</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261017-9853920</guid><pubDate>Sat, 17 Oct 2026 22:01:00 +0000</pubDate><category>最新</category><description>中国央行行长潘功胜说，北京支持国际货币基金组织（IMF）加强对主要发达经济体财政风险及外溢效应的监测。</description><ns0:encoded>中国央行行长潘功胜说，北京支持国际货币基金组织（IMF）加强对主要发达经济体财政风险及外溢效应的监测。</ns0:encoded></item><item><title>印度“蟑螂人民党”创始人被捕一天后获释</title><link>https://www.zaobao.com.sg/news/world/story20261017-9853807</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261017-9853807</guid><pubDate>Sat, 17 Oct 2026 21:39:00 +0000</pubDate><category>最新</category><description>因反对选举委员会削减选民资格组织抗议而被警方拘留的印度“蟑螂人民党”创始人迪普克，在被捕一天后获释。
+
+综合法新社和路透社报道，迪普克（Abhijeet Dipke）星期五（10月16日）在前往新德里市中心康诺特广场（Connaught Place）准备领导一场集会时，被警方押上警车带走。
+
+“蟑螂人民党”法律事务负责人勒特娜星（Ratna Singh）星期六（17日）证实，迪普克在达成特定条件后，获法院批准释放。她没有透露这些条件具体是什么。
+
+当天下午，迪普克乘车离开警察局时，还向现场媒体挥手并竖起大拇指。
+
+现年31岁的迪普克是印度年轻一代抗议运动的主导人物，曾通过领导长达数周的学生抗议，推动了印度教育部长辞职。
+
+与迪普克一同被捕的著名学生活动人士博拉（Neha Bora）也在星期六获释。博拉获释后向媒体呼吁弹劾首席选举专员贾内什·库马尔（Gyanesh Kumar）并暂停选民审查，以确保普通公民的投票权益。
+
+此外，蟑螂人民党另外两名高级领导人拉恩卡（Ashutosh Ranka）和达斯（Saurav Das）因进入被禁止示威的简塔曼塔（Jantar Mantar）区域，于10月14日被捕，目前仍被拘留。
+
+这场由青年群体发起、并获得多家反对党响应的示威运动，已被视为莫迪执政12年来所面临的最严峻政治挑战之一。
+
+示威者指责选举委员会在选民名册更新中进行人为操控，删除了超过1亿3000万名选民，以偏袒总理莫迪领导的执政党印度人民党。选举委员会对此坚决否认，称不存在偏袒任何政党的情况，并指出被错误删除的选民可以重新登记。印度人民党也反驳称，反对派无端质疑合法的选举程序，意在破坏民主。</description><ns0:encoded>因反对选举委员会削减选民资格组织抗议而被警方拘留的印度“蟑螂人民党”创始人迪普克，在被捕一天后获释。
+
+综合法新社和路透社报道，迪普克（Abhijeet Dipke）星期五（10月16日）在前往新德里市中心康诺特广场（Connaught Place）准备领导一场集会时，被警方押上警车带走。
+
+“蟑螂人民党”法律事务负责人勒特娜星（Ratna Singh）星期六（17日）证实，迪普克在达成特定条件后，获法院批准释放。她没有透露这些条件具体是什么。
+
+当天下午，迪普克乘车离开警察局时，还向现场媒体挥手并竖起大拇指。
+
+现年31岁的迪普克是印度年轻一代抗议运动的主导人物，曾通过领导长达数周的学生抗议，推动了印度教育部长辞职。
+
+与迪普克一同被捕的著名学生活动人士博拉（Neha Bora）也在星期六获释。博拉获释后向媒体呼吁弹劾首席选举专员贾内什·库马尔（Gyanesh Kumar）并暂停选民审查，以确保普通公民的投票权益。
+
+此外，蟑螂人民党另外两名高级领导人拉恩卡（Ashutosh Ranka）和达斯（Saurav Das）因进入被禁止示威的简塔曼塔（Jantar Mantar）区域，于10月14日被捕，目前仍被拘留。
+
+这场由青年群体发起、并获得多家反对党响应的示威运动，已被视为莫迪执政12年来所面临的最严峻政治挑战之一。
+
+示威者指责选举委员会在选民名册更新中进行人为操控，删除了超过1亿3000万名选民，以偏袒总理莫迪领导的执政党印度人民党。选举委员会对此坚决否认，称不存在偏袒任何政党的情况，并指出被错误删除的选民可以重新登记。印度人民党也反驳称，反对派无端质疑合法的选举程序，意在破坏民主。</ns0:encoded></item><item><title>中国AI代理被指首现“失控”行为 官方提守牢AI安全底线</title><link>https://www.zaobao.com.sg/news/china/story20261017-9853004</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261017-9853004</guid><pubDate>Sat, 17 Oct 2026 21:37:00 +0000</pubDate><category>最新</category><description>（北京综合讯）与中国科技巨头腾讯有关联的人工智能（AI）代理，被指出现中国首起AI“失控”行为，可能加剧有关人类失去对AI控制的担忧。中国官方最新表态强调，要加强风险研判评估，守牢AI安全底线。</description><ns0:encoded>（北京综合讯）与中国科技巨头腾讯有关联的人工智能（AI）代理，被指出现中国首起AI“失控”行为，可能加剧有关人类失去对AI控制的担忧。中国官方最新表态强调，要加强风险研判评估，守牢AI安全底线。</ns0:encoded></item><item><title>本地首推“护心急救认证” 助职场员工及时应对心脏骤停</title><link>https://www.zaobao.com.sg/news/singapore/story20261017-9853045</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9853045</guid><pubDate>Sat, 17 Oct 2026 21:36:00 +0000</pubDate><category>最新</category><description>为鼓励企业培训员工掌握心肺复苏术与自动体外除颤器的操作，新加坡心脏基金会推出本地首个护心急救认证，提升职场应对心脏骤停事件的能力。</description><ns0:encoded>为鼓励企业培训员工掌握心肺复苏术与自动体外除颤器的操作，新加坡心脏基金会推出本地首个护心急救认证，提升职场应对心脏骤停事件的能力。</ns0:encoded></item><item><title>加里曼丹林火烟霾扩散至雅加达 医疗系统全面待命</title><link>https://www.zaobao.com.sg/news/sea/story20261017-9853449</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261017-9853449</guid><pubDate>Sat, 17 Oct 2026 21:32:00 +0000</pubDate><category>最新</category><description>（雅加达综合电）印度尼西亚加里曼丹林火产生的浓烟已在高空扩散至爪哇岛的雅加达，印尼气象部门敦促当地居民减少户外活动。</description><ns0:encoded>（雅加达综合电）印度尼西亚加里曼丹林火产生的浓烟已在高空扩散至爪哇岛的雅加达，印尼气象部门敦促当地居民减少户外活动。</ns0:encoded></item><item><title>马中同意重启引渡条约谈判 深化打击跨国网诈等合作</title><link>https://www.zaobao.com.sg/news/sea/story20261017-9853427</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261017-9853427</guid><pubDate>Sat, 17 Oct 2026 21:15:00 +0000</pubDate><category>最新</category><description>（吉隆坡综合讯）马来西亚副首相阿末扎希本周访华期间，向中国提议重启马中引渡条约谈判，以共同打击网络诈骗、打工骗局等跨国犯罪活动。</description><ns0:encoded>（吉隆坡综合讯）马来西亚副首相阿末扎希本周访华期间，向中国提议重启马中引渡条约谈判，以共同打击网络诈骗、打工骗局等跨国犯罪活动。</ns0:encoded></item><item><title>埃及总统塞西承诺2030年卸任 强调不再修宪</title><link>https://www.zaobao.com.sg/news/world/story20261017-9853702</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261017-9853702</guid><pubDate>Sat, 17 Oct 2026 21:05:00 +0000</pubDate><category>最新</category><description>埃及总统塞西说，他已决定在2030年目前任期届满时卸任，不会再寻求连任。
+
+法新社报道，塞西星期六（10月17日）在新行政首都的埃及军事学院毕业典礼上致辞时，宣布这个决定。
+
+他说：“如果我还活着，到2030年为止的这段时期将是我作为国家总统任期的终点。这件事已经完全确定，没有任何讨论余地。”
+
+他也说，目前到2030年之前的时间，将用于培养新一代领导人。军事学院目前正就治国方略与领导力对数百名未来的官员、部长及总统候选人进行培训。
+
+塞西也强调，埃及宪法绝不容许改动。
+
+现年71岁的塞西曾任陆军将军，2013年带领埃及军方推翻伊斯兰主义总统穆尔西（Mohamed Morsi）后，于2014年出任总统。埃及也在同年通过新宪法，规定总统任期最多为两届、每届四年。
+
+然而，2019年通过的宪法修正案公投，将总统任期从四年延长至六年，并加入过渡条款，允许塞西再次参选。在这个修正案下，塞西于2023年成功连任，开启为期六年的新任期，直至2030年届满。
+
+有鉴于此，批评人士与反对派此前曾不断猜测，埃及政府可能再次修宪，以允许塞西在2030年后继续执政。
+
+在执政的12年间，塞西推动了一项以巨型工程为核心的发展计划，包括在开罗以东兴建新的行政首都。有批评者认为，这些项目严重依赖借贷，加重了埃及的债务负担与经济压力。
+
+此外，国际人权组织也持续指责塞西政府限制反对派、民营社会及言论自由；埃及政府则对此予以否认，强调有关政策是维护国家稳定与安全所必需的。</description><ns0:encoded>埃及总统塞西说，他已决定在2030年目前任期届满时卸任，不会再寻求连任。
+
+法新社报道，塞西星期六（10月17日）在新行政首都的埃及军事学院毕业典礼上致辞时，宣布这个决定。
+
+他说：“如果我还活着，到2030年为止的这段时期将是我作为国家总统任期的终点。这件事已经完全确定，没有任何讨论余地。”
+
+他也说，目前到2030年之前的时间，将用于培养新一代领导人。军事学院目前正就治国方略与领导力对数百名未来的官员、部长及总统候选人进行培训。
+
+塞西也强调，埃及宪法绝不容许改动。
+
+现年71岁的塞西曾任陆军将军，2013年带领埃及军方推翻伊斯兰主义总统穆尔西（Mohamed Morsi）后，于2014年出任总统。埃及也在同年通过新宪法，规定总统任期最多为两届、每届四年。
+
+然而，2019年通过的宪法修正案公投，将总统任期从四年延长至六年，并加入过渡条款，允许塞西再次参选。在这个修正案下，塞西于2023年成功连任，开启为期六年的新任期，直至2030年届满。
+
+有鉴于此，批评人士与反对派此前曾不断猜测，埃及政府可能再次修宪，以允许塞西在2030年后继续执政。
+
+在执政的12年间，塞西推动了一项以巨型工程为核心的发展计划，包括在开罗以东兴建新的行政首都。有批评者认为，这些项目严重依赖借贷，加重了埃及的债务负担与经济压力。
+
+此外，国际人权组织也持续指责塞西政府限制反对派、民营社会及言论自由；埃及政府则对此予以否认，强调有关政策是维护国家稳定与安全所必需的。</ns0:encoded></item><item><title>森州中学男生AI合成女同学不雅照 逾300女生受害</title><link>https://www.zaobao.com.sg/news/sea/story20261017-9853603</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261017-9853603</guid><pubDate>Sat, 17 Oct 2026 20:49:00 +0000</pubDate><category>最新</category><description>马来西亚森美兰州芙蓉一所中学惊爆人工智能（AI）合成不雅照风波，逾300名13岁至17岁的女学生照片疑遭盗用制成不雅照散播，甚至出售。</description><ns0:encoded>马来西亚森美兰州芙蓉一所中学惊爆人工智能（AI）合成不雅照风波，逾300名13岁至17岁的女学生照片疑遭盗用制成不雅照散播，甚至出售。</ns0:encoded></item><item><title>中医业者欢迎中医认证计划 树立超越执照新标杆</title><link>https://www.zaobao.com.sg/news/singapore/story20261017-9853378</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9853378</guid><pubDate>Sat, 17 Oct 2026 20:48:00 +0000</pubDate><category>最新</category><description>本地中医业者和医师普遍欢迎“中医认证计划”，期待这个超越基本执照的高标准认证，为本地病患提供更专业安全的中医服务。</description><ns0:encoded>本地中医业者和医师普遍欢迎“中医认证计划”，期待这个超越基本执照的高标准认证，为本地病患提供更专业安全的中医服务。</ns0:encoded></item><item><title>马国政府正式批准巴生港第三码头发展计划</title><link>https://www.zaobao.com.sg/news/sea/story20261017-9853150</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261017-9853150</guid><pubDate>Sat, 17 Oct 2026 20:43:00 +0000</pubDate><category>最新</category><description>（吉隆坡综合讯）马来西亚政府正式批准雪兰莪州巴生港第三码头项目凯利岛发展计划，重点打造马国海事港口城及凯利岛港口经济特区，进一步巩固雪州及马国的区域海事枢纽地位，并带动港口物流业发展。</description><ns0:encoded>（吉隆坡综合讯）马来西亚政府正式批准雪兰莪州巴生港第三码头项目凯利岛发展计划，重点打造马国海事港口城及凯利岛港口经济特区，进一步巩固雪州及马国的区域海事枢纽地位，并带动港口物流业发展。</ns0:encoded></item><item><title>马炎庆：华族文化独具特色 年轻一代接棒需各方支持</title><link>https://www.zaobao.com.sg/news/singapore/story20261017-9853191</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9853191</guid><pubDate>Sat, 17 Oct 2026 20:40:00 +0000</pubDate><category>最新</category><description>不同文化兼容并蓄，形成独具特色的新加坡华族文化。文化、社区及青年部兼交通部政务部长马炎庆指出，要让本地文化继续发展，应把接力棒交给下一代，而这也需要宗乡会馆、文教工作者和政府各方支持，让华族文化生生不息。</description><ns0:encoded>不同文化兼容并蓄，形成独具特色的新加坡华族文化。文化、社区及青年部兼交通部政务部长马炎庆指出，要让本地文化继续发展，应把接力棒交给下一代，而这也需要宗乡会馆、文教工作者和政府各方支持，让华族文化生生不息。</ns0:encoded></item><item><title>烟霾来袭运动不停 室内轻松挥洒汗水</title><link>https://www.zaobao.com.sg/news/sports/story20261017-9848586</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261017-9848586</guid><pubDate>Sat, 17 Oct 2026 20:18:00 +0000</pubDate><category>最新</category><description>受近期烟霾影响，本地空气污染指数持续飙升。当全岛笼罩在烟霾之中时，公园、空中花园，甚至是半开放式的组屋底层已不再是安全的运动场所。大口喘气式的户外有氧运动，无异于让自己成为“人体空气净化器”。因此，转战室内运动势在必行。</description><ns0:encoded>受近期烟霾影响，本地空气污染指数持续飙升。当全岛笼罩在烟霾之中时，公园、空中花园，甚至是半开放式的组屋底层已不再是安全的运动场所。大口喘气式的户外有氧运动，无异于让自己成为“人体空气净化器”。因此，转战室内运动势在必行。</ns0:encoded></item><item><title>利息支出激增与关税退款拖累 美国赤字飙升至1.99万亿美元创五年新高</title><link>https://www.zaobao.com.sg/news/world/story20261017-9853556</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261017-9853556</guid><pubDate>Sat, 17 Oct 2026 20:11:00 +0000</pubDate><category>最新</category><description>（华盛顿综合电）美国财政部星期五（10月16日）公布的数据显示，尽管总统特朗普曾承诺削减政府开支，但美国2026财年的预算赤字总额扩大至1.99万亿美元（约2.55万亿新元），较前一年的1.78万亿美元增加12%，创下自2021年以来的最高纪录。</description><ns0:encoded>（华盛顿综合电）美国财政部星期五（10月16日）公布的数据显示，尽管总统特朗普曾承诺削减政府开支，但美国2026财年的预算赤字总额扩大至1.99万亿美元（约2.55万亿新元），较前一年的1.78万亿美元增加12%，创下自2021年以来的最高纪录。</ns0:encoded></item><item><title>益资源：西加里曼丹火点主要集中在集团无营运地区</title><link>https://www.zaobao.com.sg/finance/singapore/story20261017-9852782</link><guid isPermaLink="true">https://www.zaobao.com.sg/finance/singapore/story20261017-9852782</guid><pubDate>Sat, 17 Oct 2026 20:11:00 +0000</pubDate><category>最新</category><description>挂牌公司益资源（First Resources）回应关于印度尼西亚森林和泥炭地火灾的报道指出，集团最受影响的种植园在西加里曼丹省，而西加里曼丹的火点（hotspot）数量过去几个星期已经大幅减少，并且目前的火点主要集中于集团无营运的地区。</description><ns0:encoded>挂牌公司益资源（First Resources）回应关于印度尼西亚森林和泥炭地火灾的报道指出，集团最受影响的种植园在西加里曼丹省，而西加里曼丹的火点（hotspot）数量过去几个星期已经大幅减少，并且目前的火点主要集中于集团无营运的地区。</ns0:encoded></item><item><title>消协：慎购二手防霾用品 本地口罩库存充足正补货</title><link>https://www.zaobao.com.sg/news/singapore/story20261017-9853477</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9853477</guid><pubDate>Sat, 17 Oct 2026 19:50:00 +0000</pubDate><category>最新</category><description>新加坡消费者协会提醒，购买来自二手市场的口罩和空气净化器时应该提高警惕，尤其是通过社交媒体平台购买的防霾用品，因为卖家身份往往难以核实。随着口罩供应逐步恢复，消协也呼吁消费者不要大量囤购口罩。</description><ns0:encoded>新加坡消费者协会提醒，购买来自二手市场的口罩和空气净化器时应该提高警惕，尤其是通过社交媒体平台购买的防霾用品，因为卖家身份往往难以核实。随着口罩供应逐步恢复，消协也呼吁消费者不要大量囤购口罩。</ns0:encoded></item><item><title>星期天PSI预计介于150至220点 下周我国迎阵雨</title><link>https://www.zaobao.com.sg/news/singapore/story20261017-9853490</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9853490</guid><pubDate>Sat, 17 Oct 2026 19:46:00 +0000</pubDate><category>最新</category><description>星期天（10月18日）的空气污染情况预计处于不健康至非常不健康水平，24小时空气污染指数（PSI）介于150点至220点。</description><ns0:encoded>星期天（10月18日）的空气污染情况预计处于不健康至非常不健康水平，24小时空气污染指数（PSI）介于150点至220点。</ns0:encoded></item><item><title>美联储进入静默期 市场对金价走势看法现分歧</title><link>https://www.zaobao.com.sg/finance/singapore/story20261017-9853450</link><guid isPermaLink="true">https://www.zaobao.com.sg/finance/singapore/story20261017-9853450</guid><pubDate>Sat, 17 Oct 2026 19:40:00 +0000</pubDate><category>最新</category><description>美国通胀率高于预期使市场继续评估美国加息前景，国际金价本周因此回跌。随着美国联邦储备局进入静默期，以及市场迎接经济数据较少的一周，分析师及投资者对于接下来一周金价的走向看法不一。</description><ns0:encoded>美国通胀率高于预期使市场继续评估美国加息前景，国际金价本周因此回跌。随着美国联邦储备局进入静默期，以及市场迎接经济数据较少的一周，分析师及投资者对于接下来一周金价的走向看法不一。</ns0:encoded></item><item><title>曼联内忧外患 英超客战利兹恐遭落井下石</title><link>https://www.zaobao.com.sg/news/sports/story20261017-9852926</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261017-9852926</guid><pubDate>Sat, 17 Oct 2026 19:40:00 +0000</pubDate><category>最新</category><description>急需在英超斩获积分以摆脱低迷困境的“红魔”曼联（Manchester United），将在新加坡时间星期天（10月18日）晚上客战宿敌利兹（Leeds）。面临40年来最差联赛开局及内讧风波的曼联士气低落，做客防线稳健的利兹，恐难逃被落井下石的命运。</description><ns0:encoded>急需在英超斩获积分以摆脱低迷困境的“红魔”曼联（Manchester United），将在新加坡时间星期天（10月18日）晚上客战宿敌利兹（Leeds）。面临40年来最差联赛开局及内讧风波的曼联士气低落，做客防线稳健的利兹，恐难逃被落井下石的命运。</ns0:encoded></item><item><title>普京划安全区全掌控顿涅茨克 特朗普对俄放宽制裁加剧美乌破裂</title><link>https://www.zaobao.com.sg/news/world/story20261017-9853416</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261017-9853416</guid><pubDate>Sat, 17 Oct 2026 19:36:00 +0000</pubDate><category>最新</category><description>（莫斯科／基辅综合电）俄罗斯总统普京星期五（10月16日）说，俄罗斯正在乌克兰境内靠近俄乌边界划设安全区，并强调在未来与基辅举行的任何和平谈判中，这一安排都不容谈判。</description><ns0:encoded>（莫斯科／基辅综合电）俄罗斯总统普京星期五（10月16日）说，俄罗斯正在乌克兰境内靠近俄乌边界划设安全区，并强调在未来与基辅举行的任何和平谈判中，这一安排都不容谈判。</ns0:encoded></item><item><title>日本气象厅称地震乌龙警报源于防误报功能失灵</title><link>https://www.zaobao.com.sg/news/world/story20261017-9853454</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261017-9853454</guid><pubDate>Sat, 17 Oct 2026 19:26:00 +0000</pubDate><category>最新</category><description>日本气象厅调查发现，发生误发里氏9.9级大地震警报后撤销的乌龙事件，是由于一项防误报功能失灵，可能是在设置系统参数时，发生了某种人为失误。</description><ns0:encoded>日本气象厅调查发现，发生误发里氏9.9级大地震警报后撤销的乌龙事件，是由于一项防误报功能失灵，可能是在设置系统参数时，发生了某种人为失误。</ns0:encoded></item><item><title>“达人青少年学院”启动 资助50名儿童培养艺术才华</title><link>https://www.zaobao.com.sg/news/singapore/story20261017-9852844</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9852844</guid><pubDate>Sat, 17 Oct 2026 19:22:00 +0000</pubDate><category>最新</category><description>50名来自低收入家庭的幼儿园小朋友将有机会到南洋艺术学院接受一年的免费艺术教育，让他们有机会培养对艺术的兴趣，发掘自身潜能。</description><ns0:encoded>50名来自低收入家庭的幼儿园小朋友将有机会到南洋艺术学院接受一年的免费艺术教育，让他们有机会培养对艺术的兴趣，发掘自身潜能。</ns0:encoded></item><item><title>工业区太阳能可供22万四房式组屋用电一年 裕廊集团拟扩大部署</title><link>https://www.zaobao.com.sg/news/singapore/story20261017-9849385</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9849385</guid><pubDate>Sat, 17 Oct 2026 19:00:00 +0000</pubDate><category>新加坡</category><description>截至今年第一季，裕廊集团工业区部署的太阳能板，累计发电量已相当于22万多个四房式组屋单位一年的用电量。为加快本地太阳能发展，裕廊集团正研究更多可行的部署模式，包括在建筑立面等空间安装太阳能板。</description><ns0:encoded>截至今年第一季，裕廊集团工业区部署的太阳能板，累计发电量已相当于22万多个四房式组屋单位一年的用电量。为加快本地太阳能发展，裕廊集团正研究更多可行的部署模式，包括在建筑立面等空间安装太阳能板。</ns0:encoded></item><item><title>马航恢复往返沙特吉达与麦地那航班</title><link>https://www.zaobao.com.sg/news/sea/story20261017-9853279</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261017-9853279</guid><pubDate>Sat, 17 Oct 2026 18:28:00 +0000</pubDate><category>最新</category><description>马来西亚航空公司宣布，将从星期天（10月18日）起，恢复马国往返沙特阿拉伯城市吉达和麦地那的定期航班。</description><ns0:encoded>马来西亚航空公司宣布，将从星期天（10月18日）起，恢复马国往返沙特阿拉伯城市吉达和麦地那的定期航班。</ns0:encoded></item><item><title>花旗：中国AI供应链企业IPO料顶住估值回调压力</title><link>https://www.zaobao.com.sg/news/china/story20261017-9853286</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261017-9853286</guid><pubDate>Sat, 17 Oct 2026 18:27:00 +0000</pubDate><category>最新</category><description>花旗银行高管说，尽管市场对估值的担忧升温、审视趋严，中国人工智能（AI）供应链企业赴港上市的势头预计仍将保持稳健。</description><ns0:encoded>花旗银行高管说，尽管市场对估值的担忧升温、审视趋严，中国人工智能（AI）供应链企业赴港上市的势头预计仍将保持稳健。</ns0:encoded></item><item><title>【红蚂蚁】新马与印尼的阴霾 外交上一本难念的经</title><link>https://www.zaobao.com.sg/news/singapore/story20261017-9852924</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9852924</guid><pubDate>Sat, 17 Oct 2026 18:27:00 +0000</pubDate><category>新加坡</category><description>印度尼西亚正遭遇10年来最严重的森林大火，这一轮“烟锁南洋”近两个月，还不见天日，印尼林火原因复杂，有天意，也有人为。</description><ns0:encoded>印度尼西亚正遭遇10年来最严重的森林大火，这一轮“烟锁南洋”近两个月，还不见天日，印尼林火原因复杂，有天意，也有人为。</ns0:encoded></item><item><title>南大前校长徐冠林传记发布 一生轨迹见证教育与国防科研发展</title><link>https://www.zaobao.com.sg/news/singapore/story20261017-9852093</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9852093</guid><pubDate>Sat, 17 Oct 2026 18:10:00 +0000</pubDate><category>新加坡</category><description>“跟着自己的心走，去做一点有意义的事。”
+
+这句话10多年前激励了张道昌教授踏出熟悉的科研领域，成为创立 新加坡科技设计大学 的核心人物之一，他过后相继出任新科大创始教务长和校长。当年送他这句话的则是另一名大学校长——徐冠林教授。
+
+前年卸任新科大校长的张道昌星期五（10月16日）在《机遇：新加坡南洋理工大学前任校长徐冠林传》发布会上，向在座超过200名出席者分享这段记忆点滴。他借这段往事说明徐冠林不仅是领导南大转型为顶尖研究型大学的关键人物，他的处事之道和奉献精神还启发一名同侪投入我国第四所公立大学的建设。
+
+徐冠林2003年至2011年出任 南洋理工大学 校长。此前，他在国防科研领域工作30余年，曾出任国防科学院（国防科技研究院前身）院长、国防部副常任秘书和国防科技局局长等职务。
+
+这部由《联合早报》前教育线资深记者潘星华撰写的传记，将徐冠林阅历丰富、浓墨重彩的人生，与新加坡的教育与国防科研发展轨迹交织在一起。
+
+发布会现场社会名流云集，出席者包括国防科研与教育领域现任及前任高级公务员、前国会议员、南洋理工大学教职员、前南洋大学校友和文教界人士。
+
+徐冠林拄着拐杖，行走须由旁人搀扶。他上台致辞时，中气有些不足但不失幽默。除了追溯祖父与父亲及自己的人生经历，他也娓娓道来在为南大招揽国际顶尖人才过程中，自己如何像“追求女生”般坚持不放弃。他也循循善诱，提醒年轻一代学好母语和培养文化底蕴的重要性。
+
+徐冠林是张道昌在公教中学的学长。张道昌形容比他高几届的徐冠林全方位表现优秀，当年是学校“风云人物”，也是众学弟眼中的榜样。
+
+后来，张道昌担任数据储存研究院院长，徐冠林当时担任研究院主席。两人不仅在学术科研方面有交流，徐冠林也不吝分享自己对管理及决策方面的心得。
+
+张道昌感谢徐冠林对他的提携，对自己能借发布会向对方致敬表示荣幸。
+
+“学长一路走来始终在做一件事，也就是实事求是，跟着自己心走，走出去做一点有意义的事，只是他做得比我们很多人更多、更深及更远……”
+
+潘星华在2020年5月接到徐冠林请她著书的邀约。她致感谢词时说，为完成这部传记，她花了六七年时间，除了同徐冠林访谈，也访问他的亲友及曾与他共事的人。
+
+“我把这本书定名为“机遇”，主要谈到徐教授在人生重要时刻都碰到决定他命运的机遇。他的机遇很精彩，我希望大家喜欢看（这本书）……我后来也觉得能够写这本书，对我难道不也是一个机遇吗？”</description><ns0:encoded>“跟着自己的心走，去做一点有意义的事。”
+
+这句话10多年前激励了张道昌教授踏出熟悉的科研领域，成为创立 新加坡科技设计大学 的核心人物之一，他过后相继出任新科大创始教务长和校长。当年送他这句话的则是另一名大学校长——徐冠林教授。
+
+前年卸任新科大校长的张道昌星期五（10月16日）在《机遇：新加坡南洋理工大学前任校长徐冠林传》发布会上，向在座超过200名出席者分享这段记忆点滴。他借这段往事说明徐冠林不仅是领导南大转型为顶尖研究型大学的关键人物，他的处事之道和奉献精神还启发一名同侪投入我国第四所公立大学的建设。
+
+徐冠林2003年至2011年出任 南洋理工大学 校长。此前，他在国防科研领域工作30余年，曾出任国防科学院（国防科技研究院前身）院长、国防部副常任秘书和国防科技局局长等职务。
+
+这部由《联合早报》前教育线资深记者潘星华撰写的传记，将徐冠林阅历丰富、浓墨重彩的人生，与新加坡的教育与国防科研发展轨迹交织在一起。
+
+发布会现场社会名流云集，出席者包括国防科研与教育领域现任及前任高级公务员、前国会议员、南洋理工大学教职员、前南洋大学校友和文教界人士。
+
+徐冠林拄着拐杖，行走须由旁人搀扶。他上台致辞时，中气有些不足但不失幽默。除了追溯祖父与父亲及自己的人生经历，他也娓娓道来在为南大招揽国际顶尖人才过程中，自己如何像“追求女生”般坚持不放弃。他也循循善诱，提醒年轻一代学好母语和培养文化底蕴的重要性。
+
+徐冠林是张道昌在公教中学的学长。张道昌形容比他高几届的徐冠林全方位表现优秀，当年是学校“风云人物”，也是众学弟眼中的榜样。
+
+后来，张道昌担任数据储存研究院院长，徐冠林当时担任研究院主席。两人不仅在学术科研方面有交流，徐冠林也不吝分享自己对管理及决策方面的心得。
+
+张道昌感谢徐冠林对他的提携，对自己能借发布会向对方致敬表示荣幸。
+
+“学长一路走来始终在做一件事，也就是实事求是，跟着自己心走，走出去做一点有意义的事，只是他做得比我们很多人更多、更深及更远……”
+
+潘星华在2020年5月接到徐冠林请她著书的邀约。她致感谢词时说，为完成这部传记，她花了六七年时间，除了同徐冠林访谈，也访问他的亲友及曾与他共事的人。
+
+“我把这本书定名为“机遇”，主要谈到徐教授在人生重要时刻都碰到决定他命运的机遇。他的机遇很精彩，我希望大家喜欢看（这本书）……我后来也觉得能够写这本书，对我难道不也是一个机遇吗？”</ns0:encoded></item><item><title>39岁瓦尔迪踢入重返英足坛首球 连续20年进球</title><link>https://www.zaobao.com.sg/news/sports/story20261017-9853046</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261017-9853046</guid><pubDate>Sat, 17 Oct 2026 18:02:00 +0000</pubDate><category>最新</category><description>（伦敦综合电）现年39岁的英格兰前国脚瓦尔迪（Vardy）在新加坡时间星期六（10月17日）凌晨举行的英冠联赛中，踢入他自重返英格兰足坛后的首个进球，同时确保自己连续20年都有进球。</description><ns0:encoded>（伦敦综合电）现年39岁的英格兰前国脚瓦尔迪（Vardy）在新加坡时间星期六（10月17日）凌晨举行的英冠联赛中，踢入他自重返英格兰足坛后的首个进球，同时确保自己连续20年都有进球。</ns0:encoded></item><item><title>赌场广告与促销须先获批 “容易赢”“别错过”等或触监管红线</title><link>https://www.zaobao.com.sg/news/singapore/story20261017-9713532</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9713532</guid><pubDate>Sat, 17 Oct 2026 17:55:00 +0000</pubDate><category>新加坡</category><description>“玩得越久，奖励越多”“超级容易赢”“别错过！”等促销用语，在任何广告中都极具吸引力，但若广告涉及赌场，这类措辞便可能触及监管红线。</description><ns0:encoded>“玩得越久，奖励越多”“超级容易赢”“别错过！”等促销用语，在任何广告中都极具吸引力，但若广告涉及赌场，这类措辞便可能触及监管红线。</ns0:encoded></item><item><title>中国新任驻基里巴斯大使姚飞履新</title><link>https://www.zaobao.com.sg/news/china/story20261017-9853074</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261017-9853074</guid><pubDate>Sat, 17 Oct 2026 17:52:00 +0000</pubDate><category>最新</category><description>中国新任驻基里巴斯大使姚飞星期五（10月16日）抵达基里巴斯首都塔拉瓦履新。
+
+据中国驻基里巴斯大使馆官网消息，基里巴斯外交部常秘蒂里纳基在机场为姚飞举行欢迎仪式，基里巴斯卫生部长纳万、基础设施部长塔拉斯、司法部长莫雷斯、交通部长蒂博及中使馆主要外交官出席仪式，中国援基专家组、在基中资企业、华侨华人代表等参加。
+
+当地长者以传统礼仪对姚飞抵基里巴斯表示热烈欢迎，向他献花环、敬椰汁，祝福姚飞在基里巴斯履职顺利。
+
+姚飞在机场发表简短致辞时指出，中基复交七年来，两国始终坚持相互尊重、平等相待，互相支持对方核心利益和重大关切。
+
+他表示，愿同基里巴斯政府和社会各界朋友携手并肩，全力落实两国领导人达成的重要共识，推动中基关系行稳致远。
+
+公开资料显示，现年55岁的姚飞毕业于北京大学。他长期从事外交工作多年，曾任中国驻墨西哥使馆政务参赞、驻西班牙使馆公参、驻西班牙使馆临时代办、外交部欧洲司公使衔参赞等职，在2023年10月获任泉州市副市长。
+
+在担任泉州市副市长期间，姚飞分管市政府外事办公室，联系市委台港澳工作办公室、市政府侨务办公室、市归国华侨联合会、台湾同胞联谊会、金门同胞联谊会，协助负责发展改革（粮食和物资储备）、招商引资工作。
+
+姚飞是马拉松运动爱好者，参加过不少比赛。据南方日报此前报道，在2022年北京马拉松赛上，姚飞全马跑出了3小时28分26秒成绩，突破了“330”，达到了中国田协马拉松大众选手等级最高级男子精英级水平（50至54岁组：3小时30分），被誉为“国内跑得最快的副市长”。
+
+基里巴斯是太平洋岛国，1980年6月25日与中国大陆建交。在2003年11月29日与台湾建交后，基里巴斯与大陆断交。2019年9月20日，基里巴斯宣布同台湾断交后，一周后与大陆恢复外交关系。
+
+此前担任中国驻基里巴斯大使的周立民，已在今年3月履新中国驻瑞典大使。</description><ns0:encoded>中国新任驻基里巴斯大使姚飞星期五（10月16日）抵达基里巴斯首都塔拉瓦履新。
+
+据中国驻基里巴斯大使馆官网消息，基里巴斯外交部常秘蒂里纳基在机场为姚飞举行欢迎仪式，基里巴斯卫生部长纳万、基础设施部长塔拉斯、司法部长莫雷斯、交通部长蒂博及中使馆主要外交官出席仪式，中国援基专家组、在基中资企业、华侨华人代表等参加。
+
+当地长者以传统礼仪对姚飞抵基里巴斯表示热烈欢迎，向他献花环、敬椰汁，祝福姚飞在基里巴斯履职顺利。
+
+姚飞在机场发表简短致辞时指出，中基复交七年来，两国始终坚持相互尊重、平等相待，互相支持对方核心利益和重大关切。
+
+他表示，愿同基里巴斯政府和社会各界朋友携手并肩，全力落实两国领导人达成的重要共识，推动中基关系行稳致远。
+
+公开资料显示，现年55岁的姚飞毕业于北京大学。他长期从事外交工作多年，曾任中国驻墨西哥使馆政务参赞、驻西班牙使馆公参、驻西班牙使馆临时代办、外交部欧洲司公使衔参赞等职，在2023年10月获任泉州市副市长。
+
+在担任泉州市副市长期间，姚飞分管市政府外事办公室，联系市委台港澳工作办公室、市政府侨务办公室、市归国华侨联合会、台湾同胞联谊会、金门同胞联谊会，协助负责发展改革（粮食和物资储备）、招商引资工作。
+
+姚飞是马拉松运动爱好者，参加过不少比赛。据南方日报此前报道，在2022年北京马拉松赛上，姚飞全马跑出了3小时28分26秒成绩，突破了“330”，达到了中国田协马拉松大众选手等级最高级男子精英级水平（50至54岁组：3小时30分），被誉为“国内跑得最快的副市长”。
+
+基里巴斯是太平洋岛国，1980年6月25日与中国大陆建交。在2003年11月29日与台湾建交后，基里巴斯与大陆断交。2019年9月20日，基里巴斯宣布同台湾断交后，一周后与大陆恢复外交关系。
+
+此前担任中国驻基里巴斯大使的周立民，已在今年3月履新中国驻瑞典大使。</ns0:encoded></item><item><title>受洪灾影响泰航乘客可申领赔偿</title><link>https://www.zaobao.com.sg/news/sea/story20261017-9853035</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261017-9853035</guid><pubDate>Sat, 17 Oct 2026 17:37:00 +0000</pubDate><category>最新</category><description>受9月26日至30日强降雨及洪灾影响而导致航班延误、取消或行李延误的乘客，即日起可向泰国国际航空申请赔偿。</description><ns0:encoded>受9月26日至30日强降雨及洪灾影响而导致航班延误、取消或行李延误的乘客，即日起可向泰国国际航空申请赔偿。</ns0:encoded></item><item><title>è«éå°¼å¥¥åæºç»´å°¼ä¿®æ¯ï¼è¥æ¢æ¯ææå·²ç¦»å¼çé©¬</title><link>https://www.zaobao.com.sg/news/sports/story20261017-9853633</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261017-9853633</guid><pubDate>Sat, 17 Oct 2026 17:34:59 +0000</pubDate><category>最新</category><description>ï¼é©¬å¾·éæ³æ°çµï¼çå®¶é©¬å¾·éï¼Real Madridï¼ä¸»å¸ è«éå°¼å¥¥ï¼Mourinhoï¼ææå ­ï¼10æ17æ¥ï¼ç§°ï¼å¦æä»æ¯è¾¹éç»´å°¼ä¿®æ¯ï¼Viniciusï¼ï¼ä»å¹´å¤å¤©å°±ä¼éæ©ç¦»å¼è¿å®¶è¥¿ç²è±ªé¨ã</description><ns0:encoded>ï¼é©¬å¾·éæ³æ°çµï¼çå®¶é©¬å¾·éï¼Real Madridï¼ä¸»å¸ è«éå°¼å¥¥ï¼Mourinhoï¼ææå ­ï¼10æ17æ¥ï¼ç§°ï¼å¦æä»æ¯è¾¹éç»´å°¼ä¿®æ¯ï¼Viniciusï¼ï¼ä»å¹´å¤å¤©å°±ä¼éæ©ç¦»å¼è¿å®¶è¥¿ç²è±ªé¨ã</ns0:encoded></item><item><title>饶毅指美国期刊《癌细胞》主编涉索贿 吁中国科学家抵制</title><link>https://www.zaobao.com.sg/news/china/story20261017-9853020</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261017-9853020</guid><pubDate>Sat, 17 Oct 2026 17:26:00 +0000</pubDate><category>最新</category><description>北京大学教授、首都医科大学原校长饶毅发文称，多个重要国际学术期刊出现索贿受贿的编辑，甚至主编，点名美国期刊《癌细胞》（Cancel Cell）主编毛云涛（Steve Mao）。</description><ns0:encoded>北京大学教授、首都医科大学原校长饶毅发文称，多个重要国际学术期刊出现索贿受贿的编辑，甚至主编，点名美国期刊《癌细胞》（Cancel Cell）主编毛云涛（Steve Mao）。</ns0:encoded></item><item><title>台中经院上修经济增长率超12% 创38年新高</title><link>https://www.zaobao.com.sg/news/china/story20261017-9852983</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261017-9852983</guid><pubDate>Sat, 17 Oct 2026 17:17:00 +0000</pubDate><category>最新</category><description>人工智能（AI）需求持续强劲，带动台湾经济快速增长。中华经济研究院星期五（10月16日）发布今年台湾经济最新预估，全年增长率可达12.16%，写下1988年以来的新高。</description><ns0:encoded>人工智能（AI）需求持续强劲，带动台湾经济快速增长。中华经济研究院星期五（10月16日）发布今年台湾经济最新预估，全年增长率可达12.16%，写下1988年以来的新高。</ns0:encoded></item><item><title>马雷斯卡：财务违规风波让曼市更团结 希望看到更多充气香蕉</title><link>https://www.zaobao.com.sg/news/sports/story20261017-9852816</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261017-9852816</guid><pubDate>Sat, 17 Oct 2026 17:00:00 +0000</pubDate><category>最新</category><description>（伦敦综合电）曼市（Manchester City）主帅马雷斯卡（Maresca）认为，球队在经历了被裁定违反超过100条英超财务规则的风波后，变得更加团结。他还说希望球队在星期六（10月17日）主场对垒伊普斯维奇（Ipswich）的英超联赛比赛中，看到更多的充气香蕉。</description><ns0:encoded>（伦敦综合电）曼市（Manchester City）主帅马雷斯卡（Maresca）认为，球队在经历了被裁定违反超过100条英超财务规则的风波后，变得更加团结。他还说希望球队在星期六（10月17日）主场对垒伊普斯维奇（Ipswich）的英超联赛比赛中，看到更多的充气香蕉。</ns0:encoded></item><item><title>科技局出手牵红线 新加坡人怎么看？| 现在事</title><link>https://www.zaobao.com.sg/news/singapore/story20261017-9850035</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9850035</guid><pubDate>Sat, 17 Oct 2026 17:00:00 +0000</pubDate><category>新加坡</category><description>新加坡政府科技局（GovTech）9月29日试行相亲平台FirstDate，为年轻公务员推荐交往对象。有人觉得公务员之间相亲更靠谱，有人择偶先看颜值，也有人坦言，单身至今，全因自己懒得主动出击。</description><ns0:encoded>新加坡政府科技局（GovTech）9月29日试行相亲平台FirstDate，为年轻公务员推荐交往对象。有人觉得公务员之间相亲更靠谱，有人择偶先看颜值，也有人坦言，单身至今，全因自己懒得主动出击。</ns0:encoded></item><item><title>黄循财总理18日起访卡塔尔和阿联酋 就中东局势交换意见</title><link>https://www.zaobao.com.sg/news/singapore/story20261017-9849077</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261017-9849077</guid><pubDate>Sat, 17 Oct 2026 17:00:00 +0000</pubDate><category>新加坡</category><description>黄循财总理星期天（10月18日）将首次以总理身份出访中东地区，先后到卡塔尔和阿拉伯联合酋长国进行正式访问，与两国领导人讨论中东局势。</description><ns0:encoded>黄循财总理星期天（10月18日）将首次以总理身份出访中东地区，先后到卡塔尔和阿拉伯联合酋长国进行正式访问，与两国领导人讨论中东局势。</ns0:encoded></item></channel></rss>
