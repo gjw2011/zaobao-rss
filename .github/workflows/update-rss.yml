@@ -1,0 +1,41 @@
+name: Update Zaobao RSS
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-rss:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate RSS
+        run: python generate.py
+
+      - name: Publish generated RSS
+        run: |
+          cp docs/rss.xml rss.xml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add rss.xml docs/rss.xml
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update Zaobao RSS"
+            git push
+          fi
