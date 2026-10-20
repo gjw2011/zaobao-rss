@@ -1,218 +1,350 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://purl.org/rss/1.0/modules/content/" version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>联合早报 RSS</title><link>https://www.zaobao.com.sg</link><description>联合早报新闻 RSS</description><language>zh-CN</language><lastBuildDate>Tue, 20 Oct 2026 02:12:27 +0000</lastBuildDate><item><title>马国财政部：未承诺担保或用公款援助亚航</title><link>https://www.zaobao.com.sg/news/sea/story20261020-9863487</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261020-9863487</guid><pubDate>Tue, 20 Oct 2026 10:04:00 +0000</pubDate><category>最新</category><description>马来西亚财政部说，政府并未就向亚洲航空提供财务援助达成任何协议或做出任何承诺，无论是通过担保、贷款或注入公共资金。</description><ns0:encoded>马来西亚财政部说，政府并未就向亚洲航空提供财务援助达成任何协议或做出任何承诺，无论是通过担保、贷款或注入公共资金。</ns0:encoded></item><item><title>世杯赛后炮轰裁判执法不当 埃及主帅和球员被禁赛多场</title><link>https://www.zaobao.com.sg/news/sports/story20261020-9863464</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261020-9863464</guid><pubDate>Tue, 20 Oct 2026 10:04:00 +0000</pubDate><category>最新</category><description>（开罗综合电）埃及足球总会星期一（10月19日）说，国际足联（FIFA）已对埃及主帅胡萨姆·哈桑（Hossam Hassan）、前锋济科（Mostafa Ziko）分别处以禁赛三场和五场的处罚。今年7月，埃及在世界杯16强以2比3不敌阿根廷，哈桑和济科赛后批评当值主裁。</description><ns0:encoded>（开罗综合电）埃及足球总会星期一（10月19日）说，国际足联（FIFA）已对埃及主帅胡萨姆·哈桑（Hossam Hassan）、前锋济科（Mostafa Ziko）分别处以禁赛三场和五场的处罚。今年7月，埃及在世界杯16强以2比3不敌阿根廷，哈桑和济科赛后批评当值主裁。</ns0:encoded></item><item><title>吉宝REIT以6.1亿元购Keppel South Central 51%权益 或增每单位派息2%</title><link>https://www.zaobao.com.sg/finance/singapore/story20261020-9863347</link><guid isPermaLink="true">https://www.zaobao.com.sg/finance/singapore/story20261020-9863347</guid><pubDate>Tue, 20 Oct 2026 09:56:00 +0000</pubDate><category>最新</category><description>吉宝房地产投资信托（Keppel REIT）以6亿1090万元，从保荐人吉宝（Keppel）手中收购甲级办公楼Keppel South Central的51%权益，预计能让信托的每单位派息（DPU）增加2.01%。</description><ns0:encoded>吉宝房地产投资信托（Keppel REIT）以6亿1090万元，从保荐人吉宝（Keppel）手中收购甲级办公楼Keppel South Central的51%权益，预计能让信托的每单位派息（DPU）增加2.01%。</ns0:encoded></item><item><title>彭博：智谱四创始人曾参与涉中国情报机构争议的研究</title><link>https://www.zaobao.com.sg/news/china/story20261020-9863448</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9863448</guid><pubDate>Tue, 20 Oct 2026 09:48:00 +0000</pubDate><category>最新</category><description>中国人工智能（AI）企业智谱四名创始人据报曾参与一项研究项目，部分资金来自被英国情报机构指与中国国家安全部“关系密切”的研究机构。有关项目涉及利用AI分析社交媒体信息、识别重要事件，以及建立人物关系网络。</description><ns0:encoded>中国人工智能（AI）企业智谱四名创始人据报曾参与一项研究项目，部分资金来自被英国情报机构指与中国国家安全部“关系密切”的研究机构。有关项目涉及利用AI分析社交媒体信息、识别重要事件，以及建立人物关系网络。</ns0:encoded></item><item><title>哥伦比亚非法金矿坍塌 酿14死7伤</title><link>https://www.zaobao.com.sg/news/world/story20261020-9863390</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261020-9863390</guid><pubDate>Tue, 20 Oct 2026 09:45:00 +0000</pubDate><category>最新</category><description>哥伦比亚西南部一座非法金矿发生矿坑坍塌，导致14人死亡、七人受伤。
+<rss xmlns:ns0="http://purl.org/rss/1.0/modules/content/" version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>联合早报 RSS</title><link>https://www.zaobao.com.sg</link><description>联合早报新闻 RSS</description><language>zh-CN</language><lastBuildDate>Tue, 20 Oct 2026 07:46:49 +0000</lastBuildDate><item><title>主场发生高楼抛物事件 布伦特福德已报警调查</title><link>https://www.zaobao.com.sg/news/sports/story20261020-9865358</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261020-9865358</guid><pubDate>Tue, 20 Oct 2026 15:40:00 +0000</pubDate><category>最新</category><description>（布伦特福德讯）英超球队布伦特福德（Brentford）在上周末不敌利物浦（Liverpool）的英超联赛中，有人在附近高处向球场踢了个橄榄球，布伦特福德形容此举“危险”且“可能造成严重伤害”，并已就此事报警。</description><ns0:encoded>（布伦特福德讯）英超球队布伦特福德（Brentford）在上周末不敌利物浦（Liverpool）的英超联赛中，有人在附近高处向球场踢了个橄榄球，布伦特福德形容此举“危险”且“可能造成严重伤害”，并已就此事报警。</ns0:encoded></item><item><title>我国公积金制度蝉联A级 全球第四亚洲第一</title><link>https://www.zaobao.com.sg/news/singapore/story20261020-9864943</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261020-9864943</guid><pubDate>Tue, 20 Oct 2026 15:36:00 +0000</pubDate><category>最新</category><description>我国中央公积金制度连续两年获评为全球最佳的A级退休养老制度，整体得分从去年的80.8分提高至82分，在55个受评制度中排名第四，并继续位居亚洲之首。</description><ns0:encoded>我国中央公积金制度连续两年获评为全球最佳的A级退休养老制度，整体得分从去年的80.8分提高至82分，在55个受评制度中排名第四，并继续位居亚洲之首。</ns0:encoded></item><item><title>山东民政厅：引导树立个人是养老第一责任人的观念</title><link>https://www.zaobao.com.sg/news/china/story20261020-9865481</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9865481</guid><pubDate>Tue, 20 Oct 2026 15:25:00 +0000</pubDate><category>最新</category><description>中国山东省民政厅称，要引导树立个人是养老第一责任人的观念，将个人养老教育、养老规划指导纳入教育培训。
 
-综合路透社和法新社报道，当地政府星期一（10月19日）通报，这起事故发生在纳里尼奥省（Nariño）圣巴巴拉德伊斯宽德（Santa Barbara de Iscuande）市的钱贝罗（Chambero）乡村地区。
+据《济南时报》报道，山东省人民政府新闻办公室上周五（10月16日）举行新闻发布会，邀请省民政厅主要负责人等介绍山东推动老龄工作高质量发展情况。
 
-社交媒体流传的视频显示，事发后人们动用挖掘机，将遇难者遗体从矿区运出，并转移到附近河流的独木舟上。
+山东省民政厅中共党组书记、厅长庄严说，老龄工作一直是重中之重，省民政厅认真落实省委、省人民政府部署安排，锚定“走在前、挑大梁”，认真履行省老龄办“综合协调、督促指导、组织推进”职能，和社会各界一道，深入贯彻实施积极应对人口老龄化国家战略。
 
-纳里尼奥省省长埃斯科瓦尔（Luis Alfonso Escobar）证实，现场搜救幸存者的行动已经结束。
+庄严提到了老龄工作的四个要点，包括更好发挥“有为政府”作用，制度建设更加完善，服务供给持续提升；更好发挥“有效市场”作用，主体培育更加有力，业态融合持续深化；更好发挥“有情社会”作用，银龄参与更加广泛，环境建设持续优化；更好发挥“家庭有爱”作用，理念引导更加深入，居家保障持续强化。
 
-他也指出，由于事发地点地形险峻，加上当地有犯罪集团盘踞，救援队在赶赴现场时困难重重。
+其中在家庭部分，庄严说，要引导树立个人是养老第一责任人的观念，将个人养老教育、养老规划指导纳入老龄化国情教育、老年教育培训。
 
-与厄瓜多尔接壤的纳里尼奥省是非法采矿的热点地区。当地武装组织不仅控制着地下黄金交易，还从事贩毒和敲诈勒索勾当
+庄严讲话的视频片段在网上流传，引发舆论关注。对此，《环球时报》前总编辑胡锡进上周六（10月17日）在微博发文称，在舆论场上宣扬个人是养老第一责任人，并不合适，“做这样的切片拿到互联网上播放，给人的观感方向挺不舒服”。
 
-在哥伦比亚农村地区，非正规且缺乏监管的采矿活动十分普遍。由于作业往往缺乏足够的安全基础设施，致命矿难频频发生。
+胡锡进写道，养老当然首先是个人的事，是家庭的事，但国家和社会也有责任，特别是中国曾长期计划生育，当年一些地方还打出过“只生一个好，国家来养老”的宣传口号。地方政府还是应该在舆论场上多强调政府和社会组织对居民养老应当开展的工作，包括兜底的保障工作，才会给人温暖和踏实感。</description><ns0:encoded>中国山东省民政厅称，要引导树立个人是养老第一责任人的观念，将个人养老教育、养老规划指导纳入教育培训。
 
-今年8月，同样位于纳里尼奥省的波利卡帕镇（Policarpa）也发生过类似矿难，导致13人丧生。
+据《济南时报》报道，山东省人民政府新闻办公室上周五（10月16日）举行新闻发布会，邀请省民政厅主要负责人等介绍山东推动老龄工作高质量发展情况。
 
-埃斯科瓦尔呼吁国家政府、国家矿业局以及矿业与能源部，加快推动非法及小规模矿工的合法化进程，以改善工作条件并提升安全标准。
+山东省民政厅中共党组书记、厅长庄严说，老龄工作一直是重中之重，省民政厅认真落实省委、省人民政府部署安排，锚定“走在前、挑大梁”，认真履行省老龄办“综合协调、督促指导、组织推进”职能，和社会各界一道，深入贯彻实施积极应对人口老龄化国家战略。
 
-埃斯科瓦尔办公室一名消息人士说，传统的小规模采矿几乎已经消失了，“除了从事这些风险极高的活动，当地社区没有其他经济出路”。</description><ns0:encoded>哥伦比亚西南部一座非法金矿发生矿坑坍塌，导致14人死亡、七人受伤。
+庄严提到了老龄工作的四个要点，包括更好发挥“有为政府”作用，制度建设更加完善，服务供给持续提升；更好发挥“有效市场”作用，主体培育更加有力，业态融合持续深化；更好发挥“有情社会”作用，银龄参与更加广泛，环境建设持续优化；更好发挥“家庭有爱”作用，理念引导更加深入，居家保障持续强化。
 
-综合路透社和法新社报道，当地政府星期一（10月19日）通报，这起事故发生在纳里尼奥省（Nariño）圣巴巴拉德伊斯宽德（Santa Barbara de Iscuande）市的钱贝罗（Chambero）乡村地区。
+其中在家庭部分，庄严说，要引导树立个人是养老第一责任人的观念，将个人养老教育、养老规划指导纳入老龄化国情教育、老年教育培训。
 
-社交媒体流传的视频显示，事发后人们动用挖掘机，将遇难者遗体从矿区运出，并转移到附近河流的独木舟上。
+庄严讲话的视频片段在网上流传，引发舆论关注。对此，《环球时报》前总编辑胡锡进上周六（10月17日）在微博发文称，在舆论场上宣扬个人是养老第一责任人，并不合适，“做这样的切片拿到互联网上播放，给人的观感方向挺不舒服”。
 
-纳里尼奥省省长埃斯科瓦尔（Luis Alfonso Escobar）证实，现场搜救幸存者的行动已经结束。
+胡锡进写道，养老当然首先是个人的事，是家庭的事，但国家和社会也有责任，特别是中国曾长期计划生育，当年一些地方还打出过“只生一个好，国家来养老”的宣传口号。地方政府还是应该在舆论场上多强调政府和社会组织对居民养老应当开展的工作，包括兜底的保障工作，才会给人温暖和踏实感。</ns0:encoded></item><item><title>伊朗外长：俄伊合作“前所未有”紧密</title><link>https://www.zaobao.com.sg/news/world/story20261020-9865424</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261020-9865424</guid><pubDate>Tue, 20 Oct 2026 15:24:00 +0000</pubDate><category>最新</category><description>在莫斯科寻求调解中东战争之际，伊朗外交部长阿拉格齐形容，俄罗斯与伊朗的合作从未如此紧密过。
 
-他也指出，由于事发地点地形险峻，加上当地有犯罪集团盘踞，救援队在赶赴现场时困难重重。
+法新社报道，俄罗斯外长拉夫罗夫星期一（10月19日）访问伊朗，与阿拉格齐会面。这是中东冲突爆发以来，拉夫罗夫首次访问伊朗。
 
-与厄瓜多尔接壤的纳里尼奥省是非法采矿的热点地区。当地武装组织不仅控制着地下黄金交易，还从事贩毒和敲诈勒索勾当
+阿拉格齐星期二（20日）在社交媒体X发文说，双方的讨论涵盖从欧洲到西亚的各项议题，包括黎巴嫩、巴勒斯坦、乌克兰和也门，同时也聚焦于扩大经济和核领域的合作。
 
-在哥伦比亚农村地区，非正规且缺乏监管的采矿活动十分普遍。由于作业往往缺乏足够的安全基础设施，致命矿难频频发生。
+他写道：“在我们的历史上，伊朗和俄罗斯从未像现在这样紧密合作。”
 
-今年8月，同样位于纳里尼奥省的波利卡帕镇（Policarpa）也发生过类似矿难，导致13人丧生。
+在美伊谈判陷入僵局的背景下，拉夫罗夫在出访前说，莫斯科的努力“旨在防止大规模战争重演”。
 
-埃斯科瓦尔呼吁国家政府、国家矿业局以及矿业与能源部，加快推动非法及小规模矿工的合法化进程，以改善工作条件并提升安全标准。
+此次访问前，俄罗斯总统普京曾在本月向伊朗总统佩泽希齐扬说，莫斯科准备为调解工作做出贡献。
 
-埃斯科瓦尔办公室一名消息人士说，传统的小规模采矿几乎已经消失了，“除了从事这些风险极高的活动，当地社区没有其他经济出路”。</ns0:encoded></item><item><title>热刺3比1击退考文垂 斩获赛季首胜暂离降级区</title><link>https://www.zaobao.com.sg/news/sports/story20261020-9863262</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261020-9863262</guid><pubDate>Tue, 20 Oct 2026 09:42:00 +0000</pubDate><category>最新</category><description>（伦敦综合电）经历挣扎开局后，“热刺”托特纳姆（Tottenham Hotspur）展现出久违的凝聚力，在新加坡时间星期二（10月20日）的英超主场以3比1力挫考文垂（Coventry），迎来本赛季的联赛首胜，并升至积分榜第16位，暂时逃离降级区泥潭。</description><ns0:encoded>（伦敦综合电）经历挣扎开局后，“热刺”托特纳姆（Tottenham Hotspur）展现出久违的凝聚力，在新加坡时间星期二（10月20日）的英超主场以3比1力挫考文垂（Coventry），迎来本赛季的联赛首胜，并升至积分榜第16位，暂时逃离降级区泥潭。</ns0:encoded></item><item><title>瑞士宝盛：多数亚洲豪门未准备好让下一代传承家族生意</title><link>https://www.zaobao.com.sg/finance/singapore/story20261020-9850180</link><guid isPermaLink="true">https://www.zaobao.com.sg/finance/singapore/story20261020-9850180</guid><pubDate>Tue, 20 Oct 2026 09:30:00 +0000</pubDate><category>最新</category><description>继承规划是亚洲、中东、欧洲和拉丁美洲这四个地区的家族首要关注事项。在亚洲，延续家族传承则排在第二位，重要性高于个人及家族的发展机会。</description><ns0:encoded>继承规划是亚洲、中东、欧洲和拉丁美洲这四个地区的家族首要关注事项。在亚洲，延续家族传承则排在第二位，重要性高于个人及家族的发展机会。</ns0:encoded></item><item><title>王毅：中国外交政策是结伴不结盟 对话不对抗</title><link>https://www.zaobao.com.sg/news/china/story20261020-9863355</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9863355</guid><pubDate>Tue, 20 Oct 2026 09:19:00 +0000</pubDate><category>最新</category><description>中共政治局委员、中国外交部长王毅在介绍欧亚行时说，中国秉持着“结伴而不结盟，对话而不对抗”的外交政策，主张构建新型国际关系，推进国际关系的民主化。</description><ns0:encoded>中共政治局委员、中国外交部长王毅在介绍欧亚行时说，中国秉持着“结伴而不结盟，对话而不对抗”的外交政策，主张构建新型国际关系，推进国际关系的民主化。</ns0:encoded></item><item><title>亚太科技板块持续走低 海指开市微跌0.83点</title><link>https://www.zaobao.com.sg/finance/singapore/story20261020-9863287</link><guid isPermaLink="true">https://www.zaobao.com.sg/finance/singapore/story20261020-9863287</guid><pubDate>Tue, 20 Oct 2026 09:13:00 +0000</pubDate><category>最新</category><description>亚太股市星期二（10月20日）未能受美国半导体板块回涨提振，开市普遍走低。MSCI亚太指数下跌0.3%；首尔股市开市领跌，重挫3.26%。新加坡股市早盘小幅走低，几乎持平。</description><ns0:encoded>亚太股市星期二（10月20日）未能受美国半导体板块回涨提振，开市普遍走低。MSCI亚太指数下跌0.3%；首尔股市开市领跌，重挫3.26%。新加坡股市早盘小幅走低，几乎持平。</ns0:encoded></item><item><title>港媒：中共长征胜利90周年纪念大会预计周四举行</title><link>https://www.zaobao.com.sg/news/china/story20261020-9863312</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9863312</guid><pubDate>Tue, 20 Oct 2026 09:04:00 +0000</pubDate><category>最新</category><description>中国预计星期四（10月22日）在北京举行红军长征胜利90周年纪念大会，国家主席习近平料将发表讲话。纪念活动举行前夕，中共中央党校高层撰文强调，在中国发展的关键时期，必须维护习近平的核心地位，坚定不移“忠诚核心、拥戴核心、维护核心、捍卫核心”。</description><ns0:encoded>中国预计星期四（10月22日）在北京举行红军长征胜利90周年纪念大会，国家主席习近平料将发表讲话。纪念活动举行前夕，中共中央党校高层撰文强调，在中国发展的关键时期，必须维护习近平的核心地位，坚定不移“忠诚核心、拥戴核心、维护核心、捍卫核心”。</ns0:encoded></item><item><title>澳洲被撞议员情况危重 总理称显然是蓄意袭击</title><link>https://www.zaobao.com.sg/news/world/story20261020-9863289</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261020-9863289</guid><pubDate>Tue, 20 Oct 2026 09:03:00 +0000</pubDate><category>最新</category><description>澳大利亚一名独立国会议员在办公室外遭汽车撞伤，虽已连夜接受手术，但情况依然危重。澳总理阿尔巴尼斯称，渉事车辆此前特地掉头，显然是蓄意袭击，并呼吁各方彼此尊重，为紧张局势降温。</description><ns0:encoded>澳大利亚一名独立国会议员在办公室外遭汽车撞伤，虽已连夜接受手术，但情况依然危重。澳总理阿尔巴尼斯称，渉事车辆此前特地掉头，显然是蓄意袭击，并呼吁各方彼此尊重，为紧张局势降温。</ns0:encoded></item><item><title>星期二可关注股票</title><link>https://www.zaobao.com.sg/finance/singapore/story20261020-9863187</link><guid isPermaLink="true">https://www.zaobao.com.sg/finance/singapore/story20261020-9863187</guid><pubDate>Tue, 20 Oct 2026 08:59:00 +0000</pubDate><category>最新</category><description>多家与人工智能（AI）相关的科技企业将发布最新财报，美国股市科技板块因此回弹，投资者将密切关注大规模AI投资最终能否获得回报的迹象。</description><ns0:encoded>多家与人工智能（AI）相关的科技企业将发布最新财报，美国股市科技板块因此回弹，投资者将密切关注大规模AI投资最终能否获得回报的迹象。</ns0:encoded></item><item><title>中国驻菲大使指菲方断章取义、抹黑中方言论</title><link>https://www.zaobao.com.sg/news/china/story20261020-9863272</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9863272</guid><pubDate>Tue, 20 Oct 2026 08:45:00 +0000</pubDate><category>最新</category><description>中国驻菲律宾大使井泉在回应与菲律宾外交部长拉扎罗会面时，指菲方断章取义、污蔑抹黑中方言论，并称如果有任何人对中国进行抹黑攻击，别指望中国使馆保持沉默。</description><ns0:encoded>中国驻菲律宾大使井泉在回应与菲律宾外交部长拉扎罗会面时，指菲方断章取义、污蔑抹黑中方言论，并称如果有任何人对中国进行抹黑攻击，别指望中国使馆保持沉默。</ns0:encoded></item><item><title>中国央行拟改以隔夜回购利率为政策基准 分析：或形成变相降息</title><link>https://www.zaobao.com.sg/news/china/story20261020-9863238</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9863238</guid><pubDate>Tue, 20 Oct 2026 08:30:00 +0000</pubDate><category>最新</category><description>中国央行计划调整货币政策框架，研究择机以隔夜回购利率取代现行七天期逆回购利率，作为主要政策利率。分析师认为，由于隔夜利率目前低于七天期利率，这项调整可能产生变相降息的效果，降低市场借贷成本。</description><ns0:encoded>中国央行计划调整货币政策框架，研究择机以隔夜回购利率取代现行七天期逆回购利率，作为主要政策利率。分析师认为，由于隔夜利率目前低于七天期利率，这项调整可能产生变相降息的效果，降低市场借贷成本。</ns0:encoded></item><item><title>三区24小时PSI维持适中水平 西部中部仍“不健康”</title><link>https://www.zaobao.com.sg/news/singapore/story20261020-9863220</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261020-9863220</guid><pubDate>Tue, 20 Oct 2026 08:28:00 +0000</pubDate><category>最新</category><description>本地东、南和北部地区24小时空气污染指数（PSI）维持在适中水平，但西部和中部的PSI仍“不健康”。其中，西部空气较差，达125点。</description><ns0:encoded>本地东、南和北部地区24小时空气污染指数（PSI）维持在适中水平，但西部和中部的PSI仍“不健康”。其中，西部空气较差，达125点。</ns0:encoded></item><item><title>英国匈牙利及塞尔维亚数百所学校接“诈弹”恐吓</title><link>https://www.zaobao.com.sg/news/world/story20261020-9863208</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261020-9863208</guid><pubDate>Tue, 20 Oct 2026 08:20:00 +0000</pubDate><category>最新</category><description>英国北爱尔兰和苏格兰，以及匈牙利和塞尔维亚的数百所学校在星期一（10月19日）收到炸弹恐吓，部分学校紧急疏散。</description><ns0:encoded>英国北爱尔兰和苏格兰，以及匈牙利和塞尔维亚的数百所学校在星期一（10月19日）收到炸弹恐吓，部分学校紧急疏散。</ns0:encoded></item><item><title>法国巴黎等城市宣布实施宵禁 以全力平息骚乱</title><link>https://www.zaobao.com.sg/news/world/story20261020-9863189</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261020-9863189</guid><pubDate>Tue, 20 Oct 2026 08:02:00 +0000</pubDate><category>最新</category><description>法国过去的周末爆发全国范围的示威活动后，包括首都巴黎在内的数个城市宣布实施宵禁，以全力平息骚乱。
+作为全球受制裁最严重的两个国家，俄罗斯和伊朗保持着密切关系。
 
-法新社报道，为保护商家，当局宣布在包括巴黎、里尔（Lille）和里昂在内的多个城市，从星期一（10月19日）晚上至星期二（20日）清晨实施局部宵禁。
+俄罗斯外交部在拉夫罗夫访伊前夕指出，双方预计将重点讨论“如何解决由美以对伊朗非法侵略所引发的严峻国际危机”。
 
-其中，巴黎从星期一晚上11时起实施宵禁，并从晚上8时起禁止一切示威活动。法国第二大城市马赛则从19日12时至20时禁止一切公共集会或示威活动。
+俄外交部称，这场战争不仅对近东和中东，也对全球范围的稳定与安全造成了打击。</description><ns0:encoded>在莫斯科寻求调解中东战争之际，伊朗外交部长阿拉格齐形容，俄罗斯与伊朗的合作从未如此紧密过。
 
-法国总理勒科尔尼星期一召开紧急会议后说，实施宵禁是目前较合适的应对措施，但若局势需要，政府不排除在必要时发布紧急状态令。
+法新社报道，俄罗斯外长拉夫罗夫星期一（10月19日）访问伊朗，与阿拉格齐会面。这是中东冲突爆发以来，拉夫罗夫首次访问伊朗。
 
-勒科尔尼也誓言：“我绝对有决心恢复公共秩序。”
+阿拉格齐星期二（20日）在社交媒体X发文说，双方的讨论涵盖从欧洲到西亚的各项议题，包括黎巴嫩、巴勒斯坦、乌克兰和也门，同时也聚焦于扩大经济和核领域的合作。
 
-法国这波大规模示威在9月中旬由学生运动引发，后来扩展为民众抗议生活费上涨和公共服务退化，上周末更有部分地区爆发暴力骚乱，成为法国数十年来最严重的动乱事件之一。
+他写道：“在我们的历史上，伊朗和俄罗斯从未像现在这样紧密合作。”
 
-在星期六（17日）的暴乱中，全国有超过2400人被捕，至少有3000家企业受到骚乱波及，损失高达数亿欧元。
+在美伊谈判陷入僵局的背景下，拉夫罗夫在出访前说，莫斯科的努力“旨在防止大规模战争重演”。
 
-不过，法国民众的不满情绪仍未平息。部分地区星期一继续出现示威，巴黎著名地标卢浮宫的入口也遭一小群学生示威者封锁，当天被迫关闭，扰乱不少游客的行程。
+此次访问前，俄罗斯总统普京曾在本月向伊朗总统佩泽希齐扬说，莫斯科准备为调解工作做出贡献。
 
-法国媒体报道称，17日示威的组织者计划在10月24日再次举行示威，部分工会和学生组织也将下一次全国抗议日期定在11月5日。
+作为全球受制裁最严重的两个国家，俄罗斯和伊朗保持着密切关系。
 
-抗议浪潮也蔓延欧洲多国。上周末，意大利米兰一场抗议生活成本高涨的示威活动场边也爆发了冲突。
+俄罗斯外交部在拉夫罗夫访伊前夕指出，双方预计将重点讨论“如何解决由美以对伊朗非法侵略所引发的严峻国际危机”。
 
-米兰市长萨拉（Giuseppe Sala）坦言：“我非常担心，因为这是一种新现象，它也源于国际大环境，因此会自我助长。”
+俄外交部称，这场战争不仅对近东和中东，也对全球范围的稳定与安全造成了打击。</ns0:encoded></item><item><title>大陆学生“手捏赖清德”被驱逐 台陆委会：挑战规定不得不执法</title><link>https://www.zaobao.com.sg/news/china/story20261020-9865423</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9865423</guid><pubDate>Tue, 20 Oct 2026 15:17:00 +0000</pubDate><category>最新</category><description>一名在台湾大学就读的19岁中国大陆交换生，因在社交媒体上传借位“手捏”台湾总统赖清德头部的视频，并附上支持两岸统一的文字，被台湾移民署驱逐出境，并被禁止五年内入境台湾。台湾陆委会副主委梁文杰回应处分过重的质疑时称，当事人刻意挑战台湾规定，移民署“不得不执法”。</description><ns0:encoded>一名在台湾大学就读的19岁中国大陆交换生，因在社交媒体上传借位“手捏”台湾总统赖清德头部的视频，并附上支持两岸统一的文字，被台湾移民署驱逐出境，并被禁止五年内入境台湾。台湾陆委会副主委梁文杰回应处分过重的质疑时称，当事人刻意挑战台湾规定，移民署“不得不执法”。</ns0:encoded></item><item><title>马国社团注册局 正式撤销国民联盟注册资格</title><link>https://www.zaobao.com.sg/news/sea/story20261020-9865313</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261020-9865313</guid><pubDate>Tue, 20 Oct 2026 15:14:00 +0000</pubDate><category>最新</category><description>马来西亚社团注册局宣布，正式撤销国民联盟的注册资格，因为国盟早前提交的解释不足以推翻当局提出提出的撤销注册理由，也未能充分证明有必要保留注册资格。</description><ns0:encoded>马来西亚社团注册局宣布，正式撤销国民联盟的注册资格，因为国盟早前提交的解释不足以推翻当局提出提出的撤销注册理由，也未能充分证明有必要保留注册资格。</ns0:encoded></item><item><title>吴钊燮：大陆经济问题外溢 吁各国加速降低风险</title><link>https://www.zaobao.com.sg/news/china/story20261020-9865389</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9865389</guid><pubDate>Tue, 20 Oct 2026 15:12:00 +0000</pubDate><category>最新</category><description>台湾国安会秘书长吴钊燮在一场国际研讨会上说，中国大陆经济问题正外溢影响他国，因此呼吁各国要采取实际行动降低风险。</description><ns0:encoded>台湾国安会秘书长吴钊燮在一场国际研讨会上说，中国大陆经济问题正外溢影响他国，因此呼吁各国要采取实际行动降低风险。</ns0:encoded></item><item><title>访问请求异常跳转至博彩网站 调查称与中国境外自治系统有关</title><link>https://www.zaobao.com.sg/news/china/story20261020-9865359</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9865359</guid><pubDate>Tue, 20 Oct 2026 15:10:00 +0000</pubDate><category>最新</category><description>中国国家互联网应急中心星期二（10月20日）在社媒通报，多个省份多次发生用户访问请求异常跳转至博彩网站的事件，起因与中国境外自治系统有关。</description><ns0:encoded>中国国家互联网应急中心星期二（10月20日）在社媒通报，多个省份多次发生用户访问请求异常跳转至博彩网站的事件，起因与中国境外自治系统有关。</ns0:encoded></item><item><title>战俘引渡争端升温 韩国撤离部分驻乌克兰使馆人员</title><link>https://www.zaobao.com.sg/news/world/story20261020-9865266</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261020-9865266</guid><pubDate>Tue, 20 Oct 2026 15:09:00 +0000</pubDate><category>最新</category><description>韩国与乌克兰因朝鲜战俘移交问题产生的外交纠纷不断升级。韩国外交部宣布，决定撤离部分驻乌克兰大使馆的工作人员。</description><ns0:encoded>韩国与乌克兰因朝鲜战俘移交问题产生的外交纠纷不断升级。韩国外交部宣布，决定撤离部分驻乌克兰大使馆的工作人员。</ns0:encoded></item><item><title>李小冬内部备忘录：冬海集团考虑上市旗下金融服务公司Monee</title><link>https://www.zaobao.com.sg/finance/singapore/story20261020-9865133</link><guid isPermaLink="true">https://www.zaobao.com.sg/finance/singapore/story20261020-9865133</guid><pubDate>Tue, 20 Oct 2026 15:07:00 +0000</pubDate><category>最新</category><description>在美国上市的冬海集团（SEA），考虑为旗下金融服务公司Monee进行首次公开售股活动，同时也会推出人工智能企业服务平台。</description><ns0:encoded>在美国上市的冬海集团（SEA），考虑为旗下金融服务公司Monee进行首次公开售股活动，同时也会推出人工智能企业服务平台。</ns0:encoded></item><item><title>纪念红军长征胜利90周年 中国推出美国记者斯诺纪录片</title><link>https://www.zaobao.com.sg/news/china/story20261020-9864821</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9864821</guid><pubDate>Tue, 20 Oct 2026 15:01:00 +0000</pubDate><category>最新</category><description>今年是中共红军长征胜利90周年，中国推出以美国记者埃德加·斯诺（Edgar Snow）为主题的纪录片，回顾他在中国的采访经历，以及通过著作《红星照耀中国》，介绍中国共产党和红军长征的历程。</description><ns0:encoded>今年是中共红军长征胜利90周年，中国推出以美国记者埃德加·斯诺（Edgar Snow）为主题的纪录片，回顾他在中国的采访经历，以及通过著作《红星照耀中国》，介绍中国共产党和红军长征的历程。</ns0:encoded></item><item><title>被指涉印尼林火企业 多名股东在新加坡经商置业</title><link>https://www.zaobao.com.sg/finance/singapore/story20261020-9864678</link><guid isPermaLink="true">https://www.zaobao.com.sg/finance/singapore/story20261020-9864678</guid><pubDate>Tue, 20 Oct 2026 15:01:00 +0000</pubDate><category>最新</category><description>接到国家环境局通知书、10家涉嫌在印度尼西亚烧芭的公司，当中多家公司的负责人与新加坡有密切的商业联系，并且三人拥有我国的永久居民身份。</description><ns0:encoded>接到国家环境局通知书、10家涉嫌在印度尼西亚烧芭的公司，当中多家公司的负责人与新加坡有密切的商业联系，并且三人拥有我国的永久居民身份。</ns0:encoded></item><item><title>Singpass认证卖家一再爽约 学生二手平台买手机失订金报警</title><link>https://www.zaobao.com.sg/news/singapore/story20261020-9864608</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261020-9864608</guid><pubDate>Tue, 20 Oct 2026 14:55:00 +0000</pubDate><category>最新</category><description>原想给56岁父亲一个生日惊喜，送他一部iPhone 18 Pro Max，25岁学生却在旋转拍卖（Carousell）上经历了一场“订金拉锯战”：对方账号通过Singpass认证，看似可信，但手机没拿到，100元订金也没退回；约好在电信公司门店交货，卖家却一再推迟，他最后只能报警。</description><ns0:encoded>原想给56岁父亲一个生日惊喜，送他一部iPhone 18 Pro Max，25岁学生却在旋转拍卖（Carousell）上经历了一场“订金拉锯战”：对方账号通过Singpass认证，看似可信，但手机没拿到，100元订金也没退回；约好在电信公司门店交货，卖家却一再推迟，他最后只能报警。</ns0:encoded></item><item><title>中国财长：全球经济面临挑战 APEC作用日益重要</title><link>https://www.zaobao.com.sg/news/china/story20261020-9865235</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9865235</guid><pubDate>Tue, 20 Oct 2026 14:52:00 +0000</pubDate><category>最新</category><description>中国财政部长蓝佛安说，世界经济面临挑战，亚太经合组织（APEC）这一政府间论坛的作用日益重要。
 
-在西班牙，抗议者在马德里市中心搭起帐篷，抗议房价飙升；邻国葡萄牙的主要城市里斯本和波尔图也出现了类似的抗议营地。</description><ns0:encoded>法国过去的周末爆发全国范围的示威活动后，包括首都巴黎在内的数个城市宣布实施宵禁，以全力平息骚乱。
+综合路透社和《星岛日报》报道，蓝佛安星期二（10月20日）在香港举行的APEC财政部长会议开幕式上发表上述讲话。根据议程，APEC高官会主席陈旭也在开幕式上通报APEC“中国年”的工作进展和成果。
 
-法新社报道，为保护商家，当局宣布在包括巴黎、里尔（Lille）和里昂在内的多个城市，从星期一（10月19日）晚上至星期二（20日）清晨实施局部宵禁。
+本届财长会从星期二起一连两天在香港举行，是香港首次承办这项会议。今年也是中国第三次担任APEC东道主。
 
-其中，巴黎从星期一晚上11时起实施宵禁，并从晚上8时起禁止一切示威活动。法国第二大城市马赛则从19日12时至20时禁止一切公共集会或示威活动。
+会议聚焦四项重点议题：支持民生发展的财政政策、数字基础设施融资、促进普惠金融发展，以及青年财经人才交流合作。
 
-法国总理勒科尔尼星期一召开紧急会议后说，实施宵禁是目前较合适的应对措施，但若局势需要，政府不排除在必要时发布紧急状态令。
+根据议程，星期二上午安排财长闭门会，围绕“在变动的世界中推动亚太经济增长”进行非正式讨论；中午举行财长与亚太工商界代表工作午餐会，重点听取工商界对动员私人资本、支持数字基础设施融资的建议。下午举行开幕式后，会议进入正式议程。
 
-勒科尔尼也誓言：“我绝对有决心恢复公共秩序。”
+会议将在星期三（10月21日）上午闭幕，届时将发表财长联合声明，并举行新闻发布会。</description><ns0:encoded>中国财政部长蓝佛安说，世界经济面临挑战，亚太经合组织（APEC）这一政府间论坛的作用日益重要。
 
-法国这波大规模示威在9月中旬由学生运动引发，后来扩展为民众抗议生活费上涨和公共服务退化，上周末更有部分地区爆发暴力骚乱，成为法国数十年来最严重的动乱事件之一。
+综合路透社和《星岛日报》报道，蓝佛安星期二（10月20日）在香港举行的APEC财政部长会议开幕式上发表上述讲话。根据议程，APEC高官会主席陈旭也在开幕式上通报APEC“中国年”的工作进展和成果。
 
-在星期六（17日）的暴乱中，全国有超过2400人被捕，至少有3000家企业受到骚乱波及，损失高达数亿欧元。
+本届财长会从星期二起一连两天在香港举行，是香港首次承办这项会议。今年也是中国第三次担任APEC东道主。
 
-不过，法国民众的不满情绪仍未平息。部分地区星期一继续出现示威，巴黎著名地标卢浮宫的入口也遭一小群学生示威者封锁，当天被迫关闭，扰乱不少游客的行程。
+会议聚焦四项重点议题：支持民生发展的财政政策、数字基础设施融资、促进普惠金融发展，以及青年财经人才交流合作。
 
-法国媒体报道称，17日示威的组织者计划在10月24日再次举行示威，部分工会和学生组织也将下一次全国抗议日期定在11月5日。
+根据议程，星期二上午安排财长闭门会，围绕“在变动的世界中推动亚太经济增长”进行非正式讨论；中午举行财长与亚太工商界代表工作午餐会，重点听取工商界对动员私人资本、支持数字基础设施融资的建议。下午举行开幕式后，会议进入正式议程。
 
-抗议浪潮也蔓延欧洲多国。上周末，意大利米兰一场抗议生活成本高涨的示威活动场边也爆发了冲突。
+会议将在星期三（10月21日）上午闭幕，届时将发表财长联合声明，并举行新闻发布会。</ns0:encoded></item><item><title>古巴石油危机导致旅客滞留 中国国航增补航班</title><link>https://www.zaobao.com.sg/news/china/story20261020-9865157</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9865157</guid><pubDate>Tue, 20 Oct 2026 14:49:00 +0000</pubDate><category>最新</category><description>美国制裁引发的古巴石油危机不断加深，导致多家航空公司暂停航班、旅客滞留，中国国航临时新增补班航班。
 
-米兰市长萨拉（Giuseppe Sala）坦言：“我非常担心，因为这是一种新现象，它也源于国际大环境，因此会自我助长。”
+综合中国驻古巴大使馆和路透社报道，中使馆星期一（10月19日）发表声明称，因技术原因，近期由中国国际航空公司执飞的CA866次航班（哈瓦那—北京）时刻变更较为频繁，部分班次出现取消情况。现临时新增CA590次补班航班，于10月19日22:30起飞。
 
-在西班牙，抗议者在马德里市中心搭起帐篷，抗议房价飙升；邻国葡萄牙的主要城市里斯本和波尔图也出现了类似的抗议营地。</ns0:encoded></item><item><title>美媒：美战争部长突访以色列 与内坦亚胡会晤</title><link>https://www.zaobao.com.sg/news/world/story20261020-9863145</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261020-9863145</guid><pubDate>Tue, 20 Oct 2026 07:41:00 +0000</pubDate><category>最新</category><description>美国媒体引述知情人士报道，美国战争部长赫格塞斯突然访问以色列，并与以色列总理内坦亚胡会面。
+中使馆称，如旅客的CA866次航班于10月10日前被取消，导致未能乘机，可于10月19日17:00在哈瓦那机场国航柜台现场免费办理CA590次航班乘机手续。
 
-美国新闻网站Axios引述两名知情人士报道，赫格塞斯已在星期一（10月19日）访问以色列期间，与内坦亚胡举行了会晤。
+中国驻古巴使馆提醒符合条件且拟乘坐CA590次航班的旅客，因补班航班座位有限，请注意航班时刻变更，务必提前规划并预留充足时间，尽早前往机场办理手续。
 
-路透社报道称，美国国防部拒绝置评，以色列驻华盛顿大使馆也未立即回应置评请求，无法立即证实这次访问。
+航班追踪网站FlightAware的记录显示，替代航班CA590于周一晚从哈瓦那起飞，当地时间晚上11时25分降落在巴哈马首都拿骚。该航班继续飞往马德里，之后将抵达北京。
 
-赫格塞斯访以的消息传出前一天，美国总统特朗普刚刚表态， 支持内坦亚胡在即将举行的国会选举中争取连任 。
+美国持续向古巴政府施压，包括实施长达九个月的事实上的燃料封锁，导致古巴陷入前所未有的经济危机。</description><ns0:encoded>美国制裁引发的古巴石油危机不断加深，导致多家航空公司暂停航班、旅客滞留，中国国航临时新增补班航班。
 
-这是自2023年10月7日哈马斯发动袭击以来，以色列首次举行大选。民调显示，内坦亚胡领导的宗教民族主义执政联盟预计将失去议会多数席位，但反对派阵营恐怕也难以成功组建政府。
+综合中国驻古巴大使馆和路透社报道，中使馆星期一（10月19日）发表声明称，因技术原因，近期由中国国际航空公司执飞的CA866次航班（哈瓦那—北京）时刻变更较为频繁，部分班次出现取消情况。现临时新增CA590次补班航班，于10月19日22:30起飞。
 
-不过，美国副总统万斯在星期一早些时候接受采访时，拒绝表态支持内坦亚胡，并称他不会介入以色列的选举。
+中使馆称，如旅客的CA866次航班于10月10日前被取消，导致未能乘机，可于10月19日17:00在哈瓦那机场国航柜台现场免费办理CA590次航班乘机手续。
 
-万斯在接受数码媒体平台2WAY采访时说：“我支持的是美国候选人，我目前的重点是美国的中期选举。”</description><ns0:encoded>美国媒体引述知情人士报道，美国战争部长赫格塞斯突然访问以色列，并与以色列总理内坦亚胡会面。
+中国驻古巴使馆提醒符合条件且拟乘坐CA590次航班的旅客，因补班航班座位有限，请注意航班时刻变更，务必提前规划并预留充足时间，尽早前往机场办理手续。
 
-美国新闻网站Axios引述两名知情人士报道，赫格塞斯已在星期一（10月19日）访问以色列期间，与内坦亚胡举行了会晤。
+航班追踪网站FlightAware的记录显示，替代航班CA590于周一晚从哈瓦那起飞，当地时间晚上11时25分降落在巴哈马首都拿骚。该航班继续飞往马德里，之后将抵达北京。
 
-路透社报道称，美国国防部拒绝置评，以色列驻华盛顿大使馆也未立即回应置评请求，无法立即证实这次访问。
+美国持续向古巴政府施压，包括实施长达九个月的事实上的燃料封锁，导致古巴陷入前所未有的经济危机。</ns0:encoded></item><item><title>免消费税服务费 营收每月少百万元 莆田餐馆创办人：回馈顾客</title><link>https://www.zaobao.com.sg/news/singapore/story20261020-9865109</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261020-9865109</guid><pubDate>Tue, 20 Oct 2026 14:39:00 +0000</pubDate><category>最新</category><description>两年前决定全面吸纳消费税和服务费，莆田创办人方志忠坦言每个月营业额少了百万元，但为回馈食客宁愿少赚一点也“绝不回头”。</description><ns0:encoded>两年前决定全面吸纳消费税和服务费，莆田创办人方志忠坦言每个月营业额少了百万元，但为回馈食客宁愿少赚一点也“绝不回头”。</ns0:encoded></item><item><title>网络安全公司：中国AI工具被用于攻击日本企业</title><link>https://www.zaobao.com.sg/news/china/story20261020-9864836</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9864836</guid><pubDate>Tue, 20 Oct 2026 14:34:00 +0000</pubDate><category>最新</category><description>总部位于东京的GMO互联网集团旗下的信息安全公司披露，一款名为Artex的中国人工智能（AI）网络安全工具，被用于近期针对日本企业的一连串黑客攻击。</description><ns0:encoded>总部位于东京的GMO互联网集团旗下的信息安全公司披露，一款名为Artex的中国人工智能（AI）网络安全工具，被用于近期针对日本企业的一连串黑客攻击。</ns0:encoded></item><item><title>格力技工学校开课 董明珠：不许学生校内谈恋爱</title><link>https://www.zaobao.com.sg/news/china/story20261020-9865033</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9865033</guid><pubDate>Tue, 20 Oct 2026 14:24:00 +0000</pubDate><category>最新</category><description>中国广东省珠海市格力技工学校星期一（10月19日）迎来《开学第一课》活动，校长董明珠在课堂上对首届新生提出要求，禁止他们在校内谈恋爱。</description><ns0:encoded>中国广东省珠海市格力技工学校星期一（10月19日）迎来《开学第一课》活动，校长董明珠在课堂上对首届新生提出要求，禁止他们在校内谈恋爱。</ns0:encoded></item><item><title>艾伯塔省首次“脱加”公投 多数居民选择留在加拿大</title><link>https://www.zaobao.com.sg/news/world/story20261020-9864933</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261020-9864933</guid><pubDate>Tue, 20 Oct 2026 14:16:00 +0000</pubDate><category>最新</category><description>加拿大艾伯塔省首次举行是否脱离联邦的不具法律约束力公投，初步结果显示，大部分民众选择留在联邦。
 
-赫格塞斯访以的消息传出前一天，美国总统特朗普刚刚表态， 支持内坦亚胡在即将举行的国会选举中争取连任 。
+加拿大广播公司新闻网（CBC News）星期一（10月19日）深夜报道，在已统计的约100万张投票中，有约76%的居民支持艾伯塔继续留在加拿大，足以判定“留加派”胜出。
 
-这是自2023年10月7日哈马斯发动袭击以来，以色列首次举行大选。民调显示，内坦亚胡领导的宗教民族主义执政联盟预计将失去议会多数席位，但反对派阵营恐怕也难以成功组建政府。
+这次公投不具法律约束力，旨在询问居民是希望继续留在加拿大，还是启动法律程序、举行具法律约束力的脱离联邦投票。
 
-不过，美国副总统万斯在星期一早些时候接受采访时，拒绝表态支持内坦亚胡，并称他不会介入以色列的选举。
+民调机构和分析员此前曾多次排除分离主义者获胜的可能性，并引述数据指出，在这个西部省份中，仅有约三分之一的居民支持在未来就脱离加拿大举行公投。
 
-万斯在接受数码媒体平台2WAY采访时说：“我支持的是美国候选人，我目前的重点是美国的中期选举。”</ns0:encoded></item><item><title>美国禁止联邦民用机构使用DeepSeek产品或服务</title><link>https://www.zaobao.com.sg/news/china/story20261020-9863101</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9863101</guid><pubDate>Tue, 20 Oct 2026 07:17:00 +0000</pubDate><category>最新</category><description>特朗普政府禁止联邦民用机构使用中国人工智能初创公司深度求索（DeepSeek）的产品或服务，理由是可能构成国家安全威胁。</description><ns0:encoded>特朗普政府禁止联邦民用机构使用中国人工智能初创公司深度求索（DeepSeek）的产品或服务，理由是可能构成国家安全威胁。</ns0:encoded></item><item><title>特朗普对下月与习近平普京举行三方会谈持开放态度</title><link>https://www.zaobao.com.sg/news/world/story20261020-9863090</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261020-9863090</guid><pubDate>Tue, 20 Oct 2026 07:11:00 +0000</pubDate><category>最新</category><description>美国总统特朗普对下个月在中国深圳举行的亚太经合组织（APEC）峰会期间，与中国国家主席习近平和俄罗斯总统普京举行三方会谈持开放态度。</description><ns0:encoded>美国总统特朗普对下个月在中国深圳举行的亚太经合组织（APEC）峰会期间，与中国国家主席习近平和俄罗斯总统普京举行三方会谈持开放态度。</ns0:encoded></item><item><title>庄慧良：赵少康专访沈伯洋：跨圈还是放水？</title><link>https://www.zaobao.com.sg/news/china/story20261020-9862555</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9862555</guid><pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate><category>最新</category><description>台湾资深媒体人、中广前董事长赵少康近日两度专访民进党籍的台北市长参选人沈伯洋，其中TVBS《少康战情室》该集收视率一度冲高至3.09，平均收视率2.11，为平日收视率两倍以上，直播在线人数突破14万，累积观看数逾150万。</description><ns0:encoded>台湾资深媒体人、中广前董事长赵少康近日两度专访民进党籍的台北市长参选人沈伯洋，其中TVBS《少康战情室》该集收视率一度冲高至3.09，平均收视率2.11，为平日收视率两倍以上，直播在线人数突破14万，累积观看数逾150万。</ns0:encoded></item><item><title>æ¼å¸è¾¹éå¡æ¢ å°¼å¥¥ä¼¤ç¼ºè¾¾å «å¨ åå °å¾·åºææ¬§å å­ç</title><link>https://www.zaobao.com.sg/news/sports/story20261019-9862372</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261019-9862372</guid><pubDate>Tue, 20 Oct 2026 02:12:12 +0000</pubDate><category>最新</category><description>ï¼æ¼å½»æ¯ç¹è·¯éçµï¼æ¼å¸ï¼Manchester Cityï¼è¾¹éå¡æ¢ å°¼å¥¥ï¼Semenyoï¼å¨ä¸å¨æ«çè±è¶ æ¯èµä¸­èé¨åä¼¤ï¼é¢è®¡å°ç¼ºéµæé¿å «å¨ãåéåå °å¾·ï¼Haalandï¼åæå¯è½èµ¶ä¸æ°å å¡æ¶é´ææä¸ï¼10æ21æ¥ï¼ä¸»åºå¯¹éµAEKé å ¸ï¼AEK Athensï¼çæ¬§å æ¯èµï¼ä½ä¸åè¿æå¾ è§å¯ã</description><ns0:encoded>ï¼æ¼å½»æ¯ç¹è·¯éçµï¼æ¼å¸ï¼Manchester Cityï¼è¾¹éå¡æ¢ å°¼å¥¥ï¼Semenyoï¼å¨ä¸å¨æ«çè±è¶ æ¯èµä¸­èé¨åä¼¤ï¼é¢è®¡å°ç¼ºéµæé¿å «å¨ãåéåå °å¾·ï¼Haalandï¼åæå¯è½èµ¶ä¸æ°å å¡æ¶é´ææä¸ï¼10æ21æ¥ï¼ä¸»åºå¯¹éµAEKé å ¸ï¼AEK Athensï¼çæ¬§å æ¯èµï¼ä½ä¸åè¿æå¾ è§å¯ã</ns0:encoded></item><item><title>æè¡ä¸åè¥å »å±å½é æ§è¯ ç§°è¢«è¦æ±åæ­¢ç½¢å æ»è£çé»æ</title><link>https://www.zaobao.com.sg/finance/singapore/story20261019-9862511</link><guid isPermaLink="true">https://www.zaobao.com.sg/finance/singapore/story20261019-9862511</guid><pubDate>Tue, 20 Oct 2026 02:12:00 +0000</pubDate><category>最新</category><description>è¥å »å±å½é ï¼NutryFarm Internationalï¼è¡ä¸äºè®®äºä»¶æç»­åæ¸©ãé¨åè¡ä¸åå ¬å¸æ§è¯ï¼ææè¡ä¸æ¥è·çµè¯ï¼è¢«è¦æ±æ¤åç½¢å æèµäººçé»æçè¦æ±ï¼ä¸è¦æ±å ¬å¸å¯¹æ­¤å±å¼å ¨é¢çè°æ¥ã</description><ns0:encoded>è¥å »å±å½é ï¼NutryFarm Internationalï¼è¡ä¸äºè®®äºä»¶æç»­åæ¸©ãé¨åè¡ä¸åå ¬å¸æ§è¯ï¼ææè¡ä¸æ¥è·çµè¯ï¼è¢«è¦æ±æ¤åç½¢å æèµäººçé»æçè¦æ±ï¼ä¸è¦æ±å ¬å¸å¯¹æ­¤å±å¼å ¨é¢çè°æ¥ã</ns0:encoded></item><item><title>保健卫生部更新防霾问答 说明空气指数与口罩选择</title><link>https://www.zaobao.com.sg/news/singapore/story20261020-9862532</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261020-9862532</guid><pubDate>Tue, 20 Oct 2026 00:18:00 +0000</pubDate><category>最新</category><description>烟霾期间，若一小时PM2.5悬浮颗粒浓度超过每立方米250微克，且必须在户外逗留数小时，就应佩戴N95或同等口罩。至于外科口罩和布口罩，都无法有效过滤烟霾中的细颗粒物。</description><ns0:encoded>烟霾期间，若一小时PM2.5悬浮颗粒浓度超过每立方米250微克，且必须在户外逗留数小时，就应佩戴N95或同等口罩。至于外科口罩和布口罩，都无法有效过滤烟霾中的细颗粒物。</ns0:encoded></item><item><title>法国多地骚乱 马赛和里尔球会官方商店遭洗劫</title><link>https://www.zaobao.com.sg/news/sports/story20261019-9862558</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261019-9862558</guid><pubDate>Mon, 19 Oct 2026 23:59:00 +0000</pubDate><category>最新</category><description>（马赛路透电）两支法甲足球劲旅马赛（Marseille）和里尔（Lille）表示，他们的官方商店在法国周末发生的骚乱中被洗劫。</description><ns0:encoded>（马赛路透电）两支法甲足球劲旅马赛（Marseille）和里尔（Lille）表示，他们的官方商店在法国周末发生的骚乱中被洗劫。</ns0:encoded></item><item><title>省级党代会时间开启 为中共二十一大人事布局提供观察窗口</title><link>https://www.zaobao.com.sg/news/china/story20261019-9862117</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261019-9862117</guid><pubDate>Mon, 19 Oct 2026 23:43:00 +0000</pubDate><category>最新</category><description>中共安徽省和新疆维吾尔自治区分别召开党代表大会，标志着中国进入新一轮省级党代会时间，并将陆续完成党委换届。这也将为中共二十一大人事布局和地方干部梯队变化提供重要参考。</description><ns0:encoded>中共安徽省和新疆维吾尔自治区分别召开党代表大会，标志着中国进入新一轮省级党代会时间，并将陆续完成党委换届。这也将为中共二十一大人事布局和地方干部梯队变化提供重要参考。</ns0:encoded></item><item><title>七涉烟霾公司未回应 环境局追查企业联系</title><link>https://www.zaobao.com.sg/news/singapore/story20261019-9862176</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261019-9862176</guid><pubDate>Mon, 19 Oct 2026 23:30:00 +0000</pubDate><category>最新</category><description>国家环境局日前向七家涉及印度尼西亚林火的公司发出预防措施通知书，至今未收到任何回应。当局将进一步追查这些公司与新加坡或海外其他企业的联系，并研究下一步行动。</description><ns0:encoded>国家环境局日前向七家涉及印度尼西亚林火的公司发出预防措施通知书，至今未收到任何回应。当局将进一步追查这些公司与新加坡或海外其他企业的联系，并研究下一步行动。</ns0:encoded></item><item><title>胡塞武装袭击后 沙特“沙漠达沃斯”将被推迟</title><link>https://www.zaobao.com.sg/news/world/story20261019-9862616</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261019-9862616</guid><pubDate>Mon, 19 Oct 2026 23:25:00 +0000</pubDate><category>最新</category><description>据三名知情人士星期一（10月19日）向法新社透露，沙特阿拉伯一场重要的投资会议将被推迟。目前，沙特正频繁遭到也门胡塞武装的袭击。</description><ns0:encoded>据三名知情人士星期一（10月19日）向法新社透露，沙特阿拉伯一场重要的投资会议将被推迟。目前，沙特正频繁遭到也门胡塞武装的袭击。</ns0:encoded></item><item><title>涉焚林杀红毛猩猩 印尼查狮城企业益资源</title><link>https://www.zaobao.com.sg/news/sea/story20261019-9862513</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261019-9862513</guid><pubDate>Mon, 19 Oct 2026 23:23:00 +0000</pubDate><category>最新</category><description>（雅加达综合电）印度尼西亚当局在新加坡上市企业益资源旗下子公司拥有的一处森林保护区发现疑似红毛猩猩头骨，正在调查公司是否涉嫌非法焚林及杀害濒危红毛猩猩。</description><ns0:encoded>（雅加达综合电）印度尼西亚当局在新加坡上市企业益资源旗下子公司拥有的一处森林保护区发现疑似红毛猩猩头骨，正在调查公司是否涉嫌非法焚林及杀害濒危红毛猩猩。</ns0:encoded></item><item><title>乌克兰首次使用无人机营救受伤士兵</title><link>https://www.zaobao.com.sg/news/world/story20261019-9862587</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261019-9862587</guid><pubDate>Mon, 19 Oct 2026 23:19:00 +0000</pubDate><category>最新</category><description>乌克兰一支陆军旅星期一（10月19日）说，乌军首次使用空中无人机从前线救出一名受伤士兵。
+路透社报道称，尽管结果并不意外，但这次投票对于试图在与美国的贸易战中团结全国的加拿大总理卡尼而言，仍是一场重要的胜利。
 
-法新社报道，陆军旅发布的视频显示，无人机降落至地面后，一名身穿战斗装备的男子将自己固定在机载绞盘上，随后被吊起升空。
+在分离主义组织者收集了数十万个请愿签名、要求举行投票后，艾伯塔省省长史密斯（Danielle Smith）于 今年5月宣布举行首次公投。 她本人主张留在加拿大，但民调显示她领导的联合保守党（United Conservative Party）支持者在此课题上意见分歧。
 
-该旅没有透露此次撤离行动的具体地点。
+艾伯塔是拥有500万人口的资源大省，日产超过400万桶石油，其中大部分运往美国的炼油厂。加拿大前总理特鲁多的环保政策限制能源开发， 并试图推广可再生能源以取代化石燃料， 曾引发当地强烈不满。
 
-乌克兰第92独立突击旅的无人机部队在脸书发文说：“行动成功，伤员获救！他目前正在接受治疗，已脱离生命危险。”
+自18个多月前上台执政以来，卡尼已推翻或修改了特鲁多的多项标志性政策，包括取消消费者碳税、放宽排放条例，并将政府重心转向吸引更多投资。
 
-无人机制造商Gurzuf Defence说，这名士兵在危险的战斗阵地坚守了近一年半，无法通过传统方式撤离。
+由于史密斯政府还在公投中，要求选民回答另外九个关于移民和宪法课题的问题，完整的公投结果预计需要几天时间才会出炉。</description><ns0:encoded>加拿大艾伯塔省首次举行是否脱离联邦的不具法律约束力公投，初步结果显示，大部分民众选择留在联邦。
 
-“任何试图接近他的行动，都会让救援人员面临致命危险。”
+加拿大广播公司新闻网（CBC News）星期一（10月19日）深夜报道，在已统计的约100万张投票中，有约76%的居民支持艾伯塔继续留在加拿大，足以判定“留加派”胜出。
 
-公司补充说，这架名为Ayudag-6的六旋翼无人机将伤员送至较安全的地点，随后由前来接应的战友安排后续撤离，将他送往医院。
+这次公投不具法律约束力，旨在询问居民是希望继续留在加拿大，还是启动法律程序、举行具法律约束力的脱离联邦投票。
 
-乌克兰长期使用无人地面车辆将受伤士兵撤离战场，但这是首次有报道称，空中无人机被用于执行此类任务。
+民调机构和分析员此前曾多次排除分离主义者获胜的可能性，并引述数据指出，在这个西部省份中，仅有约三分之一的居民支持在未来就脱离加拿大举行公投。
 
-第92独立突击旅的无人机部队将此次行动称为“世界首例”。</description><ns0:encoded>乌克兰一支陆军旅星期一（10月19日）说，乌军首次使用空中无人机从前线救出一名受伤士兵。
+路透社报道称，尽管结果并不意外，但这次投票对于试图在与美国的贸易战中团结全国的加拿大总理卡尼而言，仍是一场重要的胜利。
 
-法新社报道，陆军旅发布的视频显示，无人机降落至地面后，一名身穿战斗装备的男子将自己固定在机载绞盘上，随后被吊起升空。
+在分离主义组织者收集了数十万个请愿签名、要求举行投票后，艾伯塔省省长史密斯（Danielle Smith）于 今年5月宣布举行首次公投。 她本人主张留在加拿大，但民调显示她领导的联合保守党（United Conservative Party）支持者在此课题上意见分歧。
 
-该旅没有透露此次撤离行动的具体地点。
+艾伯塔是拥有500万人口的资源大省，日产超过400万桶石油，其中大部分运往美国的炼油厂。加拿大前总理特鲁多的环保政策限制能源开发， 并试图推广可再生能源以取代化石燃料， 曾引发当地强烈不满。
 
-乌克兰第92独立突击旅的无人机部队在脸书发文说：“行动成功，伤员获救！他目前正在接受治疗，已脱离生命危险。”
+自18个多月前上台执政以来，卡尼已推翻或修改了特鲁多的多项标志性政策，包括取消消费者碳税、放宽排放条例，并将政府重心转向吸引更多投资。
 
-无人机制造商Gurzuf Defence说，这名士兵在危险的战斗阵地坚守了近一年半，无法通过传统方式撤离。
+由于史密斯政府还在公投中，要求选民回答另外九个关于移民和宪法课题的问题，完整的公投结果预计需要几天时间才会出炉。</ns0:encoded></item><item><title>明年农历新年往返怡保机票1421元飙新高</title><link>https://www.zaobao.com.sg/news/singapore/story20261020-9864955</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261020-9864955</guid><pubDate>Tue, 20 Oct 2026 14:11:00 +0000</pubDate><category>最新</category><description>明年农历新年期间，新加坡来回怡保的直飞机票出现1421元新高，比过去最高1100多元还贵许多。受访专家点出选择有限等两大原因，而怡保游子也纷纷另作打算。</description><ns0:encoded>明年农历新年期间，新加坡来回怡保的直飞机票出现1421元新高，比过去最高1100多元还贵许多。受访专家点出选择有限等两大原因，而怡保游子也纷纷另作打算。</ns0:encoded></item><item><title>遇火患挺身而出 新捷运两职员获表扬</title><link>https://www.zaobao.com.sg/news/singapore/story20261020-9864932</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261020-9864932</guid><pubDate>Tue, 20 Oct 2026 14:08:00 +0000</pubDate><category>最新</category><description>巴士车长、地铁站助理站长遇火患挺身而出，临危不乱迅速应对，获民防部队颁发社区先遣急救员奖。
 
-“任何试图接近他的行动，都会让救援人员面临致命危险。”
+新捷运在脸书发文指，两名员工张志鹏（51岁）和莫哈末宾奥斯曼（48岁）于上星期四（10月15日）获民防部队颁赠“社区先遣急救员奖”（Community First Responder Award），以表扬他们在两起火患中及时伸出援手，协助保障公众安全。
 
-公司补充说，这架名为Ayudag-6的六旋翼无人机将伤员送至较安全的地点，随后由前来接应的战友安排后续撤离，将他送往医院。
+张志鹏在新捷运服务近四年。他于8月8日在荷兰路一带发现一辆汽车起火后，立即拿起巴士上的灭火器协助灭火。
 
-乌克兰长期使用无人地面车辆将受伤士兵撤离战场，但这是首次有报道称，空中无人机被用于执行此类任务。
+据早前报道 ，一辆兰博基尼跑车当时疑似引擎起火，停在路旁不断冒出浓烟。张志鹏上前灭火，事件中无人受伤。
 
-第92独立突击旅的无人机部队将此次行动称为“世界首例”。</ns0:encoded></item><item><title>研究：全球近半造礁珊瑚物种面临灭绝</title><link>https://www.zaobao.com.sg/news/world/story20261019-9862036</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261019-9862036</guid><pubDate>Mon, 19 Oct 2026 23:17:00 +0000</pubDate><category>最新</category><description>（悉尼新华电）最新研究显示，全球约44%的造礁珊瑚物种面临更高的灭绝威胁，而气候变化引发的热应激是珊瑚种群数量下降的主要原因。</description><ns0:encoded>（悉尼新华电）最新研究显示，全球约44%的造礁珊瑚物种面临更高的灭绝威胁，而气候变化引发的热应激是珊瑚种群数量下降的主要原因。</ns0:encoded></item><item><title>承办企业活动复杂又耗人力 精品抹茶店让AI代劳</title><link>https://www.zaobao.com.sg/news/singapore/story20261019-9861440</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261019-9861440</guid><pubDate>Mon, 19 Oct 2026 23:03:00 +0000</pubDate><category>最新</category><description>承办一场企业活动，从整理客户要求到制定方案相当耗时。新加坡国立大学学生江梓宁与两名伙伴利用业余时间，为自己经营的抹茶店开发人工智能（AI）“打工团”，让三个AI代理分工合作，把策划工作缩短至几分钟。</description><ns0:encoded>承办一场企业活动，从整理客户要求到制定方案相当耗时。新加坡国立大学学生江梓宁与两名伙伴利用业余时间，为自己经营的抹茶店开发人工智能（AI）“打工团”，让三个AI代理分工合作，把策划工作缩短至几分钟。</ns0:encoded></item><item><title>卢秀燕、蒋万安并肩作战 蓝营2028布局受关注</title><link>https://www.zaobao.com.sg/news/china/story20261019-9862285</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261019-9862285</guid><pubDate>Mon, 19 Oct 2026 22:58:00 +0000</pubDate><category>最新</category><description>台中市长卢秀燕出任台北市长蒋万安竞选总部主委，使两名被视为国民党潜在总统候选人的政治人物在地方选战中并肩合作，也让蓝营2028年大选布局再受关注。</description><ns0:encoded>台中市长卢秀燕出任台北市长蒋万安竞选总部主委，使两名被视为国民党潜在总统候选人的政治人物在地方选战中并肩合作，也让蓝营2028年大选布局再受关注。</ns0:encoded></item><item><title>伊朗外长指责美国造成霍尔木兹海峡紧张局势</title><link>https://www.zaobao.com.sg/news/world/story20261019-9862486</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261019-9862486</guid><pubDate>Mon, 19 Oct 2026 22:57:00 +0000</pubDate><category>最新</category><description>伊朗外长阿拉格奇星期一（10月19日）在与俄罗斯外长拉夫罗夫举行的联合新闻发布会上说，地区问题应通过外交途径解决；他还指责美国导致了霍尔木兹海峡的不安全局势与紧张气氛。</description><ns0:encoded>伊朗外长阿拉格奇星期一（10月19日）在与俄罗斯外长拉夫罗夫举行的联合新闻发布会上说，地区问题应通过外交途径解决；他还指责美国导致了霍尔木兹海峡的不安全局势与紧张气氛。</ns0:encoded></item><item><title>卢秀燕任蒋万安竞总主委 蒋：2028支持国民党最强人选</title><link>https://www.zaobao.com.sg/news/china/story20261019-9862242</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261019-9862242</guid><pubDate>Mon, 19 Oct 2026 22:52:00 +0000</pubDate><category>最新</category><description>寻求连任的台北市长蒋万安宣布，由台中市长卢秀燕出任竞选总部主任委员。外界关注这次跨县市搭档是否牵动国民党2028年总统选举布局，蒋万安说，届时会支持国民党最强的人选。他当晚接受电视专访时进一步说，自己目前完全不考虑2028年，并认为卢秀燕“值得担任这样的重担”。</description><ns0:encoded>寻求连任的台北市长蒋万安宣布，由台中市长卢秀燕出任竞选总部主任委员。外界关注这次跨县市搭档是否牵动国民党2028年总统选举布局，蒋万安说，届时会支持国民党最强的人选。他当晚接受电视专访时进一步说，自己目前完全不考虑2028年，并认为卢秀燕“值得担任这样的重担”。</ns0:encoded></item><item><title>西蒙斯复出之路再遇重挫 跟腱撕裂预计NBA赛季报销</title><link>https://www.zaobao.com.sg/news/sports/story20261019-9862364</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261019-9862364</guid><pubDate>Mon, 19 Oct 2026 22:46:00 +0000</pubDate><category>最新</category><description>（萨克拉门托综合电）萨克拉门托大王（Sacramento Kings）宣布，后卫西蒙斯（Simmons）在星期天（10月18日）的训练中右跟腱撕裂，必须接受手术。尽管球队尚未公布具体康复时间表，但他预计将缺席即将开始的新赛季美国职业篮球赛（NBA）的所有比赛。</description><ns0:encoded>（萨克拉门托综合电）萨克拉门托大王（Sacramento Kings）宣布，后卫西蒙斯（Simmons）在星期天（10月18日）的训练中右跟腱撕裂，必须接受手术。尽管球队尚未公布具体康复时间表，但他预计将缺席即将开始的新赛季美国职业篮球赛（NBA）的所有比赛。</ns0:encoded></item><item><title>出口与工业生产带动中国第三季经济增4.5% 分析预计今年全年达标</title><link>https://www.zaobao.com.sg/news/china/story20261019-9861242</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261019-9861242</guid><pubDate>Mon, 19 Oct 2026 22:44:00 +0000</pubDate><category>中国</category><description>中国第三季国内生产总值（GDP）同比增长4.5%，略高于市场预期的4.4%。今年前三季经济增长4.6%，处于官方设定的4.5%至5%全年增长目标区间内，分析人士普遍预计中国经济今年有望达标。</description><ns0:encoded>中国第三季国内生产总值（GDP）同比增长4.5%，略高于市场预期的4.4%。今年前三季经济增长4.6%，处于官方设定的4.5%至5%全年增长目标区间内，分析人士普遍预计中国经济今年有望达标。</ns0:encoded></item><item><title>美岭街组屋传火警 两人吸入浓烟送院</title><link>https://www.zaobao.com.sg/news/singapore/story20261019-9862455</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261019-9862455</guid><pubDate>Mon, 19 Oct 2026 22:35:00 +0000</pubDate><category>最新</category><description>女皇镇美岭街第158座组屋发生火患，两人吸入浓烟送院，约25人被紧急疏散。
+另一名获奖者莫哈末宾奥斯曼是助理站长，在新捷运服务10年。他于9月10日在小印度地铁站发生火患时迅速应对，协助处理突发状况。
 
-这起火患发生在星期一（10月19日）中午约12时30分，地点在美岭街第158座组屋10楼的一个单位。
+据早前报道， 小印度地铁站月台当时发生充电宝起火事件 。事件中，两人受轻伤或出现呼吸急促，但均拒绝送院，列车服务也未受影响。
 
-新加坡民防部队受询时透露，火患涉及放置在10楼单位外的一些物品。消防员使用一支水枪将火扑灭。
+新捷运指出，两人的行动展现了公司关怀他人的文化，员工无论在道路、列车、地铁站或转换站，都随时准备在有需要时伸出援手。
 
-涉事单位事发时内有两人，皆由消防员救出，其中一人因吸入浓烟被送往新加坡中央医院。隔壁单位也有一名居民因吸入浓烟送院。
+公司也在脸书上向两人表达祝贺，肯定他们在紧急情况下迅速采取行动、协助保护公众与乘客安全的表现。</description><ns0:encoded>巴士车长、地铁站助理站长遇火患挺身而出，临危不乱迅速应对，获民防部队颁发社区先遣急救员奖。
 
-警方和民防部队为安全起见，共疏散约25人。失火原因仍在调查中。
+新捷运在脸书发文指，两名员工张志鹏（51岁）和莫哈末宾奥斯曼（48岁）于上星期四（10月15日）获民防部队颁赠“社区先遣急救员奖”（Community First Responder Award），以表扬他们在两起火患中及时伸出援手，协助保障公众安全。
 
-律政部兼社会及家庭发展部高级政务次长蔡瑞隆同天傍晚6时10分在脸书发文说，得知上述组屋发生火患后，他在会议间抽空前往现场了解情况，慰问居民和救援人员。
+张志鹏在新捷运服务近四年。他于8月8日在荷兰路一带发现一辆汽车起火后，立即拿起巴士上的灭火器协助灭火。
 
-蔡瑞隆也是女皇镇议员。他指出，火患发生后部分居民难免感到担忧，因此他在消防员处理现场的同时，聆听居民们的顾虑，并向居民分享他所掌握的最新情况。
+据早前报道 ，一辆兰博基尼跑车当时疑似引擎起火，停在路旁不断冒出浓烟。张志鹏上前灭火，事件中无人受伤。
 
-蔡瑞隆在贴文中透露，他曾是民防部队人员，每当听闻火患发生，仍会本能地想了解事故经过，并确认大家是否平安。“我向两名伤者和其家人致以慰问，希望他们早日康复。”
+另一名获奖者莫哈末宾奥斯曼是助理站长，在新捷运服务10年。他于9月10日在小印度地铁站发生火患时迅速应对，协助处理突发状况。
 
-他也在贴文中感谢来自亚历山大消防局的消防人员和女皇镇邻里警局的警员，赞扬他们专业尽责地在现场执行任务。
+据早前报道， 小印度地铁站月台当时发生充电宝起火事件 。事件中，两人受轻伤或出现呼吸急促，但均拒绝送院，列车服务也未受影响。
 
-“当局将继续密切关注事态发展，与受影响居民保持联系，并在有需要时提供协助。”</description><ns0:encoded>女皇镇美岭街第158座组屋发生火患，两人吸入浓烟送院，约25人被紧急疏散。
+新捷运指出，两人的行动展现了公司关怀他人的文化，员工无论在道路、列车、地铁站或转换站，都随时准备在有需要时伸出援手。
 
-这起火患发生在星期一（10月19日）中午约12时30分，地点在美岭街第158座组屋10楼的一个单位。
+公司也在脸书上向两人表达祝贺，肯定他们在紧急情况下迅速采取行动、协助保护公众与乘客安全的表现。</ns0:encoded></item><item><title>恶搞同行广告割花组屋电梯墙壁 装修商监四天</title><link>https://www.zaobao.com.sg/news/singapore/story20261020-9864907</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261020-9864907</guid><pubDate>Tue, 20 Oct 2026 14:05:00 +0000</pubDate><category>最新</category><description>装修承包商到组屋张贴宣传贴纸时，为防止竞争对手拆除广告，竟用美工刀在贴纸上乱划，导致电梯亚克力保护板、组屋墙壁及立管门均被割花破损，被判坐牢四天。</description><ns0:encoded>装修承包商到组屋张贴宣传贴纸时，为防止竞争对手拆除广告，竟用美工刀在贴纸上乱划，导致电梯亚克力保护板、组屋墙壁及立管门均被割花破损，被判坐牢四天。</ns0:encoded></item><item><title>云林斗六车站挂竞选广告被指行政不中立 台铁：明年起禁止</title><link>https://www.zaobao.com.sg/news/china/story20261020-9864429</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9864429</guid><pubDate>Tue, 20 Oct 2026 13:38:00 +0000</pubDate><category>最新</category><description>台湾九合一地方选举进入倒计时阶段，各地参选人紧锣密鼓投入选战。有台湾民众发现，云林斗六车站内悬挂竞选广告被指“行政不中立”。台铁对此回应称，将从明年起禁止车站场域政治相关的广告出租业务。</description><ns0:encoded>台湾九合一地方选举进入倒计时阶段，各地参选人紧锣密鼓投入选战。有台湾民众发现，云林斗六车站内悬挂竞选广告被指“行政不中立”。台铁对此回应称，将从明年起禁止车站场域政治相关的广告出租业务。</ns0:encoded></item><item><title>中国将加强国有博物馆藏品盘库建档</title><link>https://www.zaobao.com.sg/news/china/story20261020-9864770</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9864770</guid><pubDate>Tue, 20 Oct 2026 13:33:00 +0000</pubDate><category>中国</category><description>中国国家文物局称，将加强国有博物馆藏品盘库建档和文物定级。
 
-新加坡民防部队受询时透露，火患涉及放置在10楼单位外的一些物品。消防员使用一支水枪将火扑灭。
+综合中新社和澎湃新闻报道，星期二（10月20日），国家文物局副局长邓超出席国新办举行的“开局起步‘十五五’”系列主题新闻发布会。
 
-涉事单位事发时内有两人，皆由消防员救出，其中一人因吸入浓烟被送往新加坡中央医院。隔壁单位也有一名居民因吸入浓烟送院。
+邓超说，国家文物局将完善博物馆管理制度，强化从业人员职业道德教育，鼓励公众参与监督。推动修订《博物馆条例》，进一步规范博物馆业务管理。
 
-警方和民防部队为安全起见，共疏散约25人。失火原因仍在调查中。
+他说，“十五五”时期，国家文物局将部署开展第二次全国可移动文物普查，加强国有博物馆藏品盘库建档和文物定级，实施馆藏珍贵文物修复计划，倾斜更多资源投放到文物本体保护上，为博物馆事业行稳致远筑牢根基。
 
-律政部兼社会及家庭发展部高级政务次长蔡瑞隆同天傍晚6时10分在脸书发文说，得知上述组屋发生火患后，他在会议间抽空前往现场了解情况，慰问居民和救援人员。
+此外，国家文物局将启动实施“中小博物馆提升计划”，优化资源配置，开展博物馆帮扶机制试点。通过“大带小、上带下、东到西”，引导央地共建国家级重点博物馆、省级大馆率先行动，探索建立巡展机制，加强馆际交流合作，促进优质展览资源直达基层。</description><ns0:encoded>中国国家文物局称，将加强国有博物馆藏品盘库建档和文物定级。
 
-蔡瑞隆也是女皇镇议员。他指出，火患发生后部分居民难免感到担忧，因此他在消防员处理现场的同时，聆听居民们的顾虑，并向居民分享他所掌握的最新情况。
+综合中新社和澎湃新闻报道，星期二（10月20日），国家文物局副局长邓超出席国新办举行的“开局起步‘十五五’”系列主题新闻发布会。
 
-蔡瑞隆在贴文中透露，他曾是民防部队人员，每当听闻火患发生，仍会本能地想了解事故经过，并确认大家是否平安。“我向两名伤者和其家人致以慰问，希望他们早日康复。”
+邓超说，国家文物局将完善博物馆管理制度，强化从业人员职业道德教育，鼓励公众参与监督。推动修订《博物馆条例》，进一步规范博物馆业务管理。
 
-他也在贴文中感谢来自亚历山大消防局的消防人员和女皇镇邻里警局的警员，赞扬他们专业尽责地在现场执行任务。
+他说，“十五五”时期，国家文物局将部署开展第二次全国可移动文物普查，加强国有博物馆藏品盘库建档和文物定级，实施馆藏珍贵文物修复计划，倾斜更多资源投放到文物本体保护上，为博物馆事业行稳致远筑牢根基。
 
-“当局将继续密切关注事态发展，与受影响居民保持联系，并在有需要时提供协助。”</ns0:encoded></item><item><title>缅甸政府：被拘留的翁山淑枝收到英国王室包裹</title><link>https://www.zaobao.com.sg/news/sea/story20261019-9862464</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261019-9862464</guid><pubDate>Mon, 19 Oct 2026 22:34:00 +0000</pubDate><category>最新</category><description>缅甸当局星期一（10月19日）说，被拘押的翁山淑枝收到了英国国王查尔斯三世寄来的包裹。当局同时公布了她的照片，这是她近两个月来的首次曝光，并称她为“特殊女囚”。</description><ns0:encoded>缅甸当局星期一（10月19日）说，被拘押的翁山淑枝收到了英国国王查尔斯三世寄来的包裹。当局同时公布了她的照片，这是她近两个月来的首次曝光，并称她为“特殊女囚”。</ns0:encoded></item><item><title>世凯联控股500万元两年期债券获全额认购</title><link>https://www.zaobao.com.sg/finance/singapore/story20261019-9862319</link><guid isPermaLink="true">https://www.zaobao.com.sg/finance/singapore/story20261019-9862319</guid><pubDate>Mon, 19 Oct 2026 22:21:00 +0000</pubDate><category>最新</category><description>世凯联控股（Skylink Holdings）完成发行500万元的两年期债券。这批分期付款租购债券（Hire Purchase Bonds ）发行获得全额认购。</description><ns0:encoded>世凯联控股（Skylink Holdings）完成发行500万元的两年期债券。这批分期付款租购债券（Hire Purchase Bonds ）发行获得全额认购。</ns0:encoded></item><item><title>新菲推出护士奖学金 培训菲律宾护理教育人才</title><link>https://www.zaobao.com.sg/news/singapore/story20261019-9861857</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261019-9861857</guid><pubDate>Mon, 19 Oct 2026 22:08:00 +0000</pubDate><category>最新</category><description>我国和菲律宾联合推出护士教育奖学金计划，资助目前在本地公共医疗体系工作的资深菲律宾护士接受培训，成为护理教育人员，日后回国培养新一代护士。</description><ns0:encoded>我国和菲律宾联合推出护士教育奖学金计划，资助目前在本地公共医疗体系工作的资深菲律宾护士接受培训，成为护理教育人员，日后回国培养新一代护士。</ns0:encoded></item><item><title>马国提议建立亚细安机制 共同应对跨境烟霾问题</title><link>https://www.zaobao.com.sg/news/sea/story20261019-9862253</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261019-9862253</guid><pubDate>Mon, 19 Oct 2026 22:08:00 +0000</pubDate><category>最新</category><description>为应对跨境烟霾问题，马来西亚提议建立 亚细安 合作机制，加强区域协调与集体行动。
+此外，国家文物局将启动实施“中小博物馆提升计划”，优化资源配置，开展博物馆帮扶机制试点。通过“大带小、上带下、东到西”，引导央地共建国家级重点博物馆、省级大馆率先行动，探索建立巡展机制，加强馆际交流合作，促进优质展览资源直达基层。</ns0:encoded></item><item><title>东陵警署迎新署长 38岁李焕庭接棒</title><link>https://www.zaobao.com.sg/news/singapore/story20261020-9863233</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261020-9863233</guid><pubDate>Tue, 20 Oct 2026 13:23:00 +0000</pubDate><category>最新</category><description>高级助理总监李焕庭正式接掌东陵警署，接替服务警队长达32年，即将退休的高级助理总监张志明。
 
-马国首相 安华 星期一（10月19日）在脸书发文说，印度尼西亚林火引发的烟霾已影响马国人民的健康与生活，部分地区的学校也被迫关闭。
+新加坡警察部队星期一（10月19日）发文告说，东陵警署当天举行指挥官交接仪式，张志明（57岁）将指挥权移交给李焕庭（38岁）。警察总监侯光辉也出席仪式，见证两人的交接。
 
-他指出，印尼政府已动员数以万计的人员，并出动空中设备扑灭林火，但受灾范围广，加上天气难以预测，灭火工作仍面临挑战。
+张志明1994年加入警队，曾担任机场警署署长、国际合作局局长、东陵警署副署长，以及警察人力部副主管（特别项目）等职务。
 
-安华认为，各国应本着邻国间互助的精神，以共同的决心和责任应对跨境挑战。“我们已提议在亚细安层面建立合作机制，加强区域协调、防灾准备及集体行动，共同应对跨境烟霾。”
+在张志明领导下，东陵警署展开多项执法行动，打击辖区内的非法及犯罪活动，并负责多场大型活动的安保工作，包括2020年和2025年全国大选、2023年总统选举、每年举行的香格里拉对话会、乌节路圣诞庆祝活动，以及国庆庆典。
 
-他强调，马国愿意向印尼提供援助，并指真正的睦邻精神，就是在遇到困难时互相帮助，始终把区域人民的安全与福祉放在首位。
+他也积极推动警员培训及防范罪案宣传工作。今年9月12日，东陵警署便与全国防止罪案理事会及夜生活业者合作，在Zouk夜店举办“安全泡夜店”宣传活动。
 
-马国外交部长莫哈末哈山10月12日指出，亚细安虽已建立应对水灾和火山爆发等自然灾害的机制，但跨境烟霾问题尚未纳入其中。他透露，各国外长将在下个月的亚细安峰会前，讨论应对跨境烟霾的方案。
+接任的李焕庭2007年加入警队，至今有19年警务经验。
 
-受访学者均支持亚细安建立烟霾应对机制。马国博特拉大学环境与职业健康系副教授哈莉扎接受《联合早报》访问时说，亚细安各国虽于2002年签署《跨境烟霾污染协定》，但由于各国利益、主权考量及执法力度不一，烟霾问题至今仍反复发生。
+他曾担任中央警署副署长、警察情报局技术研究主管，以及金文泰邻里警局局长。
 
-她认为，维护区域环境安全不能只靠政治意愿，还须明确划分责任、投入充足资源，并建立共同问责机制。
+此外，他也曾在政府其他部门任职，包括出任数码发展及新闻部资讯政策司司长，以及内政部政策发展司助理司长。</description><ns0:encoded>高级助理总监李焕庭正式接掌东陵警署，接替服务警队长达32年，即将退休的高级助理总监张志明。
 
-登嘉楼苏丹再纳阿比丁大学环境研究学者阿兹曼阿兹副教授认为，作为第一步，亚细安应在未来六个月内制定行动计划，设定明确的绩效目标、完善数据共享、协调防火措施，并建立各方共同议定的评估机制。
+新加坡警察部队星期一（10月19日）发文告说，东陵警署当天举行指挥官交接仪式，张志明（57岁）将指挥权移交给李焕庭（38岁）。警察总监侯光辉也出席仪式，见证两人的交接。
 
-另一方面，安华星期一下午主持国家灾害管理委员会会议后在脸书说，会议讨论了改善国家烟霾行动计划的建议，包括完善学校停课指令，并由教育部提前部署，确保学校停课期间学生仍能继续学习。
+张志明1994年加入警队，曾担任机场警署署长、国际合作局局长、东陵警署副署长，以及警察人力部副主管（特别项目）等职务。
 
-由于烟霾情况未见改善，柔佛州政府星期天（18日）宣布，全州教育机构从星期一起关闭至星期五（23日）。
+在张志明领导下，东陵警署展开多项执法行动，打击辖区内的非法及犯罪活动，并负责多场大型活动的安保工作，包括2020年和2025年全国大选、2023年总统选举、每年举行的香格里拉对话会、乌节路圣诞庆祝活动，以及国庆庆典。
 
-此前宣布停课的雪兰莪、吉隆坡、森美兰、马六甲、彭亨及槟城，学校已于星期一恢复上课，但暂停所有户外活动，并促请学生戴口罩。</description><ns0:encoded>为应对跨境烟霾问题，马来西亚提议建立 亚细安 合作机制，加强区域协调与集体行动。
+他也积极推动警员培训及防范罪案宣传工作。今年9月12日，东陵警署便与全国防止罪案理事会及夜生活业者合作，在Zouk夜店举办“安全泡夜店”宣传活动。
 
-马国首相 安华 星期一（10月19日）在脸书发文说，印度尼西亚林火引发的烟霾已影响马国人民的健康与生活，部分地区的学校也被迫关闭。
+接任的李焕庭2007年加入警队，至今有19年警务经验。
 
-他指出，印尼政府已动员数以万计的人员，并出动空中设备扑灭林火，但受灾范围广，加上天气难以预测，灭火工作仍面临挑战。
+他曾担任中央警署副署长、警察情报局技术研究主管，以及金文泰邻里警局局长。
 
-安华认为，各国应本着邻国间互助的精神，以共同的决心和责任应对跨境挑战。“我们已提议在亚细安层面建立合作机制，加强区域协调、防灾准备及集体行动，共同应对跨境烟霾。”
+此外，他也曾在政府其他部门任职，包括出任数码发展及新闻部资讯政策司司长，以及内政部政策发展司助理司长。</ns0:encoded></item><item><title>中国军方通报美军舰驶入南沙仙宾礁附近海域</title><link>https://www.zaobao.com.sg/news/china/story20261020-9864712</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9864712</guid><pubDate>Tue, 20 Oct 2026 13:22:00 +0000</pubDate><category>中国</category><description>中国解放军通报美国一艘濒海战斗舰星期二（10月20日）凌晨驶入南中国海仙宾礁（菲律宾称萨比纳礁）附近海域，南部战区海军已组织兵力跟踪监视。</description><ns0:encoded>中国解放军通报美国一艘濒海战斗舰星期二（10月20日）凌晨驶入南中国海仙宾礁（菲律宾称萨比纳礁）附近海域，南部战区海军已组织兵力跟踪监视。</ns0:encoded></item><item><title>萧振祥：经济开放须以民意与信心为支撑</title><link>https://www.zaobao.com.sg/finance/singapore/story20261020-9864423</link><guid isPermaLink="true">https://www.zaobao.com.sg/finance/singapore/story20261020-9864423</guid><pubDate>Tue, 20 Oct 2026 13:14:00 +0000</pubDate><category>最新</category><description>经济开放不能仅靠国内生产总值增长来吸引支持，必须以国内民意为支撑。只有让大众对未来的经济前景充满信心，开放合作才能行稳致远。</description><ns0:encoded>经济开放不能仅靠国内生产总值增长来吸引支持，必须以国内民意为支撑。只有让大众对未来的经济前景充满信心，开放合作才能行稳致远。</ns0:encoded></item><item><title>台陆委会主委：大陆已赤裸裸介入九合一选举</title><link>https://www.zaobao.com.sg/news/china/story20261020-9863742</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9863742</guid><pubDate>Tue, 20 Oct 2026 13:02:00 +0000</pubDate><category>中国</category><description>台湾九合一地方选举进入倒数阶段，台湾陆委会主委邱垂正指中国大陆已“赤裸裸”介入选举，通过跨境镇压及大规模认知作战，试图影响选民投票行为，呼吁政府与民众共同抵制境外势力介选。</description><ns0:encoded>台湾九合一地方选举进入倒数阶段，台湾陆委会主委邱垂正指中国大陆已“赤裸裸”介入选举，通过跨境镇压及大规模认知作战，试图影响选民投票行为，呼吁政府与民众共同抵制境外势力介选。</ns0:encoded></item><item><title>韩国警告朝鲜勿在边境挑衅 否则将严厉回应</title><link>https://www.zaobao.com.sg/news/world/story20261020-9864469</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261020-9864469</guid><pubDate>Tue, 20 Oct 2026 12:58:00 +0000</pubDate><category>最新</category><description>针对朝鲜威胁将加强边境军事态势，韩国国防部警告，若朝鲜将威胁付诸行动，韩方将做出严厉回应，令外界担忧朝鲜半岛紧张局势恐再加剧。</description><ns0:encoded>针对朝鲜威胁将加强边境军事态势，韩国国防部警告，若朝鲜将威胁付诸行动，韩方将做出严厉回应，令外界担忧朝鲜半岛紧张局势恐再加剧。</ns0:encoded></item><item><title>新加坡射箭好手诺莎希达 亚残运会至少锁定银牌</title><link>https://www.zaobao.com.sg/news/sports/story20261020-9864507</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261020-9864507</guid><pubDate>Tue, 20 Oct 2026 12:57:00 +0000</pubDate><category>最新</category><description>在星期二（10月20日）的爱知—名古屋亚洲残疾人运动会中，亚锦赛射箭冠军、新加坡名将诺莎希达（Nur Syahidah）在女子复合弓半决赛中以145比144险胜中国选手许雪晴，为新加坡至少锁定一枚银牌。</description><ns0:encoded>在星期二（10月20日）的爱知—名古屋亚洲残疾人运动会中，亚锦赛射箭冠军、新加坡名将诺莎希达（Nur Syahidah）在女子复合弓半决赛中以145比144险胜中国选手许雪晴，为新加坡至少锁定一枚银牌。</ns0:encoded></item><item><title>私宅租金与交易量连续两个月放缓 9月租金跌0.1%交易量跌18.6%</title><link>https://www.zaobao.com.sg/finance/singapore/story20261020-9864247</link><guid isPermaLink="true">https://www.zaobao.com.sg/finance/singapore/story20261020-9864247</guid><pubDate>Tue, 20 Oct 2026 12:38:00 +0000</pubDate><category>最新</category><description>新加坡9月非有地私宅的租赁交易进一步回落，租金下跌幅度放缓。与8月相比，租赁量少了18.6%，租金略跌0.1%。</description><ns0:encoded>新加坡9月非有地私宅的租赁交易进一步回落，租金下跌幅度放缓。与8月相比，租赁量少了18.6%，租金略跌0.1%。</ns0:encoded></item><item><title>亲绿台北市长民调：沈伯洋领先蒋万安17个百分点</title><link>https://www.zaobao.com.sg/news/china/story20261020-9864298</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9864298</guid><pubDate>Tue, 20 Oct 2026 12:38:00 +0000</pubDate><category>中国</category><description>亲绿台北市长最新民调显示，民进党参选人沈伯洋的支持度为50.3%，领先寻求连任的国民党参选人蒋万安17个百分点。</description><ns0:encoded>亲绿台北市长最新民调显示，民进党参选人沈伯洋的支持度为50.3%，领先寻求连任的国民党参选人蒋万安17个百分点。</ns0:encoded></item><item><title>本地空气素质中午逐步转差 四地区24小时PSI“不健康”</title><link>https://www.zaobao.com.sg/news/singapore/story20261020-9864418</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261020-9864418</guid><pubDate>Tue, 20 Oct 2026 12:34:00 +0000</pubDate><category>最新</category><description>除了新加坡北部，本地其他地区的24小时空气污染指数（PSI）都处于不健康水平。其中，西部空气较差，达130点。</description><ns0:encoded>除了新加坡北部，本地其他地区的24小时空气污染指数（PSI）都处于不健康水平。其中，西部空气较差，达130点。</ns0:encoded></item><item><title>美国会议员：中国大陆海警在台湾以东巡逻严重破坏稳定</title><link>https://www.zaobao.com.sg/news/china/story20261020-9864437</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9864437</guid><pubDate>Tue, 20 Oct 2026 12:32:00 +0000</pubDate><category>中国</category><description>美国国会美中经济与安全审查委员会主席薛瑞福（Randall Schriver）说，中国大陆海警在台湾以东海域巡逻“严重破坏稳定”，也是北京对台发动法律战、政治战和信息战的延伸。</description><ns0:encoded>美国国会美中经济与安全审查委员会主席薛瑞福（Randall Schriver）说，中国大陆海警在台湾以东海域巡逻“严重破坏稳定”，也是北京对台发动法律战、政治战和信息战的延伸。</ns0:encoded></item><item><title>新加坡残奥七金得主叶品秀 获格拉斯哥大学荣誉学位</title><link>https://www.zaobao.com.sg/news/sports/story20261020-9864283</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261020-9864283</guid><pubDate>Tue, 20 Oct 2026 12:23:00 +0000</pubDate><category>最新</category><description>曾在多届残奥会为我国共计斩获七枚金牌的游泳名将叶品秀，近日获授格拉斯哥大学的荣誉学位，以纪念大学创校575周年。</description><ns0:encoded>曾在多届残奥会为我国共计斩获七枚金牌的游泳名将叶品秀，近日获授格拉斯哥大学的荣誉学位，以纪念大学创校575周年。</ns0:encoded></item><item><title>性侵15岁少年还拍视频 武装部队前上尉判监17个月</title><link>https://www.zaobao.com.sg/news/singapore/story20261020-9864203</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261020-9864203</guid><pubDate>Tue, 20 Oct 2026 12:21:00 +0000</pubDate><category>最新</category><description>一名 新加坡武装部队 前上尉因性侵一名15岁少年并录下过程，被判处17个月监禁。
 
-他强调，马国愿意向印尼提供援助，并指真正的睦邻精神，就是在遇到困难时互相帮助，始终把区域人民的安全与福祉放在首位。
+41岁的周家俊承认两项性侵未成年人的控状，以及一项拍摄儿童性虐内容的控状，其余两项罪名交由法官下判时考虑，于星期二（10月20日）被判刑。
 
-马国外交部长莫哈末哈山10月12日指出，亚细安虽已建立应对水灾和火山爆发等自然灾害的机制，但跨境烟霾问题尚未纳入其中。他透露，各国外长将在下个月的亚细安峰会前，讨论应对跨境烟霾的方案。
+同案被告杜伟松（26岁），案发时是新加坡海军的一名厨师。两人都已经退伍。
 
-受访学者均支持亚细安建立烟霾应对机制。马国博特拉大学环境与职业健康系副教授哈莉扎接受《联合早报》访问时说，亚细安各国虽于2002年签署《跨境烟霾污染协定》，但由于各国利益、主权考量及执法力度不一，烟霾问题至今仍反复发生。
+杜伟松此前已被判处12个月监禁。
 
-她认为，维护区域环境安全不能只靠政治意愿，还须明确划分责任、投入充足资源，并建立共同问责机制。
+案情显示，两人在2021年至2022年曾交往一年，分手后仍保持联络。
 
-登嘉楼苏丹再纳阿比丁大学环境研究学者阿兹曼阿兹副教授认为，作为第一步，亚细安应在未来六个月内制定行动计划，设定明确的绩效目标、完善数据共享、协调防火措施，并建立各方共同议定的评估机制。
+受害者案发时是一名15岁的中学生，正在备考N水准。
 
-另一方面，安华星期一下午主持国家灾害管理委员会会议后在脸书说，会议讨论了改善国家烟霾行动计划的建议，包括完善学校停课指令，并由教育部提前部署，确保学校停课期间学生仍能继续学习。
+根据案情，受害者于2024年4月在网上交友，通过某个论坛获得杜伟松的Telegram联络方式。虽然杜伟松得知受害者是个中学生，两人还是聊起性相关话题。
 
-由于烟霾情况未见改善，柔佛州政府星期天（18日）宣布，全州教育机构从星期一起关闭至星期五（23日）。
+杜伟松称自己对某些性课题不太理解，并询问受害者是否愿意与当时32岁的周家俊见面。受害者同意后，三人于2024年4月至6月之间的某一天见面，并在某处多层停车场顶楼发生性关系。
 
-此前宣布停课的雪兰莪、吉隆坡、森美兰、马六甲、彭亨及槟城，学校已于星期一恢复上课，但暂停所有户外活动，并促请学生戴口罩。</ns0:encoded></item><item><title>下午察：解放军与美日海上大斗法？</title><link>https://www.zaobao.com.sg/news/china/story20261019-9861765</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261019-9861765</guid><pubDate>Mon, 19 Oct 2026 22:06:00 +0000</pubDate><category>中国</category><description>“中国（大陆）这次下了大本钱，把威力全面展示给日本看，就是说我同时可以应付日本北边一直到南边，到南中国海，菲律宾更不在话下。这个对日本来讲威胁很大。”</description><ns0:encoded>“中国（大陆）这次下了大本钱，把威力全面展示给日本看，就是说我同时可以应付日本北边一直到南边，到南中国海，菲律宾更不在话下。这个对日本来讲威胁很大。”</ns0:encoded></item><item><title>旧景旧物唤起昔日回忆 失智症关怀计划扩大至27家中心</title><link>https://www.zaobao.com.sg/news/singapore/story20261019-9862112</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261019-9862112</guid><pubDate>Mon, 19 Oct 2026 21:45:00 +0000</pubDate><category>最新</category><description>85岁的符业忠望着大屏幕，若有所思，几次欲言又止，显得有些拘谨。直到三轮车、电影院和木屐等熟悉的旧时景物出现在眼前，他才在失智症护理专员的引导下，渐渐打开话匣子。</description><ns0:encoded>85岁的符业忠望着大屏幕，若有所思，几次欲言又止，显得有些拘谨。直到三轮车、电影院和木屐等熟悉的旧时景物出现在眼前，他才在失智症护理专员的引导下，渐渐打开话匣子。</ns0:encoded></item><item><title>NBA新季战火重燃 卫冕冠军尼克斯硬碰76人“豪华战舰”</title><link>https://www.zaobao.com.sg/news/sports/story20261019-9860744</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261019-9860744</guid><pubDate>Mon, 19 Oct 2026 21:25:00 +0000</pubDate><category>最新</category><description>经历四个月的休赛期后，美国职业篮球赛（NBA）将在新加坡时间星期三（10月21日）重燃战火。卫冕冠军纽约尼克斯（New York Knicks）将迎战由詹姆斯（James）领衔的费城76人（Philadelphia 76ers）豪华阵容，为新季NBA赚足看点。</description><ns0:encoded>经历四个月的休赛期后，美国职业篮球赛（NBA）将在新加坡时间星期三（10月21日）重燃战火。卫冕冠军纽约尼克斯（New York Knicks）将迎战由詹姆斯（James）领衔的费城76人（Philadelphia 76ers）豪华阵容，为新季NBA赚足看点。</ns0:encoded></item><item><title>中国推进金融制度型开放 支持外资机构及长期资本赴华展业</title><link>https://www.zaobao.com.sg/news/china/story20261019-9862262</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261019-9862262</guid><pubDate>Mon, 19 Oct 2026 21:24:00 +0000</pubDate><category>中国</category><description>中国国家金融监督管理总局局长丁向群说，将扎实推进金融领域制度型开放各项举措，支持更多外资机构和长期资本赴华展业兴业。</description><ns0:encoded>中国国家金融监督管理总局局长丁向群说，将扎实推进金融领域制度型开放各项举措，支持更多外资机构和长期资本赴华展业兴业。</ns0:encoded></item><item><title>缅甸政局动荡沦为制毒温床 东亚与东南亚冰毒查获量大增48%</title><link>https://www.zaobao.com.sg/news/sea/story20261019-9862234</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261019-9862234</guid><pubDate>Mon, 19 Oct 2026 21:22:00 +0000</pubDate><category>最新</category><description>（曼谷/仰光讯）缅甸陷入长期内战，沦为廉价毒品制造温床，源源不断出口毒品，导致东亚与东南亚地区的冰毒查获量创下历史新高。</description><ns0:encoded>（曼谷/仰光讯）缅甸陷入长期内战，沦为廉价毒品制造温床，源源不断出口毒品，导致东亚与东南亚地区的冰毒查获量创下历史新高。</ns0:encoded></item><item><title>【红蚂蚁】组屋设计在变 我们对组屋想象却未必</title><link>https://www.zaobao.com.sg/news/singapore/story20261019-9860580</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261019-9860580</guid><pubDate>Mon, 19 Oct 2026 21:14:00 +0000</pubDate><category>最新</category><description>大家最近刷手机的时候，可能看到一条以“最糟糕的BTO四房厨房设计”为标题的视频，视频里的装修承包商一面用卷尺测量一间四房式预购组屋的厨房空间，一面猛摇头，不停地抱怨空间狭小，不实际等。</description><ns0:encoded>大家最近刷手机的时候，可能看到一条以“最糟糕的BTO四房厨房设计”为标题的视频，视频里的装修承包商一面用卷尺测量一间四房式预购组屋的厨房空间，一面猛摇头，不停地抱怨空间狭小，不实际等。</ns0:encoded></item><item><title>周一美市期货回升 科技股反弹聚焦即将公布的重磅财报</title><link>https://www.zaobao.com.sg/finance/world/story20261019-9858787</link><guid isPermaLink="true">https://www.zaobao.com.sg/finance/world/story20261019-9858787</guid><pubDate>Mon, 19 Oct 2026 21:12:00 +0000</pubDate><category>最新</category><description>周一美市期货回升 科技股反弹聚焦即将公布的重磅财报 - 《联合早报》是全球华文用户信任的媒体，每天与你分享关于政治、社会、文化等热门议题的言论与观点。深入探讨各种议题，尽在zaobao.com.sg。</description><ns0:encoded>周一美市期货回升 科技股反弹聚焦即将公布的重磅财报 - 《联合早报》是全球华文用户信任的媒体，每天与你分享关于政治、社会、文化等热门议题的言论与观点。深入探讨各种议题，尽在zaobao.com.sg。</ns0:encoded></item><item><title>遏制投机与房价飙升 越南拟修法禁止外国人购买有地住宅</title><link>https://www.zaobao.com.sg/news/sea/story20261019-9862173</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sea/story20261019-9862173</guid><pubDate>Mon, 19 Oct 2026 21:05:00 +0000</pubDate><category>最新</category><description>（河内综合讯）越南政府拟议大幅修订住房法，全面禁止外国人购买包括独立式洋房、别墅及排屋在内的所有有地住宅，仅允许外籍人士购买高楼公寓，以遏制房地产投机风气和平抑飙升的房价。</description><ns0:encoded>（河内综合讯）越南政府拟议大幅修订住房法，全面禁止外国人购买包括独立式洋房、别墅及排屋在内的所有有地住宅，仅允许外籍人士购买高楼公寓，以遏制房地产投机风气和平抑飙升的房价。</ns0:encoded></item></channel></rss>
+被告将过程拍下来，并在事后将视频发送给杜伟松。
+
+2024年6月5日，周家俊和受害者在某商场见面，并在厕所内发生性关系。周家俊再次用手机拍下过程。周家俊事后被捕，并将所拍下的视频称为“私人珍藏”。
+
+受害者的家人后来发现他与成年男子交往，并一直收到周家俊的礼物，从而得知两人的关系，便带他到警局报案。警方随后逮捕周家俊和杜伟松两人。
+
+法官下判时指出，无论受害者是自愿或非自愿；无论被告是否使用诱导或强迫手段犯案，法律的意图是保护未成年人免遭成年人剥削，因此必须严惩被告以儆效尤，判处被告坐牢17个月。
+
+新加坡武装部队受询时说，武装部队对军人维持高标准的纪律和诚信要求，违法人员将依法处理。周家俊在2024年被捕后已被停职。他此后已卸下正规服役职务，不再属于新加坡武装部队人员。（人名译音）</description><ns0:encoded>一名 新加坡武装部队 前上尉因性侵一名15岁少年并录下过程，被判处17个月监禁。
+
+41岁的周家俊承认两项性侵未成年人的控状，以及一项拍摄儿童性虐内容的控状，其余两项罪名交由法官下判时考虑，于星期二（10月20日）被判刑。
+
+同案被告杜伟松（26岁），案发时是新加坡海军的一名厨师。两人都已经退伍。
+
+杜伟松此前已被判处12个月监禁。
+
+案情显示，两人在2021年至2022年曾交往一年，分手后仍保持联络。
+
+受害者案发时是一名15岁的中学生，正在备考N水准。
+
+根据案情，受害者于2024年4月在网上交友，通过某个论坛获得杜伟松的Telegram联络方式。虽然杜伟松得知受害者是个中学生，两人还是聊起性相关话题。
+
+杜伟松称自己对某些性课题不太理解，并询问受害者是否愿意与当时32岁的周家俊见面。受害者同意后，三人于2024年4月至6月之间的某一天见面，并在某处多层停车场顶楼发生性关系。
+
+被告将过程拍下来，并在事后将视频发送给杜伟松。
+
+2024年6月5日，周家俊和受害者在某商场见面，并在厕所内发生性关系。周家俊再次用手机拍下过程。周家俊事后被捕，并将所拍下的视频称为“私人珍藏”。
+
+受害者的家人后来发现他与成年男子交往，并一直收到周家俊的礼物，从而得知两人的关系，便带他到警局报案。警方随后逮捕周家俊和杜伟松两人。
+
+法官下判时指出，无论受害者是自愿或非自愿；无论被告是否使用诱导或强迫手段犯案，法律的意图是保护未成年人免遭成年人剥削，因此必须严惩被告以儆效尤，判处被告坐牢17个月。
+
+新加坡武装部队受询时说，武装部队对军人维持高标准的纪律和诚信要求，违法人员将依法处理。周家俊在2024年被捕后已被停职。他此后已卸下正规服役职务，不再属于新加坡武装部队人员。（人名译音）</ns0:encoded></item><item><title>特朗普宣布拨款80亿美元补贴农民秋收柴油成本</title><link>https://www.zaobao.com.sg/news/world/story20261020-9864306</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261020-9864306</guid><pubDate>Tue, 20 Oct 2026 12:16:00 +0000</pubDate><category>最新</category><description>正努力为中期选举共和党参选人拉票的美国总统特朗普宣布，农业部将推出一项80亿美元（约亿新元）的援助计划，以补贴美国农民今年秋收的柴油开销。</description><ns0:encoded>正努力为中期选举共和党参选人拉票的美国总统特朗普宣布，农业部将推出一项80亿美元（约亿新元）的援助计划，以补贴美国农民今年秋收的柴油开销。</ns0:encoded></item><item><title>习近平致信贺中央社会主义学院：加强政治培训凝聚共识</title><link>https://www.zaobao.com.sg/news/china/story20261020-9864330</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/china/story20261020-9864330</guid><pubDate>Tue, 20 Oct 2026 12:09:00 +0000</pubDate><category>中国</category><description>中国国家主席习近平致信祝贺中央社会主义学院建院70周年，强调学院应坚持正确办学方向，加强政治培训和凝聚政治共识，更好服务中共和国家工作大局。</description><ns0:encoded>中国国家主席习近平致信祝贺中央社会主义学院建院70周年，强调学院应坚持正确办学方向，加强政治培训和凝聚政治共识，更好服务中共和国家工作大局。</ns0:encoded></item><item><title>OpenAI加快筹资步伐 估值或超1.4万亿美元</title><link>https://www.zaobao.com.sg/finance/world/story20261020-9864157</link><guid isPermaLink="true">https://www.zaobao.com.sg/finance/world/story20261020-9864157</guid><pubDate>Tue, 20 Oct 2026 12:05:00 +0000</pubDate><category>最新</category><description>知情人士透露，人工智能公司OpenAI正加快筹资步伐，力争在竞争对手Anthropic预计于11月中旬首次公开售股（IPO）前，取得投资者承诺。这轮规模约300亿美元（约384亿新元）的融资，可能使OpenAI估值超过1.4万亿美元。</description><ns0:encoded>知情人士透露，人工智能公司OpenAI正加快筹资步伐，力争在竞争对手Anthropic预计于11月中旬首次公开售股（IPO）前，取得投资者承诺。这轮规模约300亿美元（约384亿新元）的融资，可能使OpenAI估值超过1.4万亿美元。</ns0:encoded></item><item><title>欧冠赛场变“老友记” 红军主场誓沉黄色潜水艇</title><link>https://www.zaobao.com.sg/news/sports/story20261020-9863802</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261020-9863802</guid><pubDate>Tue, 20 Oct 2026 12:02:00 +0000</pubDate><category>最新</category><description>新加坡时间星期三（10月21日）凌晨3时，“红军”利物浦（Liverpool）将主场迎战西甲劲旅“黄色潜水艇”比利亚雷亚尔（Villarreal）。这不仅是两队时隔四年后在欧冠赛场的再度碰头，更是红军主帅伊拉奥拉（Iraola）与昔日挚友、黄潜主帅佩雷斯（Perez）间的特别交锋。</description><ns0:encoded>新加坡时间星期三（10月21日）凌晨3时，“红军”利物浦（Liverpool）将主场迎战西甲劲旅“黄色潜水艇”比利亚雷亚尔（Villarreal）。这不仅是两队时隔四年后在欧冠赛场的再度碰头，更是红军主帅伊拉奥拉（Iraola）与昔日挚友、黄潜主帅佩雷斯（Perez）间的特别交锋。</ns0:encoded></item><item><title>研究：AI可仅凭一张面部照片预测癌症患者存活率</title><link>https://www.zaobao.com.sg/news/world/story20261020-9864152</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261020-9864152</guid><pubDate>Tue, 20 Oct 2026 11:52:00 +0000</pubDate><category>最新</category><description>人工智能只看脸，就能知道病人还能活多久，这可信吗？
+
+彭博社报道，美国研究人员开发出一款人工智能（AI）工具，可以通过一张面部照片，预测癌症患者的存活率，并希望这款工具可以辅助医生的直觉判断，协助指导治疗决策。
+
+根据新起义发表在医学期刊《柳叶刀·数码医疗》（Lancet Digital Health）上的研究报告，这款工具会通过面部照片为患者进行风险评分，而得分最高的患者在90天内死亡的可能性更大。
+
+研究团队介绍，这个新模型在训练中使用了超过4000万张人脸图像，以及3万多名癌症患者的照片，其中很多人已经死亡。经过训练后，模型可估算一个人的年龄，或预测癌症患者的存活机会。
+
+论文指出，这款AI工具估算年龄的误差范围约为五岁，且能可靠地将癌症患者划分至高风险或低风险群组，而事实证明不同群组的死亡风险确实存在差异。研究团队称，这款模型适用于不同年龄、种族、性别及癌症类型的患者。
+
+研究人员也说，这项研究成果属于全球首创。
+
+研究报告作者之一、美国马萨诸塞州总医院百瀚癌症研究所（Mass General Brigham Cancer Institute）放射肿瘤学家麦雷蒙（Raymond Mak，译音）指出，医生虽受过训练，可以凭借患者的外貌气色来评估病情，但他们“在估算临终预期寿命方面通常不太准确”。
+
+他认为，借助AI可以更好地凭借患者的面部特征评估死亡风险，并称这款AI工具在预测存活率方面的出色表现令他感到惊讶。
+
+团队发现，模型算法主要通过照片中患者鼻梁和眼睛正下方的区域来进行评估。麦雷蒙查阅资料后发现，古希腊名医希波克拉底（Hippocrates）就曾提出，眼窝和太阳穴凹陷以及鼻子变尖，是临终前的人早期出现的身体征兆。
+
+不过麦雷蒙也说，这款工具不太可能被用来拒绝向患者提供药物或限制他们获取治疗。他认为，这项工具只是“让医生多掌握一项参考信息的途径”。
+
+没有参与研究的英国萨里大学（University of Surrey）视频处理与机器学习教授博伯（Miroslaw Bober）也认为，这款AI工具尚未准备好投入临床使用。
+
+博伯指出：“预测结果与解释结果并非同一回事。这项研究并未考察医生对患者整体健康与体能状况的评估，因此无法证明这些（AI）预测能提供超越医生评估的临床有用信息。”</description><ns0:encoded>人工智能只看脸，就能知道病人还能活多久，这可信吗？
+
+彭博社报道，美国研究人员开发出一款人工智能（AI）工具，可以通过一张面部照片，预测癌症患者的存活率，并希望这款工具可以辅助医生的直觉判断，协助指导治疗决策。
+
+根据新起义发表在医学期刊《柳叶刀·数码医疗》（Lancet Digital Health）上的研究报告，这款工具会通过面部照片为患者进行风险评分，而得分最高的患者在90天内死亡的可能性更大。
+
+研究团队介绍，这个新模型在训练中使用了超过4000万张人脸图像，以及3万多名癌症患者的照片，其中很多人已经死亡。经过训练后，模型可估算一个人的年龄，或预测癌症患者的存活机会。
+
+论文指出，这款AI工具估算年龄的误差范围约为五岁，且能可靠地将癌症患者划分至高风险或低风险群组，而事实证明不同群组的死亡风险确实存在差异。研究团队称，这款模型适用于不同年龄、种族、性别及癌症类型的患者。
+
+研究人员也说，这项研究成果属于全球首创。
+
+研究报告作者之一、美国马萨诸塞州总医院百瀚癌症研究所（Mass General Brigham Cancer Institute）放射肿瘤学家麦雷蒙（Raymond Mak，译音）指出，医生虽受过训练，可以凭借患者的外貌气色来评估病情，但他们“在估算临终预期寿命方面通常不太准确”。
+
+他认为，借助AI可以更好地凭借患者的面部特征评估死亡风险，并称这款AI工具在预测存活率方面的出色表现令他感到惊讶。
+
+团队发现，模型算法主要通过照片中患者鼻梁和眼睛正下方的区域来进行评估。麦雷蒙查阅资料后发现，古希腊名医希波克拉底（Hippocrates）就曾提出，眼窝和太阳穴凹陷以及鼻子变尖，是临终前的人早期出现的身体征兆。
+
+不过麦雷蒙也说，这款工具不太可能被用来拒绝向患者提供药物或限制他们获取治疗。他认为，这项工具只是“让医生多掌握一项参考信息的途径”。
+
+没有参与研究的英国萨里大学（University of Surrey）视频处理与机器学习教授博伯（Miroslaw Bober）也认为，这款AI工具尚未准备好投入临床使用。
+
+博伯指出：“预测结果与解释结果并非同一回事。这项研究并未考察医生对患者整体健康与体能状况的评估，因此无法证明这些（AI）预测能提供超越医生评估的临床有用信息。”</ns0:encoded></item><item><title>新元债券市场迎来首家文莱银行发债</title><link>https://www.zaobao.com.sg/finance/singapore/story20261020-9864022</link><guid isPermaLink="true">https://www.zaobao.com.sg/finance/singapore/story20261020-9864022</guid><pubDate>Tue, 20 Oct 2026 11:34:00 +0000</pubDate><category>最新</category><description>文莱佰都利银行（Baiduri Bank）首次在新加坡发行新元债券，这也是文莱金融机构首次进军国际债券市场，发行总额2亿8000万元的三年期高级无抵押债券。</description><ns0:encoded>文莱佰都利银行（Baiduri Bank）首次在新加坡发行新元债券，这也是文莱金融机构首次进军国际债券市场，发行总额2亿8000万元的三年期高级无抵押债券。</ns0:encoded></item><item><title>女子晨跑体验刷外墙 网友赞温馨也忧客工受罚</title><link>https://www.zaobao.com.sg/news/singapore/story20261020-9861044</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261020-9861044</guid><pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate><category>最新</category><description>晨跑不只为运动，还能解锁30秒“粉刷工”支线任务？一名女子在蔡厝港住家附近晨跑时，临时起意拿起滚筒刷，为组屋外墙添上一抹白漆。这段意外体验引来网友两极化反应：有人点赞人与人之间的温暖互动，也有人担心客工因此惹上麻烦。</description><ns0:encoded>晨跑不只为运动，还能解锁30秒“粉刷工”支线任务？一名女子在蔡厝港住家附近晨跑时，临时起意拿起滚筒刷，为组屋外墙添上一抹白漆。这段意外体验引来网友两极化反应：有人点赞人与人之间的温暖互动，也有人担心客工因此惹上麻烦。</ns0:encoded></item><item><title>擅自离开葡萄牙国家队 帅罗被禁赛30天罚款366元</title><link>https://www.zaobao.com.sg/news/sports/story20261020-9863836</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/sports/story20261020-9863836</guid><pubDate>Tue, 20 Oct 2026 11:16:00 +0000</pubDate><category>最新</category><description>（里斯本综合电）“帅罗”罗纳尔多（Ronaldo）因在本月初的欧洲国家联赛征战期间擅自离开葡萄牙国家队，遭葡萄牙足总罚款255欧元（约366新元），并处以30天停赛。</description><ns0:encoded>（里斯本综合电）“帅罗”罗纳尔多（Ronaldo）因在本月初的欧洲国家联赛征战期间擅自离开葡萄牙国家队，遭葡萄牙足总罚款255欧元（约366新元），并处以30天停赛。</ns0:encoded></item><item><title>新电信合资企业Mynt首日交易股价高开6.63比索 比发售价高0.5%</title><link>https://www.zaobao.com.sg/finance/world/story20261020-9863782</link><guid isPermaLink="true">https://www.zaobao.com.sg/finance/world/story20261020-9863782</guid><pubDate>Tue, 20 Oct 2026 11:14:00 +0000</pubDate><category>最新</category><description>新电信关联公司Mynt在菲律宾证券交易所交易首日，股价高开6.63比索（约0.13新元）。Mynt也是菲律宾有史以来最大规模的首次公开售股（IPO），以及亚细安2021年来最大的IPO，共筹集530亿比索。</description><ns0:encoded>新电信关联公司Mynt在菲律宾证券交易所交易首日，股价高开6.63比索（约0.13新元）。Mynt也是菲律宾有史以来最大规模的首次公开售股（IPO），以及亚细安2021年来最大的IPO，共筹集530亿比索。</ns0:encoded></item><item><title>若条件允许 飞萤航空计划于10月22日全面复航</title><link>https://www.zaobao.com.sg/news/singapore/story20261020-9863705</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261020-9863705</guid><pubDate>Tue, 20 Oct 2026 11:08:00 +0000</pubDate><category>新加坡</category><description>在评估了最新的天气和烟霾情况后，马来西亚廉价航空公司飞萤航空计划于星期四（10月22日）全面恢复吉隆坡梳邦机场与新加坡实里达机场之间的航班。</description><ns0:encoded>在评估了最新的天气和烟霾情况后，马来西亚廉价航空公司飞萤航空计划于星期四（10月22日）全面恢复吉隆坡梳邦机场与新加坡实里达机场之间的航班。</ns0:encoded></item><item><title>小印度商店疑现“电子扒手” 42岁男子靠近顾客钱包口袋被捕</title><link>https://www.zaobao.com.sg/news/singapore/story20261020-9863267</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/singapore/story20261020-9863267</guid><pubDate>Tue, 20 Oct 2026 11:02:00 +0000</pubDate><category>新加坡</category><description>电子装置藏在袋中，专往顾客装钱包的口袋靠？一名42岁男子涉嫌在商店内携带电子装置，悄悄靠近顾客装有钱包的口袋，企图非法获取银行卡资料，结果因行迹可疑被保安人员识破，当场扣留并移交警方。</description><ns0:encoded>电子装置藏在袋中，专往顾客装钱包的口袋靠？一名42岁男子涉嫌在商店内携带电子装置，悄悄靠近顾客装有钱包的口袋，企图非法获取银行卡资料，结果因行迹可疑被保安人员识破，当场扣留并移交警方。</ns0:encoded></item><item><title>伊朗将122艘船列入霍尔木兹海峡“违规名单”</title><link>https://www.zaobao.com.sg/news/world/story20261020-9863846</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261020-9863846</guid><pubDate>Tue, 20 Oct 2026 10:59:00 +0000</pubDate><category>最新</category><description>伊朗当局已将122艘船只列入霍尔木兹海峡的“违规名单”，并已对其中40多艘采取了行动。
+
+新华社引述伊朗媒体报道，伊朗波斯湾海峡管理局星期二（10月20日）发布声明称，截至目前，已将122艘船只列入“违规船只名单”。
+
+报道称，被列入名单的船只涉嫌违反伊朗关于通过霍尔木兹海峡的相关规定，未来通行将受到限制。
+
+伊朗波斯湾海峡管理局称，已对名单上的40多艘船只采取了行动。目前，有19艘船只正与当局进行协商，以避免被列入名单或争取从名单中移除；另有两艘船只已同意履行相关义务，得以从名单中被移除。
+
+伊朗当局称，近30艘船只已收到警告，若未能采取必要整改措施，将被列入该名单。同时，对于那些主动纠正违规行为的船只，当局将提供一定协助。</description><ns0:encoded>伊朗当局已将122艘船只列入霍尔木兹海峡的“违规名单”，并已对其中40多艘采取了行动。
+
+新华社引述伊朗媒体报道，伊朗波斯湾海峡管理局星期二（10月20日）发布声明称，截至目前，已将122艘船只列入“违规船只名单”。
+
+报道称，被列入名单的船只涉嫌违反伊朗关于通过霍尔木兹海峡的相关规定，未来通行将受到限制。
+
+伊朗波斯湾海峡管理局称，已对名单上的40多艘船只采取了行动。目前，有19艘船只正与当局进行协商，以避免被列入名单或争取从名单中移除；另有两艘船只已同意履行相关义务，得以从名单中被移除。
+
+伊朗当局称，近30艘船只已收到警告，若未能采取必要整改措施，将被列入该名单。同时，对于那些主动纠正违规行为的船只，当局将提供一定协助。</ns0:encoded></item><item><title>马斯克：明年向每个美国儿童赠送一股SpaceX股票</title><link>https://www.zaobao.com.sg/news/world/story20261020-9863720</link><guid isPermaLink="true">https://www.zaobao.com.sg/news/world/story20261020-9863720</guid><pubDate>Tue, 20 Oct 2026 10:46:00 +0000</pubDate><category>最新</category><description>美国亿万富豪马斯克承诺，明年向每名美国儿童赠送一股太空探索技术公司（SpaceX）股票。
+
+马斯克星期一（10月19日）在社交媒体X上宣布了这个决定，并称这只是众多派发行动的开始。
+
+根据美国人口普查局的估算，美国约有7200万名儿童。按当前SpaceX的股价计算，这项捐赠的股票总值约为107亿美元（约137亿新元）。不过，SpaceX的股价波动相当大。
+
+虽然马斯克并未具体说明打算如何进行这项捐赠，但彭博社引述一名知情人士称，他已原则上同意通过“特朗普账户”（Trump Accounts）计划来派发这批股票。SpaceX没有回应相关的置评请求。
+
+“特朗普账户”计划是根据美国总统特朗普去年签署的税收与支出法案所设立，旨在为2025年至2028年间出生的美国儿童提供1000美元的启动资金。
+
+此前，戴尔公司创办人迈克尔·戴尔（Michael Dell）与妻子苏珊，以及桥水基金（Bridgewater Associates）创办人达利欧（Ray Dalio）等亿万富翁均已承诺为这个计划注资。如今，马斯克可能成为它的又一名重量级支持者。
+
+特朗普曾在今年7月表示，预计马斯克会为“特朗普账户”计划做出贡献。大约在同一时间，SpaceX总裁肖特韦尔（Gwynne Shotwell）透露，她与丈夫已通过“特朗普账户”，向超过200万名美国儿童赠送了SpaceX股票。
+
+特朗普星期一也在社交媒体发文 ，感谢马斯克的慷慨捐助。他写道：“非常感谢我们的传奇朋友埃隆·马斯克，感谢他无比慷慨地通过‘特朗普账户’向数以百万计的美国儿童赠送SpaceX股票！”
+
+不过，马斯克过去曾多次抛出最终未能兑现的想法，或是提出一些事后被他以开玩笑为由敷衍过去的计划。
+
+在马斯克宣布赠送股票几小时前，他在人工智能（AI）领域的竞争对手Anthropic刚宣布，将公司5%的股份注入一个新基金，用于进行促进“公共利益”的捐赠，帮助应对AI对劳动力市场造成的冲击。
+
+当时，马斯克曾在Anthropic的帖子下留言，建议把股票“直接分给公众”。</description><ns0:encoded>美国亿万富豪马斯克承诺，明年向每名美国儿童赠送一股太空探索技术公司（SpaceX）股票。
+
+马斯克星期一（10月19日）在社交媒体X上宣布了这个决定，并称这只是众多派发行动的开始。
+
+根据美国人口普查局的估算，美国约有7200万名儿童。按当前SpaceX的股价计算，这项捐赠的股票总值约为107亿美元（约137亿新元）。不过，SpaceX的股价波动相当大。
+
+虽然马斯克并未具体说明打算如何进行这项捐赠，但彭博社引述一名知情人士称，他已原则上同意通过“特朗普账户”（Trump Accounts）计划来派发这批股票。SpaceX没有回应相关的置评请求。
+
+“特朗普账户”计划是根据美国总统特朗普去年签署的税收与支出法案所设立，旨在为2025年至2028年间出生的美国儿童提供1000美元的启动资金。
+
+此前，戴尔公司创办人迈克尔·戴尔（Michael Dell）与妻子苏珊，以及桥水基金（Bridgewater Associates）创办人达利欧（Ray Dalio）等亿万富翁均已承诺为这个计划注资。如今，马斯克可能成为它的又一名重量级支持者。
+
+特朗普曾在今年7月表示，预计马斯克会为“特朗普账户”计划做出贡献。大约在同一时间，SpaceX总裁肖特韦尔（Gwynne Shotwell）透露，她与丈夫已通过“特朗普账户”，向超过200万名美国儿童赠送了SpaceX股票。
+
+特朗普星期一也在社交媒体发文 ，感谢马斯克的慷慨捐助。他写道：“非常感谢我们的传奇朋友埃隆·马斯克，感谢他无比慷慨地通过‘特朗普账户’向数以百万计的美国儿童赠送SpaceX股票！”
+
+不过，马斯克过去曾多次抛出最终未能兑现的想法，或是提出一些事后被他以开玩笑为由敷衍过去的计划。
+
+在马斯克宣布赠送股票几小时前，他在人工智能（AI）领域的竞争对手Anthropic刚宣布，将公司5%的股份注入一个新基金，用于进行促进“公共利益”的捐赠，帮助应对AI对劳动力市场造成的冲击。
+
+当时，马斯克曾在Anthropic的帖子下留言，建议把股票“直接分给公众”。</ns0:encoded></item><item><title>Anthropic据悉和Nscale洽谈购买450亿美元云算力</title><link>https://www.zaobao.com.sg/finance/world/story20261020-9863696</link><guid isPermaLink="true">https://www.zaobao.com.sg/finance/world/story20261020-9863696</guid><pubDate>Tue, 20 Oct 2026 10:44:00 +0000</pubDate><category>最新</category><description>知情人士称，AI云计算公司Nscale正在洽谈向Anthropic出售算力，潜在交易价值约450亿美元（约576亿新元）。</description><ns0:encoded>知情人士称，AI云计算公司Nscale正在洽谈向Anthropic出售算力，潜在交易价值约450亿美元（约576亿新元）。</ns0:encoded></item></channel></rss>
